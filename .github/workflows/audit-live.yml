@@ -1,0 +1,53 @@
+name: Audit Breviars.lv production files
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-live.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Compare live files with repository
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import concurrent.futures, hashlib, pathlib, subprocess, urllib.error, urllib.parse, urllib.request
+          host = 'https://breviars.lv/'
+          skip_ext = {'.xlsx', '.csv', '.zip', '.txt'}
+          paths = [p.decode() for p in subprocess.check_output(['git','ls-files','-z']).split(b'\0') if p]
+          paths = [p for p in paths if not p.startswith('.github/') and not p.startswith('.') and pathlib.Path(p).suffix.lower() not in skip_ext]
+          def check(path):
+              url = host + urllib.parse.quote(path, safe='/')
+              req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (Breviars-source-audit)','Accept':'*/*'})
+              try:
+                  with urllib.request.urlopen(req, timeout=20) as resp:
+                      status=resp.status
+                      typ=resp.headers.get('Content-Type', '').lower()
+                      data=resp.read(5_000_001)
+                  if status != 200: return ('NOT_FOUND',path,str(status))
+                  if len(data)>5_000_000: return ('TOO_LARGE',path,str(len(data)))
+                  ext=pathlib.Path(path).suffix.lower()
+                  if ext in ('.js','.css','.json') and ('text/html' in typ or data.lstrip().lower().startswith(b'<!doctype html')):
+                      return ('UNEXPECTED_HTML',path,typ)
+                  original=pathlib.Path(path).read_bytes()
+                  sh=lambda x: hashlib.sha256(x).hexdigest()[:16]
+                  if data==original: return ('SAME',path,str(len(data)))
+                  return ('DIFFERENT',path,'live='+str(len(data))+':'+sh(data)+' git='+str(len(original))+':'+sh(original))
+              except urllib.error.HTTPError as e:
+                  return ('HTTP_ERROR',path,str(e.code))
+              except Exception as e:
+                  return ('FETCH_ERROR',path,str(e)[:130])
+          with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+              results=list(pool.map(check,paths))
+          counts={}
+          for status,path,detail in results:
+              counts[status]=counts.get(status,0)+1
+              print(status, path, detail, flush=True)
+          print('AUDIT_SUMMARY',repr(counts), flush=True)
+          PY
