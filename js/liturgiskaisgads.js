@@ -501,12 +501,16 @@ const rubricella = function() {
 		gads[d].lugsana = "Dievs, Tu savas varenības godam un cilvēces pestīšanai savu viendzimušo Dēlu esi iecēlis par augsto un mūžīgo priesteri. Liec, lai Svētais Gars palīdz tiem, ko Viņš ir izvēlējies par kalpiem un savu noslēpumu dalītājiem, uzticīgi pildīt saņemto kalpojumu. " + noslegums1
     }
     if (gads[d].datums.valueOf() == cal.trisvieniba.valueOf()) {
-      sunday = "VISSVĒTĀ TRĪSVIENĪBA, obligātās svinības";
-      gads[d].krasa = "white";
-      gads[d].prior = 5;
-      gads[d].svetki = sunday;
-	  gads[d].vesperesI = true;
-	  gads[d].liturgija = "festum-0-Trinitas";
+		sunday = "VISSVĒTĀ TRĪSVIENĪBA, obligātās svinības";
+		gads[d].mobil = true;
+		gads[d].mobilValue = "Trinitas";
+		gads[d].krasa = "white";
+		gads[d].prior = 5;
+		gads[d].Type = "svētki";
+		gads[d].svetki = sunday;
+		gads[d].vesperesI = true;
+		gads[d].liturgija = "festum-0-Trinitas";
+		gads[d].lugsana = "Dievs Tēvs, Tu sūtot pasaulē savu patiesības Vārdu un Svētdarītāju Garu, esi atklājis cilvēkiem Tavas dabas brīnumaino noslēpumu, dari, lai mēs, praktizējot patieso ticību, atzītu mūžīgās Trīsvienības godību un pielūgtu Vienību tās majestātiskajā varenībā.  " + noslegums1
     }
     if (gads[d].datums.valueOf() == cal.karalis.valueOf()) {
       sunday = "MŪSU KUNGS JĒZUS KRISTUS, VISPASAULES KARALIS, svinības";
@@ -518,31 +522,41 @@ const rubricella = function() {
 	  gads[d].liturgija = "festum-0-Rex";
     }
     if (gads[d].datums.valueOf() == cal.miesaasins.valueOf()) {
-      sunday = "KRISTUS VISSVĒTĀ MIESA UN ASINIS, obligātās svinības";
-      gads[d].krasa = "white";
-      gads[d].prior = 5;
-      gads[d].svetki = sunday;
-	  gads[d].vesperesI = true;
-	  gads[d].liturgija = "festum-0-CorpusChristi";
+		sunday = "KRISTUS VISSVĒTĀ MIESA UN ASINIS, obligātās svinības";
+		gads[d].mobil = true;
+		gads[d].mobilValue = "CorpusChristi";
+		gads[d].krasa = "white";
+		gads[d].prior = 5;
+		gads[d].Type = "svētki";
+		gads[d].svetki = sunday;
+		gads[d].vesperesI = true;
+		gads[d].liturgija = "festum-0-CorpusChristi";
+		gads[d].lugsana = "Dievs, Tu brīnišķajā Sakramentā esi mums atstājis savu ciešanu piemiņu, – Tevi lūdzam, dari, ka mēs Tavas Miesas un Asiņu svēto noslēpumu tā godinām, lai varētu pastāvīgi saņemt Tavas pestīšanas augļus. " + noslegums3
     }
     if (gads[d].datums.valueOf() == cal.jezussirds.valueOf()) {
-      sunday = "VISSVĒTĀ JĒZUS SIRDS, svinības";
-      gads[d].krasa = "white";
-      gads[d].prior = 5;
-      gads[d].svetki = sunday;
-	  gads[d].vesperesI = true;
-	  gads[d].liturgija = "festum-0-JezusSirds";
+		sunday = "VISSVĒTĀ JĒZUS SIRDS, svinības";
+		gads[d].mobil = true;
+		gads[d].mobilValue = "JezusSirds";
+		gads[d].krasa = "white";
+		gads[d].prior = 5;
+		gads[d].Type = "svētki";
+		gads[d].svetki = sunday;
+		gads[d].vesperesI = true;
+		gads[d].liturgija = "festum-0-JezusSirds";
+		gads[d].lugsana = "Visvarenais Dievs, dari, lai mēs, kas, godinot Tava mīļotā Dēla Sirdi, pieminam Viņa mīlestības brīnumdarbus mūsu labā, no šī debesu dāvanu avota saņemtu žēlastību pārpilnībā. " + noslegums1
     }
     if (gads[d].datums.valueOf() == cal.marijasirds.valueOf()) {
       sunday = "Vissv. Jaunavas Marijas Bezvainīgā Sirds,<br>piemiņas diena";
-      gads[d].krasa = "white";
-      gads[d].prior = 10;
-      gads[d].svetki = sunday;
-	  gads[d].vesperesI = false;
-	  gads[d].N = "Marijas Bezvainīgā Sirds";
-	  gads[d].benedictus = "Mana sirds un mana miesa līksmi sauc uz dzīvo Dievu.";
-	  gads[d].lugsana = "Dievs, Tu Vissvētākās Jaunavas Marijas Sirdi esi sagatavojis Svētajam Garam par cienīgu mājokli, viņas aizlūgumu dēļ palīdzi arī mums kļūt par Tavas godības svētnīcu. " + noslegums1;
-	  gads[d].liturgija = "festum-0-MarijaiMem";  // "festum-0-MarijaSirds";
+		gads[d].mobil = true;
+		gads[d].mobilValue = "MarijasSirds";
+		gads[d].krasa = "white";
+		gads[d].prior = 10;
+		gads[d].svetki = sunday;
+		gads[d].vesperesI = false;
+		gads[d].N = "Marijas Bezvainīgā Sirds";
+		gads[d].benedictus = "Mana sirds un mana miesa līksmi sauc uz dzīvo Dievu.";
+		gads[d].lugsana = "Dievs, Tu Vissvētākās Jaunavas Marijas Sirdi esi sagatavojis Svētajam Garam par cienīgu mājokli, viņas aizlūgumu dēļ palīdzi arī mums kļūt par Tavas godības svētnīcu. " + noslegums1;
+		gads[d].liturgija = "festum-0-MarijaiMem";  // "festum-0-MarijaSirds";
     }
     if (gads[d].datums.valueOf() == cal.marijabaznica.valueOf()) {
       sunday = "VISSV. JAUNAVA MARIJA,<br>BAZNĪCAS MĀTE, svētki";
@@ -573,7 +587,7 @@ const rubricella = function() {
 	gads[d].svetki = sunday;
 	gads[d].vesperesI = true;
 	gads[d].liturgija ="festum-12-8";
-	gads[d].lugsana = "Kungs Dievs, Tu ar Vissvētākās Jaunavas Marijas bezvainīgo ieņemšanu savam Dēlam sagatavoji cienīgu mājokli, un Jēzus Kristus nopelnu dēļ pasargāji šo Jaunavu no ikviena grēka, esi mums žēlīgs un palīdzi mums, viņas aizbildniecībā dzīvojot, ar tīrām sirdīm nonākt pie Tevis. "+ noslegums1;
+	gads[d].lugsana = "Kungs Dievs, Tu ar Vissvētākās Jaunavas Marijas bezvainīgo ieņemšanu savam Dēlam sagatavoji cienīgu mājokli, un Jēzus Kristus nopelnu dēļ pasargāji šo Jaunavu no ikviena grēka, esi mums žēlīgs un palīdzi mums, viņas aizbildnībā dzīvojot, ar tīrām sirdīm nonākt pie Tevis. "+ noslegums1;
 	gads[d].N = "V.J.Marijas ieņemšana";
     }
     if (gads[d].datums.valueOf() == MarijaJazeps("I").valueOf()) { // 25.marts
@@ -622,23 +636,24 @@ const rubricella = function() {
 	  
       if (gads[d].datums.valueOf() == p.valueOf()) {
         if (pd.dienas[i]['Priority'] < gads[d].prior) {
-          gads[d].prior = parseInt(pd.dienas[i]['Priority']);
-          gads[d].svetki = pd.dienas[i]['Name'];
-		  gads[d].Type = pd.dienas[i].Type;
-		  gads[d].vesperesI = pd.dienas[i].vesperesI;
-		  gads[d].liturgija = pd.dienas[i].liturgija;
-		  gads[d].N = pd.dienas[i].N; // nominatīvs
-		  gads[d].G = pd.dienas[i].G; // ģenetīvs
-		  gads[d].Dat = pd.dienas[i].Dat; // datīvs
-		  gads[d].lugsana = pd.dienas[i].lugsana;
-          if (pd.dienas[i]['Colour'] == "B") gads[d].krasa = "white";
-          if (pd.dienas[i]['Colour'] == "S") gads[d].krasa = "red";
-          if (pd.dienas[i]['Colour'] == "M") gads[d].krasa = "black";
-		  if (pd.dienas[i].magnificat) gads[d].magnificat =  pd.dienas[i].magnificat;
-		  if (pd.dienas[i].benedictus) gads[d].benedictus =  pd.dienas[i].benedictus;
-		  if (pd.dienas[i].ievdant) gads[d].ievdant =  pd.dienas[i].ievdant;
-		  if (pd.dienas[i].himnaLaudes)     gads[d].himnaLaudes    =  pd.dienas[i].himnaLaudes;
-		  if (pd.dienas[i].himnaVesperes) gads[d].himnaVesperes =  pd.dienas[i].himnaVesperes;
+			gads[d].prior = parseInt(pd.dienas[i]['Priority']);
+			gads[d].svetki = pd.dienas[i]['Name'];
+			gads[d].Type = pd.dienas[i].Type;
+			gads[d].vesperesI = pd.dienas[i].vesperesI;
+			gads[d].liturgija = pd.dienas[i].liturgija;
+			gads[d].N = pd.dienas[i].N; // nominatīvs
+			gads[d].G = pd.dienas[i].G; // ģenetīvs
+			gads[d].Dat = pd.dienas[i].Dat; // datīvs
+			gads[d].lugsana = pd.dienas[i].lugsana;
+			gads[d].lugsana_I = pd.dienas[i].lugsana_I;
+			if (pd.dienas[i]['Colour'] == "B") gads[d].krasa = "white";
+			if (pd.dienas[i]['Colour'] == "S") gads[d].krasa = "red";
+			if (pd.dienas[i]['Colour'] == "M") gads[d].krasa = "black";
+			if (pd.dienas[i].magnificat) gads[d].magnificat =  pd.dienas[i].magnificat;
+			if (pd.dienas[i].benedictus) gads[d].benedictus =  pd.dienas[i].benedictus;
+			if (pd.dienas[i].ievdant) gads[d].ievdant =  pd.dienas[i].ievdant;
+			if (pd.dienas[i].himnaLaudes)     gads[d].himnaLaudes    =  pd.dienas[i].himnaLaudes;
+			if (pd.dienas[i].himnaVesperes) gads[d].himnaVesperes =  pd.dienas[i].himnaVesperes;
         }
         if (gads[d].prior >= 11) {
           gads[d].svetki += "<br><span class='italicblack'>" + pd.dienas[i]['Name'] + "</span>";

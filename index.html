@@ -1,10 +1,30 @@
 <!DOCTYPE html>
 <html lang="lv">
 <head>
+  <meta charset="utf-8">
 		<script src="js/version.js"></script>
 		<script>
 		(function () {
-		  const v = self.BREVIARS_VERSION || Date.now();
+		  const v = self.BREVIARS_VERSION;
+
+		  // Ja version.js nav ielādēts, nejauši neizdomājam citu versiju.
+		  // app-loader.js un Service Worker izmanto tieši BREVIARS_VERSION.
+		  if (!v) {
+		    console.error("Breviārs: neizdevās ielādēt js/version.js");
+		    document.addEventListener("DOMContentLoaded", function () {
+		      const target = document.getElementById("LugsanuTeksts");
+		      if (target) {
+		        target.textContent = "Neizdevās noteikt lietotnes versiju. Pārbaudi interneta savienojumu un pārlādē lapu.";
+		      }
+		    });
+		    return;
+		  }
+
+		  // Pārbaudot telefona darbību, versiju var redzēt lapas apakšā.
+		  document.addEventListener("DOMContentLoaded", function () {
+		    const target = document.getElementById("app-version");
+		    if (target) target.textContent = "Versija: " + v;
+		  });
 
 		  const files = [
 			"js/app-loader.js?v=" + encodeURIComponent(v),
@@ -45,7 +65,6 @@
 		</script>
 
 
-  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="copyright" content="diakons Dainis">
   <meta name="description" content="Breviārs latviešu valodā">
@@ -127,7 +146,6 @@
 			<hr>
 				<p>© tehniskais izpildījums: diakons Dainis
 				<br>© teksti: <a href=copyright.html>dažādi tulkojumi</a></p>
-				
 				<p class="credit"> <a href=credit.html>Pateicība!</a> </p>
 			<hr>
 			<div id="atbalsts">
@@ -137,6 +155,8 @@
 					</div>
 				</p>
 			</div>
+			<hr>
+			<small id="app-version" style="opacity:0.75;"></small>
 		</div>
 		<div id='scripts'></div>
 	</div>

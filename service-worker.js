@@ -2,7 +2,7 @@
 
 // Versija tiek ņemta no viena kopīga faila.
 // /js/version.js satur:
-// self.BREVIARS_VERSION = "2.125";
+// self.BREVIARS_VERSION = "2.280";
 importScripts("js/version.js");
 
 const ver = self.BREVIARS_VERSION;
@@ -42,12 +42,12 @@ const urlsToCache = [
 	"js/lugsana_pll_sv.js?v=" + vs,
 	"js/psalmi.js?v=" + vs,
 	"js/parastais.js?v=" + vs,
+	"js/festum.js?v=" + vs,
 	"js/officium.js?v=" + vs,
 	"js/advents.js?v=" + vs,
 	"js/ziemassvetki.js?v=" + vs,
 	"js/gavenis.js?v=" + vs,
 	"js/lieldienas.js?v=" + vs,
-	"js/festum.js?v=" + vs,
 	"js/tools.js?v=" + vs,
 	"js/liturgiskaisgads.js?v=" + vs,
 	"js/calendar.js?v=" + vs,
@@ -85,7 +85,7 @@ self.addEventListener("install", function (event) {
       })
       .then(function () {
         console.log("App shell cached:", CACHE_NAME);
-		return self.skipWaiting();
+        // Jauna versija paliek waiting līdz lietotājs apstiprina atjauninājumu.
       })
       .catch(function (error) {
         console.error("Failed to cache app shell:", error);
@@ -99,7 +99,7 @@ self.addEventListener("install", function (event) {
 self.addEventListener("message", function (event) {
   if (event.data && event.data.type === "SKIP_WAITING") {
     console.log("SKIP_WAITING received.");
-    self.skipWaiting();
+    event.waitUntil(self.skipWaiting());
   }
 });
 
@@ -112,7 +112,7 @@ self.addEventListener("activate", function (event) {
       .then(function (cacheNames) {
         return Promise.all(
           cacheNames.map(function (cacheName) {
-            if (cacheName !== CACHE_NAME) {
+            if (cacheName.startsWith("breviars-v") && cacheName !== CACHE_NAME) {
               console.log("Deleting old cache:", cacheName);
               return caches.delete(cacheName);
             }
@@ -144,86 +144,85 @@ self.addEventListener("fetch", function (event) {
 
   // HTML navigācijas vienmēr mēģinām no tīkla.
   if (event.request.mode === "navigate") {
-    event.respondWith(networkFirst(event.request));
+    event.respondWith(networkFirst(event.request, event));
     return;
   }
 
   // Vadības faili – network first.
   if (networkFirstPaths.includes(requestUrl.pathname)) {
-    event.respondWith(networkFirst(event.request));
+    event.respondWith(networkFirst(event.request, event));
     return;
   }
 
   // Pārējie statiskie faili – cache first.
-  event.respondWith(cacheFirst(event.request));
+  event.respondWith(cacheFirst(event.request, event));
 });
 
-// Network first:
-// vispirms mēģina paņemt jaunu failu no servera,
-// ja nav interneta – ņem no cache.
-function networkFirst(request) {
+// Cache Storage ierakstiem paturam fetch eventu dzīvu līdz saglabāšanai.
+// Neaizkavējam atbildes nosūtīšanu lietotājam.
+function saveToCurrentCache(event, request, response) {
+  const responseCopy = response.clone();
+  const saving = caches.open(CACHE_NAME)
+    .then(function (cache) {
+      return cache.put(request, responseCopy);
+    })
+    .catch(function (error) {
+      console.warn("Neizdevās atjaunināt cache:", request.url, error);
+    });
+
+  event.waitUntil(saving);
+}
+
+// Network first: vispirms jaunākā kopija no servera, offline – savs cache.
+function networkFirst(request, event) {
   return fetch(request, { cache: "reload" })
     .then(function (networkResponse) {
-      if (!isValidResponse(networkResponse)) {
-        return networkResponse;
+      if (isValidResponse(networkResponse)) {
+        saveToCurrentCache(event, request, networkResponse);
       }
-
-      const responseCopy = networkResponse.clone();
-
-      caches.open(CACHE_NAME)
-        .then(function (cache) {
-          cache.put(request, responseCopy);
-        });
-
       return networkResponse;
     })
-    .catch(function () {
-      return caches.match(request)
-        .then(function (cachedResponse) {
-          if (cachedResponse) {
-            return cachedResponse;
-          }
+    .catch(async function (error) {
+      const cache = await caches.open(CACHE_NAME);
+      const cachedResponse = await cache.match(request);
+      if (cachedResponse) return cachedResponse;
 
-          // Ja pieprasīta lapa, bet konkrētā adrese nav cache,
-          // dodam galveno lapu.
-          if (request.mode === "navigate") {
-            return caches.match("/") || caches.match("/index.html");
-          }
+      if (request.mode === "navigate") {
+        // Promise vērtības nevar savienot ar || bez await!
+        const home = await cache.match("/") || await cache.match("/index.html");
+        if (home) return home;
+      }
 
-          return undefined;
-        });
+      console.warn("Neizdevās ielādēt failu, arī cache nav:", request.url, error);
+      return new Response("Nav pieejams bez interneta savienojuma.", {
+        status: 503,
+        headers: { "Content-Type": "text/plain; charset=utf-8" }
+      });
     });
 }
 
-// Cache first:
-// vispirms mēģina no cache,
-// ja nav cache – ņem no tīkla un saglabā cache.
-function cacheFirst(request) {
-  return caches.match(request)
+// Cache first: statiskiem failiem ar ?v= vispirms savs cache.
+function cacheFirst(request, event) {
+  return caches.open(CACHE_NAME)
+    .then(function (cache) {
+      return cache.match(request);
+    })
     .then(function (cachedResponse) {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
+      if (cachedResponse) return cachedResponse;
 
-      return fetch(request)
-        .then(function (networkResponse) {
-          if (!isValidResponse(networkResponse)) {
-            return networkResponse;
-          }
-
-          const responseCopy = networkResponse.clone();
-
-          caches.open(CACHE_NAME)
-            .then(function (cache) {
-              cache.put(request, responseCopy);
-            });
-
-          return networkResponse;
-        });
+      return fetch(request).then(function (networkResponse) {
+        if (isValidResponse(networkResponse)) {
+          saveToCurrentCache(event, request, networkResponse);
+        }
+        return networkResponse;
+      });
     })
     .catch(function (error) {
-      console.error("Fetch failed:", error);
-      return undefined;
+      console.warn("Neizdevās ielādēt failu:", request.url, error);
+      return new Response("Resurss nav pieejams.", {
+        status: 503,
+        headers: { "Content-Type": "text/plain; charset=utf-8" }
+      });
     });
 }
 

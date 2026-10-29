@@ -31,7 +31,7 @@
       refreshing = true;
 
       console.log("Jaunais Service Worker pārņēma lapu. Pārlādējam...");
-      window.location.reload();
+      setTimeout(function () { window.location.reload(); }, 100);
     });
 
 	navigator.serviceWorker.register("service-worker.js", {
@@ -76,16 +76,23 @@
         });
       });
 
-      // Pārbaudām atjauninājumus uzreiz pēc reģistrācijas.
-      registration.update();
+      function checkForUpdates() {
+        if (!swRegistration) return;
+        swRegistration.update().catch(function (error) {
+          console.warn("Neizdevās pārbaudīt PWA atjauninājumus:", error);
+        });
+      }
 
-      // Ja lapa ilgi paliek atvērta, pārbaudām atjauninājumus reizi stundā.
-      setInterval(function () {
-        if (swRegistration) {
-          console.log("Pārbaudām Service Worker atjauninājumu...");
-          swRegistration.update();
+      // Pārbaudām uzreiz un reizi stundā, kamēr aplikācija ir atvērta.
+      checkForUpdates();
+      setInterval(checkForUpdates, 60 * 60 * 1000);
+
+      // Android Chrome var apturēt taimerus fonā. Pārbaudām arī atgriežoties.
+      document.addEventListener("visibilitychange", function () {
+        if (document.visibilityState === "visible") {
+          checkForUpdates();
         }
-      }, 60 * 60 * 1000);
+      });
     })
     .catch(function (error) {
       console.error("Service Worker reģistrācija neizdevās:", error);
@@ -118,9 +125,9 @@
           'padding: 6px 12px;' +
           'cursor: pointer;' +
         '">' +
-          'Atjaunot!' +
+          ' 🙏 ' +
         '</button>' +
-      '</div>';
+      '</div>'; //Dievs, svētī svētceļniekus!
 
     document.body.appendChild(notification);
 

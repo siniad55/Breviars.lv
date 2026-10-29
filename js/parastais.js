@@ -129,9 +129,9 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lasijumstitle": "LASĪJUMS 2 Tes 3, 10b-13",
 				"lasijumstext": "Kas negrib strādāt, tas lai neēd. Jo mēs dzirdējām, ka daži starp jums dzīvo nekārtīgi: neko nestrādā, bet ņemas ar tukšībām. Tāpēc tiem, kas tādi ir, mēs pavēlam un pamudinām Kungā Jēzū Kristū, lai viņi, mierīgi strādādami, ēstu savu maizi. Bet jūs, brāļi, nepiekūstiet, labu darīdami!",
 				"atbilde": "responsorijs",
-				"atb1": "Lai ir slavēts Kungs* no mūžības līdz mūžībai.",
+				"atb1": "Lai ir slavēts Kungs * no mūžības mūžībā.",
 				"atb2": "Kurš vienīgais dara brīnumus.*",
-				"atb3": "No mūžības līdz mūžībai.",
+				"atb3": "No mūžības mūžībā.",
 				"magbenant": "Slavēts ir Kungs, mūsu Dievs.",
 				"lugumi": "Augsti slavēsim Kristu, kas ir pilns žēlastības un Svētā Gara, un ar paļāvību lūgsim Viņu:",
 				"resplugums": "- Kungs, dāvā mums savu Garu!",
@@ -345,7 +345,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 						"lasijumstext": "Savā garā apjozušies, esiet skaidrā prātā un pilnīgi paļaujieties uz to žēlastību, ko jūs saņemsiet, Jēzum Kristum atnākot. Kā paklausīgi bērni neļaujiet vairs sevī valdīt agrākajām kārībām, kas bija jūsu nezināšanas laikā. ",
 						"atb1": "Kungs, dari man zināmus Tavus ceļus.",
 						"atb2": "Un māci mani staigāt Tavās takās.",
-						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, kas atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
+						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, Tu atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
 					},
 					6: {
 						"himna": "hinmaDienas_6",
@@ -503,10 +503,10 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"atbilde": "responsorijs",
 				"atb1": "No rīta man pavēsti,* ka Tu apžēlojies par mani.",
 				"atb2": "Dari man zināmu ceļu, kas man ir ejams.*",
-				"atb3": "Tu apžēlojies par mani.",
+				"atb3": "Ka Tu apžēlojies par mani.",
 				"magbenant": "Kungs ir apmeklējis un atpestījis savu tautu.",
 				"lugumi": "Pielūgsim Jēzu Kristu, kas caur savu krustu cilvēcei atnesa pestīšanu, un ar bijību sauksim:",
-				"resplugums": "- Kungs, dāvā mums bagātīgi savu žēlsirdību!",
+				"resplugums": "- Kungs, esi mums žēlīgs!",
 				"lugums": {
 					"lugums1": "Kristu, mūsu nakts un diena, apgaismo mūs ar saviem stariem un jau rīta agrumā savaldi visas ļaunās domas.",
 					"lugums2": "Kungs, esi nomodā pār mūsu domām, vārdiem un darbiem, lai mēs šodien spētu būt Tev patīkami.",
@@ -583,7 +583,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 		6: {
 			"laudes": {
 				"title": "Sestdienas Laudes (1.nedēļa)",
-				"ievdant": "Kunga ir zeme un viss, kas to piepilda, nāciet Viņu pielūgsim!",
+				"ievdant": "Kungam pieder zeme un viss, kas to piepilda, nāciet Viņu pielūgsim!",
 				"himna": "hinmaLaudes_1_6",
 				"ps1": "psalms119XIX",
 				"ps2": "izc15",
@@ -696,7 +696,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugumi": "Pateiksimies mūsu Pestītājam, kas atnāca šai pasaulē, lai būtu Dievs ar mums! Piesauksim Viņu:",
 				"resplugums": "- Kristu, godības Ķēniņ, esi mūsu gaisma un prieks!",
 				"lugums": {
-					"lugums1": "Kungs Jēzu, no debesīm atsūtītā gaisma, gaidāmās augšāmcelšanās sākums, dod mums žēlastību Tev sekot, lai mēs nesēdētu nāves ēnā, bet staigātu dzīvības gaismā.",
+					"lugums1": "Kungs Jēzu, Gaisma, kas nāk no augstumiem, gaidāmās augšāmcelšanās sākums, dod mums žēlastību Tev sekot, lai mēs nesēdētu nāves ēnā, bet staigātu dzīvības gaismā.",
 					"lugums2": "Sniedz mums savu labestību, kas izpaužas visā radībā, lai mēs visur varētu pielūgt Tavu godību.",
 					"lugums3": "Kungs, nelaid ļaunajam mūs šodien uzvarēt, bet dari, ka mēs ļaunu uzveiktu ar labu.",
 					"lugums4": "Pēc kristības Jordānā Tu tiki svaidīts ar Svēto Garu, liec, lai mūs šodien vada Tava Svētā Gara žēlastība."
@@ -750,7 +750,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Mūsu Dievs ir debesīs; Viņš dara visu, ko vien vēlas, alleluja.",
 				"ant3": "Slavējiet Dievu, jūs, visi Viņa kalpi, mazi un lieli, alleluja.",
 				"lasijumstitle": "LASĪJUMS 2 Tes 2, 13-14",
-				"lasijumstext": "Mums vienmēr jāpateicas Dievam par jums, Dieva mīlētie brāļi, ka Dievs jūs pirmos, garu svētdarīdams, izvēlējies pestīšanai un patiesības ticībai. Šim mērķim, mums Evaņģēliju sludinot, Viņš aicināja, lai jūs iegūtu mūsu Kunga Jēzus Kristus godību.",
+				"lasijumstext": "Mums vienmēr jāpateicas Dievam par jums, Kunga mīļotie brāļi, ka Dievs jūs ir izvēlējies kā pirmos pestīšanas augļus, kas nobriest ar svētdarīšanu Garā un ticību patiesībai. Šai nolūkā, mums evaņģēliju sludinot, Viņš jūs aicināja iegūt mūsu Kunga Jēzus Kristus godību.",
 				"atbilde": "responsorijs",
 				"atb1": "Liels ir mūsu Kungs* un liels ir Viņa spēks.",
 				"atb2": "Viņa gudrībai nav mēra.*",
@@ -760,7 +760,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"resplugums": "- Kungs, atceries savu tautu!",
 				"lugums": {
 					"lugums1": "Šai dienai ejot uz beigām, mēs piesaucam Tevi, taisnības Saule, pār visu cilvēci, lai Tava nekad nedziestošā gaisma visus nepārtraukti aplaimotu.",
-					"lugums2": "Sargā derību, ko Tu nostiprināji ar savām svētajām asinīm, dari svētu savu Baznīcu, lai tā būtu šķīsta.",
+					"lugums2": "Sargā derību, ko Tu apzīmogoji ar savām svētajām asinīm, un svētdari savu Baznīcu, lai tā būtu nevainojama.",
 					"lugums3": "Kungs, atceries ļaudis, ko esi apvienojis kopā un kuru vidū Tu mājo.",
 					"lugums4": "Vadi pa miera un laimes taku tos, kas šobrīd atrodas ceļā, lai viņi veseli un priecīgi sasniegtu savu mērķi.",
 					"lugums5": "Pieņem, Kungs, mirušo dvēseles, dod viņiem grēku piedošanu un mūžīgo godību."
@@ -780,7 +780,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Kungs, rādi mums savas žēlsirdības gaismu.",
 				"ant3": "Esi slavēts, Kungs, debesu augstumos.",
 				"lasijumstitle": "LASĪJUMS Jer 15, 16",
-				"lasijumstext": "Cikreiz man atklājās Tavi vārdi, es tos apēdu, un Tavs vārds man kļuva par iepriecinājumu un par manas sirds līksmību, jo pār mani ir piesaukts Tavs vārds, Kungs, debespulku Dievs.",
+				"lasijumstext": "Ikreiz, kad Tu man ko teici, es to apēdu, un Tevis sacītais man kļuva par iepriecinājumu un par manas sirds līksmību, jo pār mani ir piesaukts Tavs vārds, Kungs, debespulku Dievs.",
 				"atbilde": "responsorijs",
 				"atb1": "Gavilējiet, taisnīgie, Kungā,* krietnajiem piedien slavināt.",
 				"atb2": "Dziediet Viņam jaunu dziesmu.*",
@@ -870,7 +870,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ps2": "is38",
 				"ps3": "psalms65",
 				"ant1": "Kungs, sūti savu patiesību un savu gaismu.",
-				"ant2": "Kungs, glāb mūs visās mūsu dzīves dienās.",
+				"ant2": "Kungs, izglāb mūs visās mūsu dzīves dienās.",
 				"ant3": "Dievs, Tev Sionā pienākas slavas dziesma.",
 				"lasijumstitle": "LASĪJUMS 1 Tes 5, 4-5",
 				"lasijumstext": "Jūs, brāļi, neesat tumsībā, ka šī diena jūs varētu pārsteigt kā zaglis. Visi jūs taču esat gaismas bērni un dienas bērni. Mēs nepiederam ne naktij, ne tumsai.",
@@ -949,7 +949,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					"lugums2": "Uzlūko labvēlīgi tos, kas tiek vajāti, steidzies viņus atbrīvot no visiem spaidiem.",
 					"lugums3": "Apžēlojies par visiem trūkumcietējiem, dod barību izsalkušajiem.",
 					"lugums4": "Apgaismo mūsu Saeimas deputātus likumu izdošanā, lai viņi visu izlemtu gudri un taisnīgi.",
-					"lugums5": "Pieņem mirušos, ko esi atpircis ar savām asinīm, lai viņi varētu kopā ar Tevi ieiet mūžīgo kāzu svinībās."
+					"lugums5": "Apžēlojies par mirušajiem, kurus Tu esi atpircis ar savām asinīm, lai viņi būtu cienīgi kopā ar Tevi ieiet mūžīgajās kāzu svinībās."
 				},
 				"lugsimies": "Kungs Dievs, Tava ir diena un Tava ir nakts, dari, lai mūsu sirdīs vienmēr spīd taisnības saule, ka mēs varētu nonākt pie gaismas, kurā Tu mājo. "+ noslegums1
 			}
@@ -975,12 +975,12 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugumi": "Lai slavēts Dievs, mūsu pestītājs, kurš apsolīja palikt kopā ar savu Baznīcu līdz pat laiku piepildījumam. Tāpēc, Viņam pateikdamies, sauksim:",
 				"resplugums": "- Kungs, paliec ar mums!",
 				"lugums": {
-					"lugums1": "Kungs, paliec ar mums visu dienu, lai nekad no mums nenovēršas Tava žēlastības saule.",
+					"lugums1": "Kungs, paliec ar mums visu dienu, lai Tava žēlastības saule vienmēr spīd pār mums.",
 					"lugums2": "Mēs veltījam Tev šo dienu kā upuri, lai nekas ļauns nesagandē mūsu darbus un domas.",
 					"lugums3": "Kungs, pavadi mūs ar savas žēlastības gaismu visas šīs dienas garumā, lai mēs būtu zemes sāls un pasaules gaisma.",
 					"lugums4": "Lai Tava Svētā Gara mīlestība vada mūsu sirdis un lūpas, ka mēs vienmēr paliktu Tavā taisnībā un slavētu Tevi."
 				},
-				"lugsimies": "Tevi lūdzam, Kungs, sūti mūsu sirdīs Tavas gaismas skaidrību, lai mēs pastāvīgi ietu Tavu baušļu ceļu un nekad nenoklīstu uz maldu takām. "+ noslegums1
+				"lugsimies": "Tevi lūdzam, Kungs, sūti mūsu sirdīs Tavas gaismas spožumu, lai mēs pastāvīgi ietu Tavu baušļu ceļu un nekad nenoklīstu uz maldu takām. "+ noslegums1
 			},
 			"dienas": {
 				"title": "Trešdienas Dienas vidus (2.nedēļa)",
@@ -1040,7 +1040,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugums": {
 					"lugums1": "Mūžīgais Dievs, Tev tūkstoš gadu ir kā vakarējā diena, kas aizgājusi, dari, lai mēs atcerētos, ka dzīve ir kā zieds, kas no rīta uzzied, bet vakarā novīst.",
 					"lugums2": "Dod saviem ļaudīm mannu, lai tie nesalkst, un dzīvo ūdeni, lai viņiem nemūžam neslāptu.",
-					"lugums3": "Dari, lai Tavi ticīgie meklētu un tiektos pēc debesu lietām, kā arī veltītu Tavam godam arī laicīgos darbus un atpūtu.",
+					"lugums3": "Dari, lai Tavi ticīgie tiektos pēc debesu lietām un tās izprastu, kā arī veltītu Tavam godam savus laicīgos darbus un atpūtu.",
 					"lugums4": "Kungs, dod mums labvēlīgu laiku, lai mēs bagātīgi saņemtu zemes augļus.",
 					"lugums5": "Dāvā mirušajiem žēlastību skatīt Tavu vaigu, un ļauj iemantot šo svētlaimi arī mums."
 				},
@@ -1059,7 +1059,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Kungs ir veicis lielas lietas, pavēstiet to visā zemē.",
 				"ant3": "Līksmi dziediet Dievam, mūsu stiprumam!",
 				"lasijumstitle": "LASĪJUMS Rom 14, 17-19",
-				"lasijumstext": "Jo ne ēšana un dzeršana ir Dieva valstība, bet taisnība un miers, un prieks Svētajā Garā. Jo, kas šinīs lietās kalpo Kristum, tas labpatīkams Dievam un pieņemams cilvēkiem. Tāpēc centīsimies pēc tā, kas veicina mieru, un savstarpēji sargāsim to, kas mūs ceļ!",
+				"lasijumstext": "Jo ne ēšana un dzeršana ir Dieva valstība, bet gan taisnība un miers, un prieks Svētajā Garā. Jo, kas šinīs lietās kalpo Kristum, tas patīkams Dievam un pieņemams cilvēkiem. Tāpēc centīsimies pēc tā, kas veicina mieru, un savstarpēji sargāsim to, kas mūs ceļ!",
 				"atbilde": "responsorijs",
 				"atb1": "Agros rītos, Kungs,* es domāju par Tevi.",
 				"atb2": "Jo Tu esi kļuvis man atbalsts.*",
@@ -1157,7 +1157,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"atb1": "Es piesaukšu visaugsto Kungu,* kas man ir darījis labu.",
 				"atb2": "Viņš sūtīs no debesīm palīdzību un mani izglābs.*",				
 				"atb3": "Kas man ir darījis labu.",
-				"magbenant": "Mūsu Dieva lielās žēlsirdības dēļ mūs apmeklēja Gaisma no augstumiem.",
+				"magbenant": "Mūsu Dieva lielās žēlsirdības dēļ mūs ir apmeklējusi Gaisma no augstumiem.",
 				"lugumi": "Pielūgsim Kristu, kas ar savām asinīm Svētajā Garā sevi upurēja Tēvam, lai mazgātu mūsu sirdsapziņu no nāves darbiem, un ar skaidru sirdi atzīsim:",
 				"resplugums": "- Tava griba dod mums mieru, Kungs!",
 				"lugums": {
@@ -1230,7 +1230,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					"lugums4": "Tu apžēlojies par tiem, kas atgriežas no grēka, dod viņiem savu mīlestību, savieno viņus atkal ar Tevi un Baznīcu.",
 					"lugums5": "Savā labvēlībā glāb mūsu mirušos brāļus, lai viņi visā pilnībā saņemtu Tevis davāto atpestīšanu."
 				},
-				"lugsimies": " Dievs, Tava neizdibināmā gudrība atklājās krusta ieļaunojumā, dod mums žēlastību tā apcerēt Tava Dēla ciešanu diženumu, ka mēs nekad nepārstātu lielā paļāvībā lepoties ar Viņa krustu. "+ noslegums2
+				"lugsimies": "Dievs, Tava neizdibināmā gudrība atklājās krusta ieļaunojumā, dod mums žēlastību tā apcerēt Tava Dēla ciešanu godību, ka mēs nekad nepārstātu lielā paļāvībā lepoties ar Viņa krustu. "+ noslegums2
 			}
 		},
 		6: {
@@ -1308,7 +1308,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Tu mani piepildīsi ar prieku Tava vaiga priekšā, Kungs, alleluja.",
 				"ant3": "Jēzus vārda priekšā locīsies visi ceļi debesīs un virs zemes, alleluja.",
 				"lasijumstitle": "LASĪJUMS Kol 1, 2b-6a",
-				"lasijumstext": "Žēlastība jums un miers no Dieva, mūsu Tēva. Mēs pateicamies Dievam un mūsu Kunga Jēzus Kristus Tēvam vienmēr, kad par jums lūdzamies, jo esam dzirdējuši, par jūsu ticību Kristū Jēzū un mīlestību, kāda jums ir uz visiem svētajiem tās cerības dēļ, kas jums nolikta debesīs. Par to jūs jau agrāk dzirdējāt no Evaņģēlija patiesības vārda, kas līdz jums ir nonācis. Un tāpat kā visā pasaulē, tā arī pie jums tas aug un nes augļus.",
+				"lasijumstext": "Žēlastība jums un miers no Dieva, mūsu Tēva. Mēs pateicamies Dievam un mūsu Kunga Jēzus Kristus Tēvam vienmēr, kad par jums lūdzamies, jo esam dzirdējuši par jūsu ticību Kristū Jēzū un mīlestību, kāda jums ir uz visiem svētajiem tās cerības dēļ, kas jums nolikta debesīs. Par to jūs jau agrāk dzirdējāt no Evaņģēlija patiesības vārda, kas līdz jums ir nonācis. Un tāpat kā visā pasaulē, tā arī pie jums tas aug un nes augļus.",
 				"atbilde": "responsorijs",
 				"atb1": "No saules lēkta līdz tās rietam,* lai Kunga vārds ir slavēts.",
 				"atb2": "Pāri debesīm ir Viņa godība.*",
@@ -1350,8 +1350,8 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"resplugums": "- Kungs, apgaismo savu tautu!",
 				"lugums": {
 					"lugums1": "Esi slavēts, Dievs, mūsu gaisma, Tu savam vārdam par godu dāvā mums šo jauno dienu.",
-					"lugums2": "Caur sava Dēla augšāmcelšanos Tu dāvāji pasaulei cerības gaismu; izlej šo gaismu caur Baznīcu pār visiem ļaudīm.",
-					"lugums3": "Tu caur savu Garu apskaidroji Tava Viendzimušā Dēla mācekļus, sūti To arī savai Baznīcai, lai tā būtu Tev uzticīga.",
+					"lugums2": "Ar sava Dēla augšāmcelšanos Tu dāvāji pasaulei cerības gaismu, izlej šo gaismu caur Baznīcu pār visiem ļaudīm.",
+					"lugums3": "Tu ar savu Garu apskaidroji Tava Viendzimušā Dēla mācekļus, sūti To arī savai Baznīcai, lai tā būtu Tev uzticīga.",
 					"lugums4": "Ak, tautu Gaisma, piemini tos, kas vēl joprojām mīt tumsībā, atver viņu sirds acis, lai tie atzītu Tevi, vienīgo patieso Dievu."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, vadi mūsu soļus saskaņā ar Tavu gribu, lai Tava mīļotā Dēla vārdā mēs kļūtu bagāti labos darbos. "+ noslegums1
@@ -1412,8 +1412,8 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugumi": "Līksmām sirdīm piesauksim Dievu, kas pasauli, vienreiz radītu, ar atpestīšanu radīja to no jauna un ar mīlestību pastāvīgi atjauno:",
 				"resplugums": "- Kungs, atjauno savas mīlestības brīnumdarbus!",
 				"lugums": {
-					"lugums1": "Mēs Tev pateicamies, Dievs, kas savu spēku atklāj visā radībā un parādi savu apredzību laika ritējumā.",
-					"lugums2": "Caur Tavu Dēlu, kas sludināja mieru un uzvarēja pie krusta, atbrīvo mūs no nepamatotām bailēm un bezcerības.",
+					"lugums1": "Mēs Tev pateicamies, Dievs, ka Tu savu spēku atklāj visā radībā un parādi savu apredzību laika ritējumā.",
+					"lugums2": "Ar Tavu Dēlu, kas sludināja mieru un uzvarēja pie krusta, atbrīvo mūs no nepamatotām bailēm un bezcerības.",
 					"lugums3": "Dod žēlastību visiem tiem, kas mīl taisnību un to sargā, lai viņi godprātīgi sadarbotos, būvējot pasauli, kurā pastāv patiess miers.",
 					"lugums4": "Esi līdzās apspiestajiem, atbrīvo ieslodzītos, mierini noskumušos, dod maizi izsalkušajiem un spēku vājajiem, atklāj visiem krusta atnesto uzvaru.",
 					"lugums5": "Tu savu Dēlu pēc nāves un apbedīšanas brīnišķā veidā augšāmcēli godībā, dod žēlastību mirušajiem kopā ar Viņu ieiet dzīvē."
@@ -1508,7 +1508,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					"lugums1": "Esi slavēts Kungs, Tu ar savām dārgajām asinīm mūs atbrīvoji no verdzības grēkam, dāvā mums savu bērnu godības brīvību.",
 					"lugums2": "Dod savu žēlastību mūsu pāvestam N. un visiem Baznīcas bīskapiem, lai viņi ar priecīgu gara dedzību kalpotu Taviem noslēpumiem.",
 					"lugums3": "Ļauj visiem, kas meklē patiesību, to arī atrast, un kad to ir atraduši, vienmēr pie tās turēties.",
-					"lugums4": "Esi līdzās atraitnēm, bāreņiem un visiem atstātajiem, lai viņi sajustu Tavu klātbūtni un arvien ciešāk savienotos ar Tevi.",
+					"lugums4": "Esi līdzās atraitnēm, bāreņiem un visiem atstātajiem, lai viņi sajustu Tavu klātbūtni un arvien ciešāk pieķertos Tev.",
 					"lugums5": "Savā labvēlībā pieņem mirušos brāļus debesu valstībā, kurā Tu kopā ar Tēvu un Svēto Garu esi visiem viss."
 				},
 				"lugsimies": "Dievs, Tu esi gaisma, kas neizdziest; uzlūko mūs, ko esi sapulcinājis šai vakara stundā, Tevi lūdzam, izgaismo mūsos esošās tumsības un neņem vērā mūsu pārkāpumus. "+ noslegums1
@@ -1526,7 +1526,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Mana dvēsele ir ilgojusies pēc Tevis naktī, no agra rīta tā lūkojas pēc Tevis.", 
 				"ant3": "Kungs, liec pār mums atmirdzēt Tavam vaigam.",
 				"lasijumstitle": "LASĪJUMS 1 Jņ 4, 14-15",
-				"lasijumstext": "Mēs redzējām un liecinām, ka Tēvs sūtīja savu Dēlu pasaulei par Pestītāju. Kas atzīst, ka Jēzus ir Dieva Dēls, tanī paliek Dievs, un viņš Dievā.",
+				"lasijumstext": "Mēs redzējām un liecinām, ka Tēvs sūtīja savu Dēlu pasaulei par Pestītāju. Kas atzīst, ka Jēzus ir Dieva Dēls, tajā paliek Dievs, un viņš Dievā.",
 				"atbilde": "responsorijs",
 				"atb1": "Mans Dievs, mans palīgs,* es paļaujos uz Viņu.",
 				"atb2": "Mans patvērums, mans glābējs.*",
@@ -1651,7 +1651,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 						"lasijumstext": "Mīlestība ir pacietīga, mīlestība ir maiga. Mīlestība neskauž, nelielās, nav uzpūtīga. Tā nav godkārīga un nemeklē savu labumu. Tā nedusmojas un nedomā ļaunu. Tā nepriecājas par netaisnību, bet priecājas par patiesību. Tā panes visu, tic visam, cer uz visu, visu pacieš.",
 						"atb1": "Kungs, lai līksmo un priecājas Tevī visi, kas vien Tevi meklē.",
 						"atb2": "Un “Dižs ir Kungs” lai saka.",
-						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, kas atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
+						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, Tu atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
 					},
 					6: {
 						"himna": "hinmaDienas_6",
@@ -1809,7 +1809,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"atbilde": "responsorijs",
 				"atb1": "No rīta man pavēsti,* ka Tu apžēlojies par mani.",
 				"atb2": "Dari man zināmu ceļu, kas man ir ejams.*",
-				"atb3": "Tu apžēlojies par mani.",
+				"atb3": "Ka Tu apžēlojies par mani.",
 				"magbenant": "Kungs ir apmeklējis un atpestījis savu tautu.",
 				"lugumi": "Pacelsim acis uz Kristu, kas ir nācis šai pasaulē, miris un augšāmcēlies, lai atpirktu savu tautu. Ar paļāvību lūgsim Viņu:",
 				"resplugums": "- Kungs, glāb mūs, ko esi atpircis ar savām asinīm!",
@@ -1907,9 +1907,9 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugumi": "Ar paļāvību lūgsim Dievu, kas Mariju, Kristus Māti, vēlējās paaugstināt pāri visai radībai gan debesīs, gan virs zemes:",
 				"resplugums": "- Uzlūko sava Dēla Māti un uzklausi mūs!",
 				"lugums": {
-					"lugums1": "Žēlsirdīgais Tēvs, mēs Tev pateicamies, ka esi mums devis Mariju par māti un paraugu, caur viņas aizbildniecību dari svētas mūsu sirdis.",
-					"lugums2": "Tu darīji Mariju par vērīgu Tava Vārda klausītāju un padarīji viņu par savu uzticīgo kalponi, caur viņas aizbildniecību, dod mums Svētā Gara augļus.",
-					"lugums3": "Tu stiprināji Mariju, kad viņa stāvēja krusta pakājē, un iepriecināji ar sava Dēla augšāmcelšanos, caur viņas aizbildniecību atvieglini mūsu ciešanas un nostiprini mūsu cerību."
+					"lugums1": "Žēlsirdīgais Tēvs, mēs Tev pateicamies, ka esi mums devis Mariju par māti un paraugu, viņai aizbilstot, dari svētas mūsu sirdis.",
+					"lugums2": "Tu darīji Mariju par vērīgu Tava Vārda klausītāju un padarīji viņu par savu uzticīgo kalponi, viņai aizbilstot, dāvā mums Svētā Gara augļus.",
+					"lugums3": "Tu stiprināji Mariju, kad viņa stāvēja krusta pakājē, un iepriecināji ar sava Dēla augšāmcelšanos, viņai aizbilstot, atvieglini mūsu ciešanas un nostiprini mūsu cerību."
 				},
 				"lugsimies": "Dievs, mūsu pestīšanas avots un pirmsākums, dari, lai mēs savā dzīvē tā liecinātu par Tavu godību, ka varētu bez mitas slavēt Tevi Debesīs. "+ noslegums1
 			},
@@ -1966,13 +1966,13 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"atb2": "Tie visi ir paveikti ar gudrību.*",
 				"atb3": "Tavi darbi, Kungs!",
 				"magbenant": "Mīliet savus ienaidniekus un lūdzieties par tiem, kas jūs vajā, lai jūs būtu sava Tēva bērni, kas ir debesīs.",
-				"lugumi": "Kristus apžēlojās par izsalkušo tautu un savā mīlestībā paveica tās labā brīnumdarbus. Tos pieminēdami ar godprātīgu veltīšanos, lūgsim:",
+				"lugumi": "Kristus apžēlojās par izsalkušo tautu un savā mīlestībā paveica tās labā brīnumdarbus. Tos pieminēdami, godbijīgi lūgsim: ",
 				"resplugums": "- Kungs, rādi mums savu mīlestību!",
 				"lugums": {
-					"lugums1": "Mēs atzīstam, Kungs, ka visi mums darītie labie darbi izriet no Tavas labestības, liec, lai tie neatgrieztos pie Tevis tukšā, bet nestu augļus labā sirdī.",
+					"lugums1": "Mēs atzīstam, Kungs, ka viss labais, ko šodien esam saņēmuši, ir nācis ar Tavu gādību, liec, lai tas neatrieztos pie Tevis tukšā, bet gan nestu augļus labā sirdī.",
 					"lugums2": "Visu tautu gaisma un cerība, sargā savus lieciniekus, ko esi izsūtījis visā pasaulē, aizdedz viņos Svētā Gara uguni.",
 					"lugums3": "Dari, lai visi, ik reizes, kad Tavā vadībā augstsirdīgi atbild uz mūsu laikmeta svarīgajiem jautājumiem, veidotu pasauli arvien pilnīgāku, atbilstoši tās cieņai.",
-					"lugums4": "Dvēseles un miesas Dziedinātāj, dod veselību slimajiem, stāvi klāt mirstošajiem un apmeklē un atjauno mūs savā žēlsirdībā.",
+					"lugums4": "Dvēseles un miesas Dziedinātāj, dod veselību slimajiem, esi līdzās mirstošajiem un savā žēlsirdībā apmeklē un atspirdzini mūs.",
 					"lugums5": "Pieskaiti svētlaimīgo pulkam tos mirušos, kuru vārdi ierakstīti dzīvības grāmatā."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, vadi mūsu soļus saskaņā ar Tavu gribu, lai Tava mīļotā Dēla vārdā mēs kļūtu bagāti labos darbos. "+ noslegums1
@@ -2158,7 +2158,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"resplugums": "- Mūsu Dievs, uzklausi mūs!",
 				"lugums": {
 					"lugums1": "Kungs Jēzu Kristu, mūsu gaismas devēj, apgaismo savu Baznīcu, lai tā tautām sludina Tevi, lielo žēlsirdības noslēpumu, kas esi tapis miesa.",
-					"lugums2": "Sargi priesterus un Tavas Baznīcas kalpus, lai viņi, sludinot citiem, arī paši Tev uzticīgi kalpotu.",
+					"lugums2": "Sargā priesterus un savas Baznīcas kalpus, lai viņi, sludinot citiem, arī paši Tev uzticīgi kalpotu.",
 					"lugums3": "Caur savām asinīm Tu pasaulei dāvāji mieru, attālini no mums ķildas un kara šausmas.",
 					"lugums4": "Palīdzi ar savas žēlastības bagātībām laulātajiem, lai viņi pēc iespējas labāk vēstītu par Tavas Baznīcas mīlestības noslēpumu.",
 					"lugums5": "Dod visiem mirušajiem grēku piedošanu, lai ar Tavas žēlsirdības gādību viņi varētu priecāties svēto pulkā."
@@ -2256,7 +2256,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					"lugums4": "Dari, lai valdnieki raizētos ne tikai par saviem piederīgajiem, bet cienītu arī citus cilvēkus un rūpētos par visiem.",
 					"lugums5": "Tad, kad nāksi celt godā visus, kas būs ticējuši Tev, dod mirušajiem ticības brāļiem augšāmcelšanos un svētlaimīgu dzīvi."
 				},
-				"lugsimies": "Lūdzoties Tavā priekšā, Kungs, mēs piesaucam Tavu laipnību, lai mēs savās sirdīs vienmēr pārdomātu to, ko Tev apsolām vārdos. "+ noslegums1
+				"lugsimies": "Lūdzoties Tavā priekšā, Kungs, mēs piesaucam Tavu žēlsirdību, lai mēs savās sirdīs vienmēr pārdomātu to, ko Tev apsolām vārdos. "+ noslegums1
 			}
 		},
 		3: {
@@ -2303,7 +2303,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 						"lasijumstext": "Neviens lai nemeklē savu, bet cita labumu! Vai jūs ēdat, vai dzerat, vai citu ko darāt, visu dariet Dieva godam!",
 						"atb1": "Labi ir pateikties Kungam.",
 						"atb2": "Tavam vārdam dziedāt, Visaugstais.",
-						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, kas atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
+						"lugsimies": "Kungs, svētais Tēvs, uzticamais Dievs, Tu atsūtīji apsolīto Garu, lai sapulcinātu kopā grēka izklīdinātos cilvēkus, dari mūs par vienības un miera veicinātājiem pasaulē. " + noslegums1
 					},
 					6: {
 						"himna": "hinmaDienas_6_2",
@@ -2409,7 +2409,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					9: {
 						"himna": "hinmaDienas_9_2",
 						"lasijumstitle": "LASĪJUMS Ebr 12, 1b-2",
-						"lasijumstext": "Nometīsim katru smagumu un mums apkārt esošo grēku, un ar izturību dosimies mums priekšā stāvošajā cīņā. Raudzīsimies uz Jēzu, kurš ir mūsu ticības dibinātājs un piepildītājs. Viņš nolemtā prieka vietā pacieta krustu, neskatoties uz tā pazemojumu, un apsēdās Dieva troņa labajā pusē.",
+						"lasijumstext": "Nolikuši katru smagumu un mums apkārt esošo grēku, ar izturību dosimies mums priekšā stāvošajā cīņā. Raudzīsimies uz Jēzu, kurš ir mūsu ticības dibinātājs un piepildītājs. Viņš nolemtā prieka vietā pacieta krustu, neskatoties uz tā pazemojumu, un apsēdās Dieva troņa labajā pusē.",
 						"atb1": "Mana dvēsele ilgojas Kunga.",
 						"atb2": "Mana dvēsele gaida Viņa vārdu.",
 						"lugsimies": "Kungs, mēs Tevi lūdzam, dod mums žēlastību sekot Tava Viendzimušā Dēla pacietības paraugam un būt izturīgiem ciešanās. " + noslegums1
@@ -2457,7 +2457,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ant2": "Priecājies, Jeruzaleme, jo caur tevi visas tautas tiks aizvestas pie Kunga.",
 				"ant3": "Slavē, Siona, savu Dievu, jo savu pavēli Viņš sūta zemei.",
 				"lasijumstitle": "LASĪJUMS Gal 2, 19b-20",
-				"lasijumstext": "Līdz ar Kristu es esmu krustā piesists, un dzīvoju vairs ne es, bet manī dzīvo Kristus. Bet, ja tagad dzīvoju miesā, es dzīvoju ticībā Dieva Dēlam, kas mīlēja mani un par mani atdeva pats sevi.",
+				"lasijumstext": "Līdz ar Kristu es esmu piesists krustā, tādējādi dzīvoju vairs ne es, bet manī dzīvo Kristus. Bet tagad, dzīvojot miesā, es dzīvoju ticībā Dieva Dēlam, kas iemīlēja mani un par mani atdeva pats sevi.",
 				"atbilde": "responsorijs",
 				"atb1": "Es piesaukšu visaugsto Kungu,* kas man ir darījis labu.",
 				"atb2": "Viņš sūtīs no debesīm palīdzību un mani izglābs.*",
@@ -2467,11 +2467,11 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"resplugums": "- Kungs, nostiprini to, ko esi paveicis mūsos!",
 				"lugums": {
 					"lugums1": "Žēlsirdīgais Dievs, vadi mūsu soļus pa dvēseles svētuma ceļu, lai mēs domātu to, kas patiess, taisnīgs un patīkams.",
-					"lugums2": "Tavam vārdam par godu neatstāj mūs nekad, Kungs, nelauz savu derību.",
+					"lugums2": "Ne mūžam mūs neatstāj sava vārda dēļ, Kungs, nelauz savu derību.",
 					"lugums3": "Pieņem mūsu satriekto sirdi un pazemīgo garu, jo tie, kas paļaujas uz Tevi, nepiedzīvo apjukumu.",
 					"lugums4": "Kristū Tu mūs esi aicinājis pildīt pravieša pienākumu, dari, lai mēs vienmēr sludinātu Tavus varenos darbus."
 				},
-				"lugsimies": "Tevi lūdzam, Kungs, dāvā savas žēlastības pārpilnību tiem, kas Tevi pazemīgi lūdz, lai ievērojot Tavus baušļus, viņi saņemtu mierinājumu šajā dzīvē un iemantotu nākamības prieku. "+ noslegums1
+				"lugsimies": "Tevi lūdzam, Kungs, dāvā savas žēlastības pārpilnību tiem, kas Tevi pazemīgi lūdz, lai ar tās palīdzību viņi dzīvotu saskaņā ar Taviem baušļiem un tādējādi saņemtu mierinājumu šajā dzīvē, kā arī iemantotu nākamības priekus. "+ noslegums1
 			},
 			"dienas": {
 				"title": "Piektdienas Dienas vidus (4.nedēļa)",
@@ -2502,7 +2502,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					9: {
 						"himna": "hinmaDienas_9_2",
 						"lasijumstitle": "LASĪJUMS 1 Jņ 4, 9-11",
-						"lasijumstext": "Dieva mīlestība uz mums ir parādījusies ar to, ka Dievs sūtīja pasaulē savu Viendzimušo Dēlu, lai mēs dzīvotu caur Viņu. Šī mīlestība pastāv tanī, ka nevis mēs iemīlējām Dievu, bet Viņš pats mūs mīlēja un sūtīja savu Dēlu kā gandarījuma upuri par mūsu grēkiem. Dārgie, ja Dievs mūs tā iemīlēja, tad arī mums vajag citam citu mīlēt.",
+						"lasijumstext": "Dieva mīlestība uz mums ir parādījusies ar to, ka Dievs sūtīja pasaulē savu Viendzimušo Dēlu, lai mēs dzīvotu caur Viņu. Šī mīlestība pastāv tajā, ka nevis mēs iemīlējām Dievu, bet Viņš pats mūs mīlēja un sūtīja savu Dēlu kā gandarījuma upuri par mūsu grēkiem. Dārgie, ja Dievs mūs tā iemīlēja, tad arī mums vajag citam citu mīlēt.",
 						"atb1": "Paskaties, Dievs, mūsu aizstāvi.",
 						"atb2": "Un uzlūko Tava svaidītā vaigu.",			
 						"lugsimies": "Kungs Jēzu Kristu, Tu grēkus nožēlojošo laupītāju no krusta koka aizvedi savā valstībā, arī mēs, atzīstoties savos grēkos, Tevi pazemīgi lūdzam, lai pēc nāves Tu ļautu mums līksmi ieiet pa paradīzes vārtiem. Tu, kas dzīvo un valdi mūžu mūžos."
@@ -2529,13 +2529,13 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"lugumi": "Ar paļāvību lūgsim Jēzu Kristu, uz kuru cer visi, kas ir iepazinuši Viņa vārdu, saucot:",
 				"resplugums": "- Kungs, apžēlojies!",
 				"lugums": {
-					"lugums1": "Kristu, dod, lai cilvēciskais vājums, kam ir nosliece uz kritieniem, tiktu Tevis stiprināts.",
-					"lugums2": "Dari, lai visi, kam ir tieksme uz Tevis aizvainošanu, ar Tavu žēlastību vienmēr no jauna atgrieztos no grēkiem.",
+					"lugums1": "Kristu, dari, lai cilvēciskais trauslums, kam ir nosliece uz kritieniem, tiktu Tevis stiprināts.",
+					"lugums2": "Lūdzam, lai katrs, kam ir tieksme uz Tevis aizvainošanu, ar Tavu žēlastību arvien no jauna atgrieztos no grēkiem.",
 					"lugums3": "Tevi aizvaino grēki, bet samierina grēku nožēla, novērs no mums Tavas dusmības rīkstes, ko esam pelnījuši.",
 					"lugums4": "Tu piedevi grēkus sievietei, kas tos nožēloja, un cēli plecos nomaldījušos avi, nenovērs no mums savu žēlsirdību.",
 					"lugums5": "Ielaid pa debesu vārtiem, ko Tu atslēdzi ar sava krusta nopelniem, visus, kas zemes dzīves laikā ir cerējuši uz Tevi."
 				},
-				"lugsimies": "Visvarenais un žēlsirdīgais Dievs, kas vēlējies, lai pasaules pestīšanas labā cieš Tavs Svaidītais, dod žēlastību savai tautai, lai tā veltītu sevi Tev kā dedzināmo upuri un saņemtu Tavas mīlestības pilnību. "+ noslegums1
+				"lugsimies": "Visvarenais un žēlsirdīgais Dievs, Tu vēlējies, lai pasaules pestīšanas labā cieš Tavs Svaidītais, dod žēlastību savai tautai, lai tā veltītu sevi kā dzīvu upuri Tev, un baudītu Tavas mīlestības pilnību. "+ noslegums1
 			}
 		},
 		6: {
@@ -2564,7 +2564,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 					"lugums3": "Mūsu acis lai vienmēr ir vērstas uz Tevi, Kungs, un mēs priecīgi atsauktos Tavam aicinājumam.",
 					"lugums4": "Attālini mūs no viltībām un netaisnības kārdinājumiem un sargā mūsu gaitas no jebkādām nepatikšanām."
 				},
-				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu esi patiesās gaismas spožums un diena, kas nekad nebeidzas, lūdzam Tevi, kas dod mums atkal jaunu dienu, lai mūsu prāti, naktī atpūtušies, tiktu apgaismoti ar Tavas atnākšanas mirdzumu. "+ noslegums1
+				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu esi patiesās gaismas spožums un diena, kas nekad nebeidzas, lūdzam Tevi, dod mums atkal jaunu dienu, lai mūsu prāti, naktī atpūtušies, tiktu apgaismoti ar Tavas atnākšanas mirdzumu. "+ noslegums1
 			},
 			"dienas": {
 				"title": "Sestdienas Dienas vidus (4.nedēļa)",
@@ -2572,7 +2572,7 @@ var parastais = { // “”   ,” – saka Kungs, “
 				"ps1": "psalms119XXII",
 				"ps2": "psalms45I",
 				"ps3": "psalms45II",
-				"ant1": "Tava roka lai nāk man talkā, ko esmu izvēlējies – tie ir priekšraksti Tavi.",
+				"ant1": "Lai Tava roka nāk man palīgā, jo es izvēlējos pildīt Tavas pavēles.",
 				"ant2": "Tavs tronis, Dievs, pastāv mūžīgi mūžam.",
 				"ant3": "Es redzēju jauno Jeruzalemi, kā līgavu izgreznotu savam vīram.",
 				"stunda": {

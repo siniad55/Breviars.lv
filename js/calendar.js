@@ -135,11 +135,26 @@ const easterNoAlleluia = function(d) { // noņem Alleluja ārpus lieldienām
 //		for(var i =0; i<items.length; i++) {
 //			items[i].style.display = 'none';
 		console.log("noņemt alieluja");
-		document.querySelectorAll('.alleluja').forEach(el => {
+		document.querySelectorAll('.Lieldienas').forEach(el => {
 			el.remove();
 		});
 	}
 }
+
+	const sakartotAlleluja = function (d){	console.log("sakalrto alleluja")
+		 if ( !(gads[d].datums >= cal.lieldienas && gads[d].datums <= cal.vasarsvetki) ) {
+			items = document.querySelectorAll('.Lieldienas');
+			//items = document.getElementsByClassName('Lieldienas');
+			for(var i =0; i<items.length; i++) {
+				items[i].style.display = 'none';
+			}
+		} else {
+			items = document.querySelectorAll('.neLieldienas');
+			for(var i =0; i<items.length; i++) {
+				items[i].style.display = 'none';
+			}
+		}
+	}
 
 // Laudes un Vesperes stundu lugsanas izveide atkarībā no datuma, padod veidu "laudes vai vesperes", "svētki" pēc noklusējuma ir standarta liturģiskais laiks
 const LaudesVesperes = function(stunda, svetki) { //svetki var būt  liturgiskaisLaiks
@@ -194,20 +209,7 @@ const LaudesVesperes = function(stunda, svetki) { //svetki var būt  liturgiskai
 		svetoVardi();
 	}
 	
-	const sakartotAlleluja = function (){	console.log("sakalrto alleluja")
-		 if ( !(gads[d].datums >= cal.lieldienas && gads[d].datums <= cal.vasarsvetki) ) {
-			items = document.querySelectorAll('.Lieldienas');
-			//items = document.getElementsByClassName('Lieldienas');
-			for(var i =0; i<items.length; i++) {
-				items[i].style.display = 'none';
-			}
-		} else {
-			items = document.querySelectorAll('.neLieldienas');
-			for(var i =0; i<items.length; i++) {
-				items[i].style.display = 'none';
-			}
-		}
-	}
+
 	
 	//Priekšpusdienas 9.00-12.00 Pudienu 12.00-15.00 Pēcpusdienas 15.00-18.00
 	if (laiks.getHours() < 12) { var dienasStunda = 3; } 
@@ -503,7 +505,7 @@ const LaudesVesperes = function(stunda, svetki) { //svetki var būt  liturgiskai
 				document.querySelector('#psalms2').innerHTML = window[window[liturgiskaisLaiks][psn][nd][stunda].ps2];
 				document.querySelector('#psalms3').innerHTML = window[window[liturgiskaisLaiks][psn][nd][stunda].ps3];
 			}
-		sakartotAlleluja();
+		sakartotAlleluja(d);
 		} );
 	}
 
@@ -733,7 +735,7 @@ const LaudesVesperes = function(stunda, svetki) { //svetki var būt  liturgiskai
 					document.querySelector('#dienas').style.display = 'initial';
 				}
 				
-				sakartotAlleluja();
+				sakartotAlleluja(d);
 				
 				noslegLugsana.insertAdjacentHTML( 'afterbegin' , '<p><span class="redbold">℣. </span>Lūgsimies.</p>');
 				})
@@ -923,10 +925,11 @@ console.log("read => adventa problēmas");
 		if (liturgiskaisLaiks == 'festumShow' ) { // && gads[d].prior < gads[d1].prior hrizostomam nerādīja  && gads[d1].prior < gads[d].prior
 		//( gads[d1].vesperesI == true || gads[d1].datums.getDay() == 0 ) && gads[d1].prior <= gads[d].prior && (stunda == 'vesperes' || stunda == 'vesperesI' || stunda == 'kompletorijs' )
 			console.log('Festum=>Laudes/Vesperes lūgšana', gads[d]);
-			if (gads[d].lugsana) {
-					noslegLugsana.innerHTML = '<p>' + gads[d].lugsana + '</p>';
+			if (gads[d].lugsana) {// iespēja atšķirīgām Vesperu I un II lūgšanām, sk. Kristītājs
+				if (stunda == 'vesperesI') {noslegLugsana.innerHTML = '<p>' + gads[d].lugsana_I + '</p>'; console.log("gads.lugsana_I");}
+				else {noslegLugsana.innerHTML = '<p>' + gads[d].lugsana + '</p>'; console.log("gads.lugsana_II");}
 				} 
-			else {
+			else { 
 					noslegLugsana.innerHTML = '<p>' + window[liturgiskaisLaiks][psn][nd][stunda].lugsimies + '</p>';
 				}
 			if (gads[d].himnaLaudes && stunda == 'laudes'){ // šādi ļaujam dienai īpašās izmaiņas, balstoties uz kopīgiem tekstiem
@@ -1097,7 +1100,7 @@ console.log("Adventa problema: ", "liturgiskaisLaiks:", liturgiskaisLaiks,"psn:"
 	// Gavēnī noslēpj Alleluja
 	lentNoAlleluia(d);
 	
-	sakartotAlleluja();
+	sakartotAlleluja(d);
 
 // Viva Latvia
 if ( stunda != 'dienas' && (gads[d].datums.valueOf() == new Date(year,10,18).valueOf() )) {
@@ -1570,7 +1573,10 @@ if (gads[d]?.lieldienas === undefined) {
 			console.log(i, mm, dd, officium.festum[mm][dd][i].lasijumstitle);
 			lasijums( i, "festum", mm, dd);
 		}
-		else lasijums( i, liturgiskaislaiks, psn, nd);
+		else {
+			console.log("lasījums", i, psn, nd);
+			lasijums( i, liturgiskaislaiks, psn, nd);
+		}
 	}
 
 
@@ -1599,7 +1605,11 @@ if (gads[d]?.lieldienas === undefined) {
 	document.querySelector("#noslegumaLugsana").innerHTML = '<p><span class="redbold">℣. </span>Lūgsimies.</p><p>'+lasijumaNoslegLugsana+'</p><p><span class="redbold">℟. </span>Āmen.</p>';
 	
 // Gavēnī noslēpj Alleluja
-	lentNoAlleluia(d)
+	lentNoAlleluia(d);
+	
+//sakartotAlleluja();
+	sakartotAlleluja(d);
+	easterNoAlleluia(d);
 
 }
 else {
@@ -1607,7 +1617,7 @@ else {
 	lugsana.innerHTML = lasijums_lieldienas_template;
 }	
 
-easterNoAlleluia(d);
+
 //==bookmark===
 bookMark("lasijumu stunda");
 }

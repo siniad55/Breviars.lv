@@ -24,12 +24,12 @@
     "lugsana_pll_sv",
     "psalmi",
     "parastais",
+    "festum",
     "officium",
     "advents",
     "ziemassvetki",
     "gavenis",
     "lieldienas",
-    "festum",
     "tools",
     "liturgiskaisgads",
     "calendar"

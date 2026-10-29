@@ -27,8 +27,8 @@ var himnaApustuliLieldienuVesperes ='<p class="psalms1">Bij’ Apustuļi bēdīg
 
 //==Pēteris & Pāvils==
 var himnaPeterisPavilsVesperesI='<p class="psalms1">Gaisma no Gaismas, piepildi Tu pasauli<br>ar zelta gaismu un ar rožu krāšņumu,<br>mocekļiem dižiem debess galmu rotājot<br>šai svētā dienā, kas dzēš vainas grēcīgiem.</p><p class="psalms2">Viens vada Baznīcu, otrs – tautu skolotājs,<br>pasaules soģi, patiesības gaismekļi<br>krusts dāvā vienam, zobens – otram uzvaru,<br>debesīs saņem nu tie lauru vainagus.</p><p class="psalms1">Purpurā tevi sapoš, Roma laimīgā,<br>valdnieki dižie savām dārgām asinīm.<br>Ne tava slava, bet gan viņu nopelni<br>ceļ tevi godā kā pirmo no pilsētām.</p><p class="psalms2">Baznīcas balsti, dievbijībā vienotie,<br>ticīgos krietnos, kas ir stipri cerībā,<br>Dievu un tuvāko mīl no sirds, patiesi,<br>pēc nāves laicīgās ievediet mūžībā.</p><p class="psalms1">Mūžam lai Svēto Trīsvienību godinām,<br>cienām un sveicam Tās spēku ar gavilēm, –<br> pilnīgā vienībā Tai vara augstākā<br>gan tagad, gan visu nākamo mūžību. Āmen.</p>';
-var himnaPeterisPavilsVesperesII='<p class="psalms1">Purpurā tevi sapoš, Roma laimīgā,<br>valdnieki dižie savām dārgām asinīm.<br>Ceļ tevi godā kā pirmo no pilsētām<br>ne tava slava, bet gan svēto nopelni,<br>nokāvi kurus asiņainiem zobeniem.</p><p class="psalms2">Tagad jūs lūdzam godājamie mocekļi,<br>Pēteri svētais, Pāvil, šķīstā lilija,<br>debesu galma varonīgie kareivji,<br>ar savām lūgsnām mūs no ļauna sargājiet,<br>uz debess mājām drošā solī aizvediet.</p><p class="psalms1">Gods lai skan Tēvam visos laikos mūžīgi,<br>autoritāti Tavu, Dēls, mēs atzīstam,<br>cieņu un varu Svētam Garam dāvājam, –<br>katra no Svētās Trīsvienības personām<br>lai godināta tiek bez gala mūžīgi. Āmen.</p>';
-var himnaPeterisPavilsLaudes='<p class="psalms1">Ir apustuļu ciešanas<br>mums svētījušas dienu šo,<br>un Pēterim ar Pāvilu<br>sniedz lielu godu debesīs.</p><p class="psalms2">Šos abus vīrus vienoja<br>par Kristu lietās asinis, –<br>tie Dievam droši sekojot,<br>no Kunga balvu saņēma.</p><p class="psalms1">No apustuļiem Pēteris<br>ir pirmais; Pāvils tika saukts,<br>lai kļūtu Dieva darbarīks<br>un līdzās stātos Pēterim.</p><p class="psalms2">Lai Dievu pagodinātu,<br>pie krusta apgriezts otrādi,<br>mirst Sīmanis, tā piepildot<br>to, ko reiz Kungs tam sacījis.</p><p class="psalms1">Lūk, šādi Roma ieguva<br>sev pirmo vietu Baznīcā –<br>tur savas dārgās asinis,<br>šie dižie vīri izlēja.</p><p class="psalms2">Tur satikties steidz ticīgie<br>no visas plašās pasaules –<br>tā tautu galvaspilsēta,<br>tur tronis Kristus vietniekam.</p><p class="psalms1">Mēs lūdzam Tevi, Pestītāj,<br>lai apustuļiem pievieno<br>Tu savus kalpus – ticīgos,<br>uz visiem laikiem mūžībā. Āmen.</p>';
+var himnaPeterisPavilsVesperesII='<p class="psalms1">Purpurā tevi sapoš, Roma laimīgā,<br>valdnieki dižie savām dārgām asinīm.<br>Ceļ tevi godā kā pirmo no pilsētām<br>ne tava slava, bet gan svēto nopelni,<br>nokāvi kurus asiņainiem zobeniem.</p><p class="psalms2">Tagad jūs lūdzam, godājamie mocekļi,<br>Pēteri svētais, Pāvil, šķīstā lilija,<br>debesu galma varonīgie kareivji,<br>ar savām lūgsnām mūs no ļauna sargājiet,<br>uz debess mājām drošā solī aizvediet.</p><p class="psalms1">Gods lai skan Tēvam visos laikos mūžīgi,<br>autoritāti Tavu, Dēls, mēs atzīstam,<br>cieņu un varu Svētam Garam dāvājam, –<br>katra no Svētās Trīsvienības personām<br>lai godināta tiek bez gala mūžīgi. Āmen.</p>';
+var himnaPeterisPavilsLaudes='<p class="psalms1">Ir apustuļu ciešanas<br>mums svētījušas dienu šo,<br>un Pēterim ar Pāvilu<br>sniedz lielu godu debesīs.</p><p class="psalms2">Šos abus vīrus vienoja<br>par Kristu lietās asinis, –<br>tie Dievam droši sekojot,<br>no Kunga balvu saņēma.</p><p class="psalms1">No apustuļiem Pēteris<br>ir pirmais; un par ticību<br>stāv Pāvils, Dieva darbarīks,<br>ar Pēteri kā līdzvērtīgs.</p><p class="psalms2">Lai Dievu pagodinātu,<br>pie krusta apgriezts otrādi,<br>mirst Sīmanis, tā piepildot<br>to, ko reiz Kungs tam sacījis.</p><p class="psalms1">Lūk, šādi Roma ieguva<br>sev pirmo vietu Baznīcā –<br>tur savas dārgās asinis<br>šie dižie vīri izlēja.</p><p class="psalms2">Tur satikties steidz ticīgie<br>no visas plašās pasaules –<br>tā tautu galvaspilsēta,<br>tur tronis Kristus vietniekam.</p><p class="psalms1">Mēs lūdzam Tevi, Pestītāj,<br>lai apustuļiem pievieno<br>Tu savus kalpus – ticīgos,<br>uz visiem laikiem mūžībā. Āmen.</p>';
 
 var himnaPavilsLaudes='<p class="psalms1">Dižais skolotāj, Pāvil, māci tikumus<br>un prātus uz debesīm tiekties mudini,<br>līdz kamēr būsim sasnieguši pilnību,<br>ko šeit virs zemes piedzīvojam daļēji.</p><p class="psalms2">Svētajai Trīsvienībai jau no sākuma,<br>valda kas pasauli pilnīgā vienībā,<br>caur visiem laikiem līdz pat dienai pastarai<br>mūžīga slava, cieņa, vara, gaviles. Āmen.</p>';
 var himnaPavilsVesperes='<p class="psalms1">Ceļ lielā godā Pāvilu<br>šais svētkos visa Baznīca,<br>jo kādreizējo naidnieku<br>Dievs apustulī pārvērta.</p><p class="psalms1">Viņš, Kristus vārdu izdzirdot,<br>reiz lielās dusmās iedegās,<br>bet vēlāk savu dedzību<br>viņš Kristum kalpot atdeva.</p><p class="psalms2">Viņš saņem lielu dāvanu<br>un nonāk trešās debesīs<br>tur noslēpums tam atklāts tiek,<br>ko izstāstīt nav iespējams.</p><p class="psalms1">Kad Pāvils Dieva Vārdu sēj,<br>tas ienes ražu bagātu,<br>un pildās debess apcirkņi<br>ar kviešu graudiem vērtīgiem.</p><p class="psalms2">Vēl spožāk nekā ugunskurs<br>viņš visu zemi apgaismo,<br>lai maldu tumsa atkāptos<br>un patiesība valdītu.</p><p class="psalms1">Lai Kristum visi godu dod<br>un Tēvam, Garam Svētajam,<br>kas izvēlējās Pāvilu<br>par rīku tautu glābšanai. Āmen.</p>';
@@ -58,12 +58,14 @@ var himnaLukassLaudes = '<p class="psalms1">Sajūsmā lielā, Lūkas, tevi teica
 var himnaLukassVesperes = himnaLukassLaudes;
 
 // Sv. Barnaba, apustulis,
-var himnaBarnabaLaudes = '<p class="psalms1">Barnabas spožo uzvaru mēs teicam,<br>par to viņš rotāts debesīs ar kroni,<br>ko nopelnīja mīlestībā lielā,<br>kalpojot Kristum.</p><p class="psalms2">Atstāja laukus, nodomā viņš cēlā –<br>ticībā dzīvā steidzās kalpot citiem,<br>lai jaunā tauta, kristieši kā saime,<br>priecīgi augtu.</p><p class="psalms1">Pieņēma draudzē un tad palīdzēja<br>Pāvilam visos apustuļa darbos,<br>sekoja viņam visur, kurp vien gāja,<br>aizdedzies Garā.</p><p class="psalms2">Dedzīgi centās daudzus vest pie Kristus,<br>ar labestību, nežēlojot sevi,<br>mocekļa godu dzīves beigās guva,<br>asinis lejot.</p><p class="psalms1">Aizbilstot tāda svētā kalpa lūgsnām,<br>dod, Dievs, mums arī uzticīgi sekot<br>Kristum lai varam nonākt debess mājās<br>un Tevi slavēt. Āmen.</p>';
+var himnaBarnabaLaudes = '<p class="psalms1">Barnabas spožo uzvaru mēs teicam,<br>par to viņš rotāts debesīs ar kroni,<br>ko nopelnīja mīlestībā lielā,<br>kalpojot Kristum.</p><p class="psalms2">Atstāja laukus, nodomā viņš cēlā –<br>ticībā dzīvā steidzās kalpot citiem,<br>lai jaunā tauta, kristieši kā saime,<br>priecīgi augtu.</p><p class="psalms1">Pieņēma draudzē un tad palīdzēja<br>Pāvilam visos apustuļa darbos,<br>sekoja viņam visur, kurp vien gāja,<br>aizdedzies Garā.</p><p class="psalms2">Dedzīgi centās daudzus vest pie Kristus,<br>ar labestību, nežēlojot sevi,<br>mocekļa godu dzīves beigās guva,<br>asinis lejot.</p><p class="psalms1">Aizbilstot tāda svētā kalpa lūgsnām,<br>dod, Dievs, mums arī uzticīgi sekot<br>Kristum, lai varam nonākt debess mājās<br>un Tevi slavēt. Āmen.</p>';
 var himnaBarnabaVesperes = himnaBarnabaLaudes;
 
 // Sv. Matejs, apustulis
-var himnaMatejsLaudes = '<p class="psalms1">Tā godība, kas tevi skauj,<br>teic Dieva lielo maigumu<br>un cerību sniedz ticīgiem,<br>ka grēki tiks tiem atlaisti.</p><p class="psalms2">Reiz, Matej, muitā sēdēji<br>un monētiņas skaitīji,<br>kad Kristus tevi pasauca<br>krāt bagātību patieso.</p><p class="psalms1">Ar sirdi mīlā aizdegtu<br>Tu steidzies uzņemt Glābēju,<br>Kas tev jau vietu piešķīris<br>ir Debess galma godībā.</p><p class="psalms2">Tu Jēzus dzīves aprakstu<br>mums mantojumā atstāji,<br>lai barību, kas dievišķo,<br>mēs rastu Evaņģēlijā.</p><p class="psalms1">Par Kristu vārdos vēstīji,<br>par Viņu lēji asinis –<br>tā mīlestībā godinot<br>visaugstāko no vērtībām.</p><p class="psalms2">Ak, apustuli – mocekli<br>un evaņģēlist izcilais,<br>mūs ved, lai spētu mūžīgi<br>ar tevi Kristu godināt. Āmen.</p>';
+var himnaMatejsLaudes = '<p class="psalms1">Tā godība, kas tevi skauj,<br>teic Dieva lielo maigumu<br>un cerību sniedz ticīgiem,<br>ka grēki tiks tiem atlaisti.</p><p class="psalms2">Reiz, Matej, muitā sēdēji<br>par naudas lietām raizējies,<br>kad Kristus tevi pasauca<br>krāt bagātību patieso.</p><p class="psalms1">Ar sirdi, mīlā aizdegtu,<br>tu steidzies uzņemt Glābēju,<br>kas tev jau vietu piešķīris<br>ir Debess galma godībā.</p><p class="psalms2">Tu Jēzus dzīves aprakstu<br>mums mantojumā atstāji,<br>lai barību, kas dievišķo,<br>mēs rastu Evaņģēlijā.</p><p class="psalms1">Par Kristu vārdos vēstīji,<br>par Viņu lēji asinis –<br>tā mīlestībā godinot<br>visaugstāko no vērtībām.</p><p class="psalms2">Ak, apustuli – mocekli<br>un evaņģēlist izcilais,<br>mūs ved, lai spētu mūžīgi<br>ar tevi Kristu godināt. Āmen.</p>';
 var himnaMatejsVesperes = himnaMatejsLaudes;
+
+// Sv.Bartolomejs, apustulis
 
 }
 {// Marijas
@@ -81,8 +83,8 @@ var  himnaMarijasDebesbrauksanaLaudes= '<p class="psalms1">Jaunava, ģērbta sau
 var himnaMarijasDebesbrauksanaVesperes  = '<p class="psalms1">Pasaulei prieks Tu, jaunā debess zvaigzne,<br>dzemdēji Sauli, savu Radītāju,<br>palīdzi vājiem, pacel paklupušos,<br>Jaunava Svētā.</p><p class="psalms2">Dievam Tu biji izredzētās kāpnes,<br>pa kurām Augstais nāca pie mums lejā –<br>Debesīs nokļūt visiem, kas turp tiecas,<br>palīdzi, Marij.</p><p class="psalms1">Eņģeļi svētie visi vienā korī,<br>praviešu pulki, apustuļi visi,<br>godinot Tevi, uzlūko kā pirmo<br>tūlīt pēc Dieva.</p><p class="psalms2">Augstībā slava Trīsvienībai Svētai,<br>kas Tevi, Marij, greznoja ar kroni,<br>ieceļot Tevi mums par Karalieni,<br>gādīgu Māti. Āmen.</p>';
 
 // 15.septembris Sāpju Dievmātes
-var himnaMarijasSapesLaudes = '<p class="psalms1">Māt’, tu mīlestības jūra,<br>liec, lai sāpju taka sūra<br>līdz ar tevi jāiet man.</p><p class="psalms2">Iededzini sirdi manu<br>mīlēt savu labo Ganu.<br>Viņam vien lai slava skan!</p><p class="psalms1">Svētā Māte, rētas grūtas,<br>tava Dēla krustā gūtas,<br>manā sirdī iespied jel!</p><p class="psalms2">Viņš par mani nesis krustu.<br>Ļauj, lai es Tā mokas justu.<br>Viņa sāpes mani ceļ.</p><p class="psalms1">Liec man raudāt līdz ar tevi,<br>Kristus krustam atdot sevi,<br>kamēr vien es dzīvoju!</p><p class="psalms2">Stāt tev līdzās, kad redz krustu,<br>lai es tavas sāpes justu.<br>To vien es sev kāroju!</p><p class="psalms1">Tad, kad nomirs mana miesa,<br>ļauj, lai būtu dvēs’lei tiesa<br>paradīzes godībā! Āmen.</p>';
-var himnaMarijasSapesVesperes = '<p class="psalms1">Jaunava, tu visusvētā,<br>pāri visām izredzētā,<br>ļauj ar tevi raudāt man!</p><p class="psalms2">Liec, lai nesu Kristus sāpes,<br>Viņa ciešanas un slāpes,<br>Viņa brūces arīdzan!</p><p class="psalms1">Lai es pildos smagu vainu,<br>redzot Viņu asiņainu<br>tur pie krusta nomirstot.</p><p class="psalms2">Lai es liesmā mūžīgajā<br>nenokļūtu dienā tajā,<br>žēlo, Māte, tiesājot!</p><p class="psalms1">Kristu, atstāšu kad zemi,<br>savas Mātes dēļ man lemi<br>iegūt palmu uzvarā.</p><p class="psalms2">Tad, kad nomirs mana miesa,<br>ļauj, lai būtu dvēs’lei tiesa<br>paradīzes godībā! Āmen.</p>';
+var himnaMarijasSapesLaudes = '<p class="psalms1">Māt’, tu mīlestības jūra,<br>liec, lai sāpju taka sūra<br>līdz ar tevi jāiet man.</p><p class="psalms2">Aizdedzini sirdi manu<br>mīlēt savu labo Ganu.<br>Viņam vien lai slava skan!</p><p class="psalms1">Svētā Māte, Krustā sistā<br>brūces svētā miesā cirstās<br>manā sirdī iespied jel!</p><p class="psalms2">Viņš par mani nesis krustu –<br>ļauj, lai es Tā mokas justu,<br>Viņa sāpēs mani cel.</p><p class="psalms1">Liec man līdz ar Tevi raudāt<br>un par Krustā sisto bēdāt,<br>kamēr vien es dzīvoju!</p><p class="psalms2">Līdzās Tev pie krusta stāties,<br>sērās dziļās pievienoties<br>Tev es ļoti kāroju!</p><p class="psalms1">Kad būs miesa nomirusi,<br>lai ir dvēs’le saņēmusi<br>paradīzes godību! Āmen.</p>';
+var himnaMarijasSapesVesperes = '<p class="psalms1">Jaunava, Tu visusvētā,<br>pāri visām izredzētā,<br>ļauj ar tevi raudāt man!</p><p class="psalms2">Liec, lai nesu Kristus sāpes,<br>Viņa ciešanas un slāpes,<br>Viņa brūces arīdzan!</p><p class="psalms1">Lai es pildos smagu vainu,<br>redzot Viņu asiņainu<br>tur pie krusta nomirstot.</p><p class="psalms2">Lai es liesmās mūžīgajās<br>nenokļūtu dienā tajā,<br>žēlo, Māte, tiesājot!</p><p class="psalms1">Ļauj man Krusta aizgādībā,<br>Kristus nāves aizsardzībā<br>žēlastību iemantot.</p><p class="psalms2">Kad būs miesa nomirusi,<br>lai ir dvēs’le saņēmusi<br>paradīzes godību! Āmen.</p>';
 
 // 1.janāris Dieva Māte
 var himnaDievaMateVesperes = '<p class="psalms1">Kristu dzemdināts no Tēva<br>pirms kā radās pasaule,<br>saukts par Alfu un Omegu –<br>sākums, beigas esi Tu<br>visam, kas ir un kas bijis,<br>arī kas būs nākotnē.</p><p class="psalms2">Miesu vājo, kas mēdz pakrist,<br>nāvei lemtus locekļus,<br>pieņēmi, lai nepazustu<br>pirmvecāku pēcteči,<br>kurus likums iedzinis bij’<br>baisā elles valstībā.</p><p class="psalms1">Svētais pestīšanas sākums –<br>Jaunava ar dzemdībām<br>mūsu laimei dāvāja no<br>Svētā Gara ieņemto,<br>un zēns, visu atpestītājs,<br>svēto muti atvēra.</p><p class="psalms2">Tas, ko senie redzētāji<br>iepriekš bija teikuši,<br>pravieši ko pavēstīja<br>Svēto Rakstu grāmatās,<br>lūk mirdz nu reiz apsolītais,<br>steidzam Viņu godināt.</p><p class="psalms1">Dievu Tēvu godināsim<br>mēs ar himnām skanīgām;<br>Kristu dziesmām cildināsim,<br>dzimušu no Jaunavas;<br>Garam Iepriecinātājam<br>visos mūžu mūžos gods. Āmen.</p>';
@@ -119,15 +121,17 @@ var himnaCorpusChristiLaudes = '<p class="psalms1">Vārds nāca šurp no debesī
 var himnaCorpusChristiVesperes = '<p class="psalms1">Slavē, mēle, noslēpumu,<br>ko nes Miesa godpilnā,<br>arī Asinis Visdārgās,<br>kuras, ļaudis izpērkot,<br>izlēja pats tautu Valdnieks,<br>dzimis miesai cildenai!</p><p class="psalms2">Mūsu dēļ Viņš dots un dzimis<br>no Visšķīstās Jaunavas.<br>Dzīves laikā Vārda sēklu<br>sējot visā pasaulē,<br>noslēdza Viņš brīnišķīgi<br>savas dzīves gājumu.</p><p class="psalms1">Naktī pulcējies ar brāļiem<br>Vakariņās Pēdējās,<br>visu izpildot kā nākas<br>saskaņā ar Likumu,<br>sevi maltītē Viņš sniedza<br>apustuļiem divpadsmit.</p><p class="psalms2">Iemiesotais Vārds ar vārdu<br>maizi Miesā pārmaina,<br>vīnu Asinīs Tas pārvērš –<br>ja to nespēj apjaust prāts,<br>sirdij taisnīgai to saprast<br>palīdzēs vien ticība.</p><p class="psalms1">Visusvēto Sakramentu<br>godbijīgi pielūgsim:<br>Vecā Derība lai aiziet,<br>Jaunā nāk to nomainīt;<br>ticība mums palīdz sajust<br>to, ko nespēj jutekļi.</p><p class="psalms2">Dievu Tēvu, Dievu Dēlu<br>slavēsim ar gavilēm,<br>dosim godu, cildināsim,<br>Viņu varu atzīsim;<br>Garu, kas no Abiem iziet,<br>līdzvērtīgi slavēsim. Āmen.</p>';
 
 // ====JezusSirds
-var himnaJezusSirdsVesperes = '<p class="psalms1">Ak svētais pasaul’s Radītāj,<br>Kungs Jēzu visu Pestītāj,<br>Tu Tēva gaisma sūtītā<br>un patiess Dievs no Dieva dots.</p><p class="psalms2">Tu mīlestības mudināts<br>Pats tērpies miesā mirstīgā,<br>lai jaunais Ādams atgūtu,<br>ko vecais bija zaudējis.</p><p class="psalms1">Tā pati mīlestība, kas<br>gan zemi, zvaigznes veidoja,<br>mums senču grēku piedeva<br>un mūsu važas sarāva.</p><p class="psalms2">Lai Tavā Sirdī vienmēr mīt<br>šī mīlestība izcilā,<br>kas ļaudīm pestīšanu sniedz<br>no žēlastības avotiem.</p><p class="psalms1">Un tāpēc šķēps to pārdūra<br>caur brūci liekot straumēm līt<br>gan ūdenim, gan asinīm,<br>lai mūs no grēkiem mazgātu.</p><p class="psalms2">Tev, Jēzu, vienmēr gods lai skan,<br>no Sirds Tu žēlastību lej,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem mūžīgi. Āmen.</p>';  
-var himnaJezusSirdsLaudes = '<p class="psalms1">Ak, Jēzu žēlsirdības tēvs,<br>kas sniedz mums līksmi pilnīgo,<br>Tu avots laimei mūžīgai<br>un sirdij bauda patiesā.</p><p class="psalms2">Tu grēcinieku cerība,<br>pilns maiguma pret lūdzējiem,<br>pret Tevis meklētājiem - labs,<br>un kāds vēl tiem, kas atradīs?</p><p class="psalms1">Un mīlestība Tavējā<br>mums sirdīm spēkus atjauno,<br>ar labo maigi piepildot,<br>pēc Tevis ilgas stiprinot.</p><p class="psalms2">Ak, Jēzu, visumīļākais,<br>uz Tevi grēcinieki cer,<br>kas Tevis karsti ilgojas<br>no visiem dvēs’les dziļumiem.</p><p class="psalms1">Kungs, lūdzu paliec Tu ar mums<br>kā jaunā rīta auseklis,<br>kas tumšo nakti aizdzen prom,<br>ar prieku dzīvi piepildot.</p><p class="psalms2">Tu, Jēzu, visucēlākais,<br>prieks sirdīm brīnišķīgākais,<br>Tu - labums neizteicamais,<br>kas savām rūpēm apskauj mūs.</p><p class="psalms1">Tu jaunavīgās Mātes zieds<br>lej sirdīs mīlas nektāru,<br>lai mūžīgi Tev slavu teic<br>tie, kas mīt laimes valstībā. Āmen.</p>';
+var himnaJezusSirdsVesperes = '<p class="psalms1">Ak svētais pasaul’s Radītāj,<br>Kungs Jēzu visu Pestītāj,<br>Tu Tēva gaisma sūtītā<br>un patiess Dievs no Dieva dots.</p><p class="psalms2">Tu mīlestības mudināts<br>pats tērpies miesā mirstīgā,<br>lai jaunais Ādams atgūtu,<br>ko vecais bija zaudējis.</p><p class="psalms1">Tā pati mīlestība, kas<br>gan zemi, zvaigznes veidoja,<br>mums senču grēku piedeva<br>un mūsu važas sarāva.</p><p class="psalms2">Lai Tavā Sirdī vienmēr mīt<br>šī mīlestība izcilā,<br>kas ļaudīm pestīšanu sniedz<br>no žēlastības avotiem.</p><p class="psalms1">Un tāpēc šķēps to pārdūra<br>caur brūci liekot straumēm līt<br>gan ūdenim, gan asinīm,<br>lai mūs no grēkiem mazgātu.</p><p class="psalms2">Tev, Jēzu, vienmēr gods lai skan,<br>no Sirds Tu žēlastību lej,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem mūžīgi. Āmen.</p>';  
+var himnaJezusSirdsLaudes = '<p class="psalms1">Ak, Jēzu žēlsirdības tēvs,<br>kas sniedz mums līksmi pilnīgo,<br>Tu avots laimei mūžīgai<br>un sirdij bauda patiesā.</p><p class="psalms2">Tu grēcinieku cerība,<br>pilns maiguma pret lūdzējiem,<br>pret Tevis meklētājiem – labs,<br>un kāds vēl tiem, kas atradīs?</p><p class="psalms1">Un mīlestība Tavējā<br>mums sirdīm spēkus atjauno,<br>ar labo maigi piepildot,<br>pēc Tevis ilgas stiprinot.</p><p class="psalms2">Ak, Jēzu, visumīļākais,<br>uz Tevi grēcinieki cer,<br>kas Tevis karsti ilgojas<br>no visiem dvēs’les dziļumiem.</p><p class="psalms1">Kungs, lūdzu paliec Tu ar mums<br>kā jaunā rīta auseklis,<br>kas tumšo nakti aizdzen prom,<br>ar prieku dzīvi piepildot.</p><p class="psalms2">Tu, Jēzu, visucēlākais,<br>prieks sirdīm brīnišķīgākais,<br>Tu – labums neizteicamais,<br>kas savām rūpēm apskauj mūs.</p><p class="psalms1">Tu jaunavīgās Mātes zieds<br>lej sirdīs mīlas nektāru,<br>lai mūžīgi Tev slavu teic<br>tie, kas mīt laimes valstībā. Āmen.</p>';
 
 // ====Transfiguration
-var himnaTransfigurationLaudes = '<p class="psalms1">Saldā Jēzus piemiņa,<br>kas sirdij dod patiesu prieku,<br>taču par medu un visu citu<br>saldāka ir Viņa klātbūtne.</p><p class="psalms2">Nekas netiek maigāk dziesmās teikts,<br>nekas – vislabprātāk uzklausīts,<br>nekas mūsu domām saldāks nav<br>kā Jēzus Dieva Dēls.</p><p class="psalms1">Jēzu siržu valdzinātāj,<br>patiesības avots, gaisma dvēselei,<br>ikvienu prieku pārspēj Tu,<br>pārsniedz ikkatru ilgošanos.</p><p class="psalms2">Kad sirdis mūsu Tu apciemo<br>tad patiesība tās apgaismo,<br>pasaules tukšības nieki šķiet,<br>dvēsele ar mīlestību piepildās.</p><p class="psalms1">Dod bagātīgi mums žēlastību,<br>Tevis mīlestības pārpilnību;<br>lai ar Tavas klātbūtnes palīdzību<br>mēs redzētu Tavu godību.</p><p class="psalms2">Slavas dziesmas Tev skandinām,<br>kas esi Tēva mīļotais Dēls,<br>Tēva un Svētā Gara<br>izcilais spožums to atklāj. Āmen.</p>';
-var himnaTransfigurationVesperes = '<p class="psalms1">Gaisma no gaismas dzimusī,<br>Jēzu, pasaules Pestītāj,<br>pieņem slavu, ko teicam Tev,<br>mūsu lūgšanas uzklausi.</p><p class="psalms2">Seju, kā sauli mirdzošu,<br>spožās kā sniegs drēbēs tērpies,<br>kalnā mācekļiem cienīgiem<br>parādījies kā Kungs un Dievs.</p><p class="psalms1">Pravietis senos praviešus<br>saviem mācekļiem parādi,<br>vieniem un otriem brīnišķā<br>veidā, kā Dievs Tu atklājies.</p><p class="psalms2">Tēva balss skan no debesīm,<br>Tevi par savu Dēlu sauc;<br>mēs kā debesu ķēniņu<br>Tevi ticībā pielūdzam.</p><p class="psalms1">Miesā Tu kādreiz ietērpies,<br>grēciniekus lai izglābtu,<br>dari, lai kļūstam cienīgi<br>Mistiskās Miesas locekļi.</p><p class="psalms2">Slavas dziesmas Tev skandinām,<br>Tev kas, Tēva mīļotais Dēls,<br>Tēva un Svētā Gara mums<br>izcilais spožums to atklāj. Āmen.</p>';
+var himnaTransfigurationLaudes = '<p class="psalms1">Ak, saldā Jēzus piemiņa,<br>kas sirdij īstu prieku dod,<br>bet Viņa dzīvā klātbūtne<br>par pašu medu saldāka.</p><p class="psalms2">Cits netiek maigāk apdziedāts,<br>nedz arī mīļāk uzklausīts,<br>nedz domās vairāk cildināts<br>kā Jēzus Kristus – Dieva Dēls.</p><p class="psalms1">Ak, Jēzu, siržu līksmība<br>un prāta gaisma patiesā,<br>ikvienu prieku pārspēj Tu<br>un visas ilgas piepildi.</p><p class="psalms2">Kad ienāc mūsu dvēselē,<br>to patiesība apgaismo,<br>no tukšībām tā atsakās,<br>ar žēlsirdību piepildās.</p><p class="psalms1">Lej sirdīs grēku nožēlu,<br>lai Tevi vairāk mīlam mēs<br>un, esot Tavā klātbūtnē,<br>mēs redzam Tavu godību.</p><p class="psalms2">Tev slavas dziesmas skandinām,<br>Tu esi Tēva mīļais Dēls,<br>ko Tēvs ar Garu godībā<br>no spožas debess atklāja. Āmen.</p>';
+var himnaTransfigurationLS = '<p class="psalms1">Cæléstis formam glóriæ,<br>quam spes quærit Ecclésiæ,<br>in monte Christus índicat,<br>qui supra solem émicat.</p><p class="psalms2">Res memoránda sǽculis:<br>tribus coram discípulis,<br>cum Elía, cum Móyse<br>grata promit elóquia.</p><p class="psalms1">Assístunt testes grátiæ,<br>legis vatúmque véterum;<br>de nube testimónium<br>sonat Patris ad Fílium.</p><p class="psalms2">Glorificáta fácie<br>Christus declárat hódie<br>quis honor sit credéntium<br>Deo pie fruéntium.</p><p class="psalms1">Visiónis mystérium<br>corda levat fidélium,<br>unde sollémni gáudio<br>clamat nostra devótio:</p><p class="psalms2">Pater, cum Unigénito<br>et Spíritu Paráclito<br>unus, nobis hanc glóriam<br>largíre per præséntiam. Amen.</p>';
+var himnaTransfigurationVesperes = '<p class="psalms1">No Gaismas Gaisma dzimusī,<br>Tu, Jēzu – visu Pestītāj,<br>jel pieņem slavas dziesmas Tev<br>un mūsu lūgsnas uzklausi.</p><p class="psalms2">Par sauli seju spožāku<br>un drēbēs baltās tā kā sniegs,<br>uz kalna saviem mācekļiem<br>Tu parādījies Radītāj.</p><p class="psalms1">Gan praviešus, gan mācekļus<br>Tu kalnā kopā savedi,<br>lai atklātu tiem brīnišķi,<br>ka esi Dievs, kam viņi tic.</p><p class="psalms2">Un Tēva balss no debesīm,<br>par savu Dēlu Tevi sauc,<br>ko pielūdz visi ticīgie<br>kā savu debess Ķēniņu.</p><p class="psalms1">Reiz ļaužu miesā ietērpies,<br>lai grēciniekus izglābtu,<br>par savas Miesas locekļiem<br>mūs visus dari cienīgiem.</p><p class="psalms2">Tev slavas dziesmas skandinām,<br>Tu esi Tēva mīļais Dēls,<br>ko Tēvs ar Garu godībā<br>no spožas debess atklāja. Āmen.</p>';
 // ====
 var himnaKrustsLaudes = '<p class="psalms1">Lūk, svētais krusts – tas glābiņš mums,<br>nav aptverams tā noslēpums:<br>pie sāpju krusta Jēzus mirst,<br>no nāves šīs mums dzīve dzimst.</p><p class="psalms2">Šķēps viņam Sirdi pārdūris,<br>lai pilnīgs būtu upuris:<br>un asin’s svētās no tās plūst,<br>kas atpestī no grēkiem mūs.</p><p class="psalms1">Jau piepildīts un noticis,<br>ko Kristus bija sacījis:<br>“Kad, krustā pacelts, nomiršu,<br>pie sevis visus pievilkšu.”</p><p class="psalms2">Gaišs tagad mirdzi, svētais krusts,<br>šis mirdzums tavs vairs nevar zust,<br>jo cēlies lielā godā tu<br>ar Jēzu, tevī piekaltu!</p><p class="psalms1">Ar tevi kopā augšup celts<br>daudz lielāks dārgums nekā zelts:<br>Tas piedod grēku parādus,<br>no elles sargā ticīgos.</p><p class="psalms2">Ak, krusts, tu mūsu cerība,<br>ikvienu aizved mūžībā,<br>kur Dieva labvēlību jūt<br>un grēcinieku vainas zūd!</p><p class="psalms1">Tev, pestīšanas pirmavots,<br>Dievs Trīsvienīgais, mūžam gods!<br>Ar krustu sniedz mums uzvaru<br>un slavas pilnu atalgu! Āmen.</p>';
 //var himnaKrustsVesperes = himnaKlusasVesperes;
+
 // ==novembris Karalis==
 var himnaRexLaudes = '<p class="psalms1">Visaugstā attēls mūžīgais,<br>no Gaismas Gaisma, Tēva Vārds,<br>Tev, Atpestītāj, slava, gods<br>un karaļvara pienākas.</p><p class="psalms2">Tu cerība mums vienīgā,<br>uz kuras balstās pasaule,<br>ar prieku pakļaujamies Tev,<br>kas esi Valdnieks augstākais.</p><p class="psalms1">Tu zieds no šķīstās Jaunavas,<br>Tu mūsu tautas vadonis,<br>no augšas akmens krītošais<br>un kalns, kas zemi piepilda.</p><p class="psalms2">Tu nolādētos mirstīgos,<br>kas ļaunajam ir pakļauti,<br>no grēka varas atbrīvo<br>un ved uz debess laimību.</p><p class="psalms1">Tu likumdevējs, skolotājs<br>un priesteris, kas vadi mūs.<br>Uz tērpa rakstīts asinīm:<br> “Visaugstākais Kungs – Karalis”.</p><p class="psalms2">Lai Tēvam, Tev un Aizstāvim<br>tiek, Jēzu, gods dots mūžīgi,<br>jo mūs, ar as’nīm atpirktos,<br>Tu velc uz debess valstību. Āmen.</p>';
 var himnaRexVesperes = '<p class="psalms1">Mēs Tevi, laiku Valdnieku,<br>ak, Kristu, tautu Karali,<br>kā Kungu teicam vienīgo,<br>kam sirdis, prātus pārvaldīt.</p><p class="psalms2">Tev debess pulki godu dod<br>un slavas dziesmām cildina,<br>ar sajūsmu mēs daudzinām –<br>Tu augstākais no valdniekiem.</p><p class="psalms1">Ak, Kristu, miera Karali,<br>nāc, nomierini naidīgos<br>un noklīdušos aicini<br>uz mīlestības vienību.</p><p class="psalms2">Un tāpēc rokas iztiepi,<br>pie krusta lēji asinis,<br>un Sirdi, šķēpa caurdurto,<br>mums mīlā degam rādīji.</p><p class="psalms1">Un tāpēc esi altārī<br>zem vīna, maizes paslēpies,<br>lej žēlastību ticīgiem,<br>kas plūst no sāna pārdurtā.</p><p class="psalms2">Tev, Jēzu, vienmēr gods lai skan,<br>kas mīlestībā vieno mūs,<br>un Tēvam, Garam Svētajam<br>uz visiem laikiem mūžīgi. Āmen.</p>';
@@ -161,12 +165,12 @@ var himnaMartyrMoreVesperes = '<p class="psalms1">Šo svēto nopelnus un darbus 
 var himnaMartyrVirginVesperes = '<p class="psalms1">Jaunavas Bērns un Mātes izveidotājs,<br>Jaunavas iznēsāts un Viņai dzimis,<br>jaunavas svētkos dziedam mēs tai slavu,<br>pielūdzot Tevi.</p><p class="psalms2">Jaunava Tava divkārt svētlaimīga:<br>uzveica vispirms trauslās miesas dziņas,<br>satrieca pēc tam, mirstot moceklībā,<br>pasaules niekus.</p><p class="psalms1">Nebijās nāves, nedz no nāves rīkiem,<br>izciešot daudzos mocīšanas veidus,<br>asinis lejot, izpelnījās laimi<br>debesīs nonākt.</p><p class="psalms2">Aizbilstot viņai, Dievs, Tu mūsu labais,<br>piedod mums grēkus, atbrīvo no soda,<br>lai tīrām sirdīm, dziedam mēs Tev slavu<br>mūžīgi mūžam. Āmen.</p>'; 
 var himnaMartyrMoreVesperesSieviesu = '<p class="psalms1">Šo svēto nopelnus un darbus varenos<br>mēs kopā slavēsim ar prieku milzīgu:<br>jo gars mūs mudina tos dziesmām daudzināt,<br>kas cīnās līdz pat uzvarai.</p><p class="psalms2">No viņām vairījās pasaule grimusī,<br>kaut arī palīdzēt sev pati nespēja,<br>to viņi pilnībā pameta sekojot<br>Tev, Kristu, labais karali.</p><p class="psalms1">Gan viņas dusmas, gan ārprātu pacieta, –<br>nedz sāka kurnēt tās, nedz arī žēloties,<br>bet sirdi mierīgu un prātu nosvērtu<br>tie izturēja mocības.</p><p class="psalms2">Kas gan to varētu ar vārdiem izstāstīt,<br>cik daudz Tu dāvanu mocekļiem gatavo!?<br>Ar sārtu uzvaras vainagu rotāti<br>mirdz nu tie spoži debesīs.</p><p class="psalms1">Dievs, Tevi trejādi vienoto lūdzam mēs,<br>no grēkiem mazgā mūs, no ļauna atbrīvo,<br>dod mieru mūžīgo, lai Tevi slavētu<br>caur visiem gadu simteņiem. Āmen.</p>';*/
 
-var himnaLaurencijsLaudes = '<p class="psalms1">Kad mocīts tika Laurencijs,<br>tā bija cīņa briesmīga –<br>jo Ticība tad karoja,<br>tai asins lija aumaļām.</p><p class="psalms2">No krietniem vīriem septiņiem,<br>kas piekalpo pie altāra,<br>pats izcilākais bija viņš<br>un pārējiem par paraugu.</p><p class="psalms1">Šis varonīgais karotājs<br>iet cīniņā bez zobena,<br>jo uzbrucēja ieroci<br>viņš vērš pret pašu ļaundari.</p><p class="psalms2">Un tāpēc, svētais Laurencij,<br>mēs tevi vienmēr godājam,<br>jo kats lūdzējs pazemīgs<br>tev palīdzot gūst svētību.</p><p class="psalms1">Nu esi uzņemts debesīs<br>kā paradīzes pilsonis<br>un goda vīru pulkā tu<br>ar slavas kroni mūžīgo.</p><p class="psalms2">Lai gods tiek Tēvam, Dēlam ar,<br>un Garam mūsu Aizstāvim,<br>kas nemitīgu uzvaru,<br>mums dāvā, kad tu aizbilsti. Āmen.</p>';
+var himnaLaurencijsLaudes = '<p class="psalms1">Kad mocīts tika Laurencijs,<br>tā bija cīņa briesmīga –<br>jo Ticība tad karoja,<br>tai asins lija aumaļām.</p><p class="psalms2">No krietniem vīriem septiņiem,<br>kas piekalpo pie altāra,<br>pats izcilākais bija viņš<br>un pārējiem par paraugu.</p><p class="psalms1">Šis varonīgais karotājs<br>iet cīniņā bez zobena,<br>jo uzbrucēja ieroci<br>viņš vērš pret pašu ļaundari.</p><p class="psalms2">Un tāpēc, svētais Laurencij,<br>mēs tevi vienmēr godājam,<br>jo katrs lūdzējs pazemīgs<br>tev palīdzot gūst svētību.</p><p class="psalms1">Nu esi uzņemts debesīs<br>kā paradīzes pilsonis<br>un goda vīru pulkā tu<br>ar slavas kroni mūžīgo.</p><p class="psalms2">Lai gods tiek Tēvam, Dēlam ar’<br>un Garam mūsu Aizstāvim,<br>kas nemitīgu uzvaru,<br>mums dāvā, kad tu aizbilsti. Āmen.</p>';
 }
 {// Gani - priesteri ==> himnas.js
 }
 {// Doktori ==> himnas.js
-/* var himnaDoctorLaudes = '<p class="psalms1">Mācītājs, Kristu, mūžīgs Tu un gādīgs,<br>kas ļaudīm atklāj pestīšanas ceļu.<br>Tev vienam pieder vārdi, kas mums dāvā<br>mūžīgo dzīvi.</p><p class="psalms2">Lūdzam mēs Tevi, vispasaules Valdniek,<br>atbalsti stipriem vārdiem allaž savu<br>Līgavu, lai tā nepārstātu būt par<br>pasaules gaismu.</p><p class="psalms1">Tu pie mums sūti savus krietnos kalpus,<br>svētumā viņi mirdz kā debess zvaigznes,<br>mācību Tavu ļaudīm lai tie vienmēr<br>atgādinātu.</p><p class="psalms2">Mācītāj, lai nu skan Tev slavas dziesmas –<br>ar Gara veltēm brīnišķām Tu pildi<br>praviešus, lai tie droši visiem teiktu<br>dzīvības vārdus.</p><p class="psalms1">Lai svētais, ko mēs tagad pagodinām,<br>aizbilstot palīdz Tavai tautai staigāt<br>pa gaismas ceļiem līdz tā Tevi slavēs<br>debesu gaismā. Āmen.</p>';
+/* var himnaDoctorLaudes;
 var himnaDoctorMultiVesperes = himnaGaniMultiVesperes; */
 }
 {// Metropole
@@ -208,7 +212,6 @@ var himnaFrancisksVesperes = himnaFrancisksLaudes;
 }
 
 
-
 // ==== “”
 {// Dienas stundai parasti attiecīgā laika posma himna !!!!
 // template_liturgy.js
@@ -216,6 +219,115 @@ var himnaFrancisksVesperes = himnaFrancisksLaudes;
 //var noslegums2 = "<span id='gara'>Kas ar Tevi dzīvo un valda Svētā Gara vienībā, Dievs visos mūžu mūžos.</span><span id='dienas' style='display: none;'>Kas dzīvo un valda mūžu mūžos.</span>";
 //var noslegums3 = "<span id='gara'>Kas dzīvo un valdi ar Dievu Tēvu Svētā Gara vienībā, Dievs visos mūžu mūžos.</span><span id='dienas' style='display: none;'>Kas dzīvo un valdi mūžu mūžos.</span>";
 }
+
+var svetkiViriesiMuki = {
+	"laudes": {
+		"title": "<span id='N'>Sv. N.</span>, Laudes",
+		"ievdant": "Slavēsim mūsu Dievu svētā <span id='G'>N.</span> <span id='memorial'>piemiņas dienā</span><span id='festum'>svētkos</span>.", 
+		"himna": "",
+		"ps1": "psalms63",
+		"ps2": "dan3c",
+		"ps3": "psalms149",
+		"ant1": "Kungs ir devis viņiem mūžīgo godību, un viņu vārds tiks slavēts uz mūžiem.",
+		"ant2": "Kunga kalpi, teiciet Kungu uz mūžiem.",
+		"ant3": "Svētie uzgavilēs godībā, līksmosies savās atpūtas vietās.",
+		"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
+		"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
+		"atbilde": "",				
+		"atb1": "Dieva likums* ir viņa sirdī.",
+		"atb2": "Viņa soļi neļodzīsies.*",
+		"atb3": "Dieva likums ir viņa sirdī.",
+		"magbenant": "Katrs, kas pilda mana Tēva gribu, kurš ir Debesīs, tas ir mans brālis un māsa, un māte,” saka Kungs<span class='Lieldienas'>, alleluja</span>.",
+		"lugumi": "Brāļi, pagodināsim Kristu, kas ir svētais Dievs, lūdzot, lai mēs svētumā un taisnībā Viņam kalpotu visās sava mūža dienās, un sauksim:",
+		"resplugums": "- Kungs, vienīgi Tu esi svēts!",
+		"lugums": {
+			"lugums1": "Tu piedzīvoji visus tos pašus dzīves pārbaudījumus kā mēs, izņemot grēku, Kungs Jēzu, apžēlojies par mums.",
+			"lugums2": "Tu mūs visus aicināji uz mīlestības pilnību, Kungs Jēzu, svētdari mūs.",
+			"lugums3": "Tu mums pavēlēji būt par zemes sāli un pasaules gaismu, Kungs Jēzu, apgaismo mūs.",
+			"lugums4": "Tu vēlējies kalpot, nevis tikt apkalpots, Kungs Jēzu, dari, ka mēs pazemībā kalpotu Tev un brāļiem.",
+			"lugums5": "Tu esi Tēva godības spožums un Viņa būtības attēls, Kungs Jēzu, dari, lai mēs reiz godībā varētu skatīt Tavu vaigu."
+			},
+		"lugsimies": ""
+		},
+	"dienas" : {
+		"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
+		"himna" : "",
+		"ps1": "psalms21",
+		"ps2": "psalms92I",
+		"ps3": "psalms92II",
+		"ant1": "No Tevis viņš lūdza dzīvību, un Tu devi to viņam, Kungs; ar varenību un spožumu Tu viņu rotāji.", // trešā
+		"ant2": "Taisnīgo taka kā ausmas spožums – jo gaišāks, kad tuvāk dienvidum.", // sestā
+		"ant3": "Taisnīgais ziedēs kā palma, viņš augs kā Libāna ciedru koks.", // devītā
+		"stunda" : {
+			3 : {
+				"himna" : "",
+				"ant" : "",
+				"ps1": "",
+				"ps2": "",
+				"ps3": "",
+				"lasijumstitle": "LASĪJUMS Gal 6, 7b-8",
+				"lasijumstext": "Ko cilvēks būs iesējis, to arī pļaus, – kas sēj savā miesā, tas no miesas pļaus iznīcību, bet kas sēj Garā, tas no Gara pļaus mūžīgo dzīvi.",
+				"atb1" : "Lēnprātīgos Kungs vadīs taisnībā.",
+				"atb2" : "Pazemīgajiem mācīs savus ceļus.",
+				"lugsimies": ""
+			},
+			6 : {
+				"himna" : "",
+				"ant" : "",
+				"ps1": "",
+				"ps2": "",
+				"ps3": "",
+				"lasijumstitle": "LASĪJUMS 1 Kor 9, 26-27a",
+				"lasijumstext": "Es arī tāpat skrienu, taču ne bezmērķīgi, un tāpat cīkstos, taču ne jau kā gaisu kuldams, bet gan šaustu savu miesu un pakļauju to kalpībā.",
+				"atb1" : "Svētlaimīgs cilvēks, ko Tu, Kungs, pārmāci.",
+				"atb2" : "Ko no sava Likuma māci.",
+				"lugsimies": ""
+			},
+			9 : {
+				"himna" : "",
+				"ant" : "",
+				"ps1": "",
+				"ps2": "",
+				"ps3": "",
+				"lasijumstitle": "LASĪJUMS Flp 4, 8.9b",
+				"lasijumstext": "Brāļi, visu, kas vien ir patiess, kas ir godājams, kas taisnīgs, kas šķīsts, kas patīkams, kam ir laba slava un kas vien ir tikumīgs un kas vien slavējams, to paturiet prātā, – un miera Dievs būs ar jums.",
+				"atb1" : "Visi, kas cer uz Tevi, lai priecājas!",
+				"atb2" : "Tie gavilēs mūžam! Tu apmetīsies mājot viņu vidū.",
+				"lugsimies": ""
+			}
+		},
+		"lugsimies": ""
+	},
+	"vesperes": {
+		"title": "<span id='N'>Sv. N.</span>, Vesperes",
+		"himna": "",
+		"ps1": "",
+		"ps2": "",
+		"ps3": "",
+		"ant1": "",
+		"ant2": "",
+		"ant3": "",
+		"lasijumstitle": "LASĪJUMS Rom 8, 28-30",
+		"lasijumstext": "Mēs zinām, ka tiem, kas mīl Dievu, viss nāk par labu, tiem, kas saskaņā ar Viņa lēmumu ir aicināti. Jo kurus Viņš iepriekš pazina, tos arī iepriekš nozīmēja kļūt līdzīgiem sava Dēla attēlam, lai Viņš būtu pirmdzimtais starp daudziem brāļiem. Bet kurus Viņš iepriekš nozīmēja, tos arī aicināja; un kurus aicināja, tos arī attaisnoja; bet kurus attaisnoja, tos arī pagodināja.",
+		"atbilde": "responsorijs",
+		"atb1": "Kungs ir taisnīgs,* Viņš mīl taisnību.",
+		"atb2": "Viņa vaigu skatīs taisnīgie.*",
+		"atb3": "Viņš mīl taisnību.",
+		"magbenant": "Jūs, kas visu esat atstājuši un sekojuši Man, saņemsiet simtkārtīgi un iemantosiet mūžīgo dzīvi<span class='Lieldienas'>, alleluja</span>.",
+		"lugumi": "Neatlaidīgi lūgsim Tēvu, visa svētuma avotu, lai ar svēto paraugu un aizbildnību Viņš mūs aizvada līdz svētai dzīvei:",
+		"resplugums": "- Dari mūs svētus, jo Tu esi svēts!",
+		"lugums": {
+			"lugums1": "Svētais Tēvs, Tu vēlējies, lai mēs tiktu saukti par Taviem bērniem un tādi būtu arī patiesībā, dari, lai visā pasaulē Tevi godina svētā Baznīca.",
+			"lugums2": "Svētais Tēvs, Tu vēlējies, lai mēs cienīgi dzīvotu un būtu Tev visā patīkami, dari, lai mēs būtu auglīgi labos darbos.",
+			"lugums3": "Svētais Tēvs, caur Kristu Tu mums palīdzēji izlīgt ar Tevi, sargā mūs savā vārdā, lai mēs būtu vienoti.",
+			"lugums4": "Svētais Tēvs, Tu mūs esi aicinājis debesu mielastā, palīdzi mums sasniegt mīlestības pilnību, mielojot mūs ar maizi, kas nākusi no debesīm.",
+			"lugums5": "Svētais Tēvs, piedod grēciniekiem visus parādus, un ļauj mirušajiem skatīt Tava vaiga gaismu."
+		},
+		"lugsimies": ""
+	}
+}
+
+
 
 var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena lieldienu laikā jāpievieno <span class='alleluja' style='display: none;'>Alleluja.</span>
 	0 : { // mainīgo datumu piemiņas dienas savā mainīgjā zem festum[0]
@@ -316,7 +428,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"ps2": "",
 						"ps3": "",
 						"lasijumstitle": "LASĪJUMS Is 49, 6",
-						"lasijumstext": "Kungs man teica: “Tas ir par maz, ka tu esi Mans kalps, lai atjaunotu Jēkaba ciltis un atvestu atpakaļ tos, kas atlikuši no Izraēļa. Es tevi iecelšu par gaismu pagānu tautām, lai Mana pestīšana aizsniegtos līdz pat zemes robežām.”",
+						"lasijumstext": "Kungs man teica: “Tas ir par maz, ka tu esi mans kalps, lai atjaunotu Jēkaba ciltis un atvestu atpakaļ tos, kas atlikuši no Izraēļa. Es tevi iecelšu par gaismu pagānu tautām, lai Mana pestīšana aizsniegtos līdz pat zemes robežām.”",
 						"atb1" : "Es Viņam došu savu Garu.",
 						"atb2" : "Un Viņš sludinās tautām taisnību.",
 						"lugsimies": ""
@@ -378,7 +490,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Kristu, dievišķais ārst, Tu savā maizē dāvā nemirstības zāles un augšāmcelšanās ķīlu, atjauno veselību slimajiem un dzīvu cerību – grēciniekiem.",
 					"lugums5": "Kristu, Karali, kas atnāksi laiku beigās, Tu pavēlēji, lai Euharistija, kas vēstī par Tavu nāvi, tiek svinēta līdz pat Tavai atnākšanai, pieņem visus, kas mirst Tevī, par līdzdalībniekiem Tavas augšāmcelšanās godībā."
 				},
-				"lugsimies": "Dievs, Tu Brīnišķajā Sakramentā esi mums atstājis savu ciešanu piemiņu, – Tevi lūdzam, dari, ka mēs Tavas Miesas un Asiņu svēto noslēpumu tā godinām, lai varētu pastāvīgi saņemt Tavas pestīšanas augļus. " + noslegums3
+				"lugsimies": ""
 			},
 			"laudes": {
 				"title": "Kristus Miesa un Asinis, Laudes",
@@ -406,7 +518,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Kristu, manna, kas nāk no debesīm, Tu paēdini Baznīcu ar savu Miesu un Asinīm, dari, ka mēs savās ikdienas gaitās dotos šī ēdiena stiprināti.",
 					"lugums5": "Kristu, mūsu svinību neredzamais viesi, Tu stāvi pie durvīm un klauvē, nāc pie mums un piedalies mūsu kopējā mielastā."
 				},
-				"lugsimies": "Dievs, Tu Brīnišķajā Sakramentā esi mums atstājis savu ciešanu piemiņu, – Tevi lūdzam, dari, ka mēs Tavas Miesas un Asiņu svēto noslēpumu tā godinām, lai varētu pastāvīgi saņemt Tavas pestīšanas augļus. " + noslegums3
+				"lugsimies": ""
 			},
 			"dienas" : {
 				"title": "Kristus Miesa un Asinis, Dienas vidus",
@@ -455,7 +567,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Dievs, Tu Brīnišķajā Sakramentā esi mums atstājis savu ciešanu piemiņu, – Tevi lūdzam, dari, ka mēs Tavas Miesas un Asiņu svēto noslēpumu tā godinām, lai varētu pastāvīgi saņemt Tavas pestīšanas augļus. " + noslegums3
+				"lugsimies": ""
 			},
 			"vesperes": {
 				"title": "Kristus Miesa un Asinis,<br>II Vesperes",
@@ -482,7 +594,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Kristu, dievišķais ārst, Tu savā maizē dāvā nemirstības zāles un augšāmcelšanās ķīlu, atjauno veselību slimajiem un dzīvu cerību – grēciniekiem.",
 					"lugums5": "Kristu, Karali, kas atnāksi laiku beigās, Tu pavēlēji, lai Euharistija, kas vēstī par Tavu nāvi, tiek svinēta līdz pat Tavai atnākšanai, pieņem visus, kas mirst Tevī, par līdzdalībniekiem Tavas augšāmcelšanās godībā."
 				},
-				"lugsimies": "Dievs, Tu Brīnišķajā Sakramentā esi mums atstājis savu ciešanu piemiņu, – Tevi lūdzam, dari, ka mēs Tavas Miesas un Asiņu svēto noslēpumu tā godinām, lai varētu pastāvīgi saņemt Tavas pestīšanas augļus. " + noslegums3
+				"lugsimies": ""
 			}
 		},
 		"JezusSirds": {
@@ -510,7 +622,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums3": "Jēzu, Karali un visu siržu Vienotāj, Tu mūs mīli ar mūžīgu mīlestību un žēlsirdīgi pievelc pie sevis, atjauno ar visiem savu Jauno Derību.",
 					"lugums4": "Jēzu, mūsu miers un izlīgums, Tu visus apvienoji vienā Jaunajā Cilvēkā un caur krustu iznīcināji ienaidu, ved mūs pie Tēva.",
 					"lugums5": "Jēzu, mūsu dzīvība un augšāmcelšanās, nogurušo atspirdzinājums un dvēseļu miers, pievelc pie sevis grēciniekus.",
-					"lugums6": "Jēzu, Tu ar savu lielo mīlestību kļuvi paklausīgs līdz pat krusta nāvei, augšāmpiecel visus Tavā mierā aizmigušos."
+					"lugums6": "Jēzu, Tu ar savu lielo mīlestību kļuvi paklausīgs līdz pat krusta nāvei, augšāmcel visus Tavā mierā aizmigušos."
 				},
 				"lugsimies": "Visvarenais Dievs, dari, lai mēs, kas, godinot Tava mīļotā Dēla Sirdi, pieminam Viņa mīlestības brīnumdarbus mūsu labā, no šī debesu dāvanu avota saņemtu žēlastību pārpilnībā. " + noslegums1
 			},
@@ -534,7 +646,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugumi": "Brāļi un māsas, lūgsim Jēzu, kurš ir lēnprātīgs un pazemīgu sirdi:",
 				"resplugums": "- Vismīļais Karali, apžēlojies!",
 				"lugums": {
-					"lugums1": "Jēzu, Tevī mājo Dievišķības pilnība, dari mūs par Tavas Dievišķās dabas līdzdalībniekiem.",
+					"lugums1": "Jēzu, Tevī mājo dievišķības pilnība, dari mūs par Tavas dievišķās dabas līdzdalībniekiem.",
 					"lugums2": "Jēzu, Tevī ir visi gudrības un zināšanu dārgumi, caur savu Baznīcu atklāj mums daudzveidīgo Dieva gudrību.",
 					"lugums3": "Jēzu, Tu Tēvam ļoti labpatiki, dari mūs par uzmanīgiem Tavu vārdu klausītājiem.",
 					"lugums4": "Jēzu, no Tavas pilnības mēs visi esam saņēmuši, dāsni apdāvini mūs ar Tēva žēlastību un patiesību.",
@@ -601,7 +713,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ant2": "Žēlsirdīgais un žēlīgais Kungs barību deva tiem, kas Viņa bīstas.",
 				"ant3": "Lūk Dieva Jērs, lūk, kas nes pasaules grēkus.",
 				"lasijumstitle": "LASĪJUMS Ef 2, 4-7",
-				"lasijumstext": "Dievs, būdams žēlsirdībā bagāts, savas lielās mīlestības dēļ, ar kuru mūs mīlēja, mūs atdzīvināja Kristū, kas bijām miruši pārkāpumu dēļ. Jūs taču aiz žēlastības esat izglābti! Viņš arī mūs reizē augšāmpiecēla un nosēdināja debesīs, Kristū Jēzū, lai nākošajos laikos parādītu savas žēlastības pārpilno bagātību ar savu labvēlību pret mums Kristū Jēzū.",
+				"lasijumstext": "Dievs, būdams žēlsirdībā bagāts, savas lielās mīlestības dēļ, ar kuru mūs mīlēja, mūs, kas bijām miruši pārkāpumu dēļ, atgrieza dzīvē līdz ar Kristu. Jūs taču aiz žēlastības esat izglābti! Un Dievs Kristū Jēzū mūs kopā ar Viņu piecēla no mirušajiem un nosēdināja debesīs, lai nākošajos laikos parādītu savas žēlastības pārpilno bagātību ar savu labvēlību pret mums Kristū Jēzū.",
 				"atbilde": "responsorijs",
 				"atb1": "Kristus mūs iemīlēja un nomazgāja* savās Asinīs.",
 				"atb2": "Un darīja mūs par valstību un priesteriem Dievam un Tēvam*",
@@ -615,7 +727,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums3": "Jēzu, Karali un visu siržu Vienotāj, Tu mūs mīli ar mūžīgu mīlestību un žēlsirdīgi pievelc pie sevis, atjauno ar visiem savu Jauno Derību.",
 					"lugums4": "Jēzu, mūsu miers un izlīgums, Tu visus apvienoji vienā Jaunajā Cilvēkā un caur krustu iznīcināji ienaidu, ved mūs pie Tēva.",
 					"lugums5": "Jēzu, mūsu dzīvība un augšāmcelšanās, nogurušo atspirdzinājums un dvēseļu miers, pievelc pie sevis grēciniekus.",
-					"lugums6": "Jēzu, Tu ar savu lielo mīlestību kļuvi paklausīgs līdz pat krusta nāvei, augšāmpiecel visus Tavā mierā aizmigušos."
+					"lugums6": "Jēzu, Tu ar savu lielo mīlestību kļuvi paklausīgs līdz pat krusta nāvei, augšāmcel visus Tavā mierā aizmigušos."
 				},
 				"lugsimies": "Visvarenais Dievs, dari, lai mēs, kas, godinot Tava mīļotā Dēla Sirdi, pieminam Viņa mīlestības brīnumdarbus mūsu labā, no šī debesu dāvanu avota saņemtu žēlastību pārpilnībā. " + noslegums1
 			}
@@ -995,216 +1107,6 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": ""
 			}
 		},
-		/* "MarijaSirds":{
-			"laudes": {
-				"title": "Marijas Bezvainīgā Sirds, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Marijas Dēlu.",
-				"himna": "himnaMarijaLaudesA",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS sal. Is 61, 10",
-				"lasijumstext": "Es priecādamies priecāšos Kungā, un mana dvēsele gavilēs manā Dievā, jo Viņš mani ir ieģērbis atpestīšanas drēbēs, ar taisnības svārkiem mani ir apsedzis, kā līgavu, kas greznota ar savām rotām.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir izvēlējies* un izredzējis viņu.",
-				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
-				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Mana sirds un mana miesa līksmi sauc uz dzīvo Dievu.",
-				"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
-				"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Jēzu, taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Jēzu, mūžīgais Vārds, Tu esi izvēlējies Bezvainīgo Mariju par savu mājokli, pasargā mūs no grēka.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, Viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot Viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": "Dievs, Tu Vissvētākās Jaunavas Marijas Sirdi esi sagatavojis Svētajam Garam par cienīgu mājokli, viņas aizlūgumu dēļ palīdzi arī mums kļūt par Tavas godības svētnīcu. " + noslegums1
-			},
-			"dienas" : {
-				"title": "Marijas Bezvainīgā Sirds,<br>Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": ""
-			},
-			"vesperes": {// nav, jo ir svētdienas I vesperes
-				"title": "Marijas Sirds, Vesperes",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "",//"LASĪJUMS ",
-				"lasijumstext": "",
-				"atbilde": "responsorijs",
-				"atb1": "",
-				"atb2": "",
-				"atb3": "",
-				"magbenant": "",
-				"lugumi": "",
-				"resplugums": "- ",
-				"lugums": {
-					"lugums1": "",
-					"lugums2": "",
-					"lugums3": "",
-					"lugums4": "",
-					"lugums5": ""
-				},
-				"lugsimies": ""
-			}
-		}, */
-/* 		"EcclesiaeMatris" : { // varbū dzēst
-			"laudes": {
-				"title": "Vissv. jaunava Marija<br>Baznīcas māte, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Marijas Dēlu.",
-				"himna": "himnaMarijaLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Esi svētīta, Marija, jo caur Tevi nāca pasaules pestīšana, bet tagad, kad priecājies godībā, aizbildini par mums pie sava Dēla.",
-				"ant2": "Tu esi Jeruzalemes gods, Tu esi Izraēļa prieks, Tu esi mūsu tautas lielā slava.",
-				"ant3": "Līksmojies uz mūžiem, Jaunava Marija, jo Tu biji cienīga nest savā miesā pasaules Pestītāju.",
-				"lasijumstitle": "LASĪJUMS sal. Is 61, 10",
-				"lasijumstext": "Es priecādamies priecāšos Kungā, un mana dvēsele gavilēs manā Dievā, jo Viņš mani ir ieģērbis atpestīšanas drēbēs, ar taisnības svārkiem mani ir apsedzis, kā līgavu, kas greznota ar savām rotām.",
-				"atbilde": "responsorijs",
-				"atb1": "Dievs izvēlējās Mariju* un ļoti viņu iemīlēja.",
-				"atb2": "Ļāva viņai dzīvot savā svētnīcā.*",
-				"atb3": "Un ļoti viņu iemīlēja.",
-				"magbenant": "Esi svētīts, Dievs, kas devi Baznīcai par Māti sava Dēla Dzemdētāju.",
-				"lugumi": "Ar Jaunavas Marijas aizbildnību, atdodot godu mūsu Pestītājam, lūgsimies:",
-				"resplugums": "- Lai Tava Māte aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Jēzu, taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja  kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Jēzu, mūžīgais Vārds, Tu esi izvēlējies Bezvainīgo Mariju par savu mājokli, pasargā mūs no grēka.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļaujot piedalīties Tavās sāpēs, ved mūs uz mūžīgo svētlaimi.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot Viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": "Visvarenais Dievs, visu mūsu Tēvs, mēs, Tavi bērni, šodien priecājamies, godinot Vissvētāko Jaunavu Mariju, Baznīcas Māti, un pazemībā saucam uz Tevi: vadi mūsu soļus miera un vienprātības ceļā, lai Tava Baznīca visā pasaulē, Svētā Gara vadīta un bezvainīgās Jaunavas sargāta, nonāktu mūžīgajā svētlaimē Tavā valstībā Debesīs! " + noslegums1
-			},
-			"dienas" : {
-				"title": "Vissv. jaunava Marija<br>Baznīcas māte, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Sof 3, 14.15b",
-						"lasijumstext": "Dziedi slavas dziesmas, Sionas meita, gavilējiet, Izraēl! No visas sirds uzgavilē un līksmojies, Jeruzalemes meita! Kungs, Izraēļa Ķēniņš, ir tavā vidū.",
-						"atb1" : "Svētīgi, kas klausās Dieva Vārdu.",
-						"atb2" : "un uzticīgi to izpilda.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Zah 9, 9a",
-						"lasijumstext": "Uzgavilē no visas sirds, Sionas meita; priekā dejo, Jeruzalemes meita! Lūk, tavs Ķēniņš nāk pie tevis, taisnīgs un pestīšanu nesošs.",
-						"atb1" : "Svētīgas Jaunavas Marijas miesas.",
-						"atb2" : "Kas nesušas Mūžīga Tēva Dēlu.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Judt 13, 18-19",
-						"lasijumstext": "Visaugstais Dievs lai tevi svētī, meita, vairāk par visām sievām uz zemes, un lai svētīts Kungs Dievs, kas radījis debesis un zemi un kas tevi sagatavoja sadauzīt mūsu ienaidnieku vadoņa galvu, jo tava cerība neatkāpsies no cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
-						"atb1" : "Svētīta esi starp sievietēm.",
-						"atb2" : "Un svētīts ir Tavas miesas auglis.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": "Visvarenais Dievs, visu mūsu Tēvs, mēs, Tavi bērni, šodien priecājamies, godinot Vissvētāko Jaunavu Mariju, Baznīcas Māti, un pazemībā saucam uz Tevi: vadi mūsu soļus miera un vienprātības ceļā, lai Tava Baznīca visā pasaulē, Svētā Gara vadīta un bezvainīgās Jaunavas sargāta, nonāktu mūžīgajā svētlaimē Tavā valstībā Debesīs! " + noslegums1
-			},
-			"vesperes": {
-				"title": "Vissv. jaunava Marija<br>Baznīcas māte, Vesperes",
-				"himna": "himnaMarijaVesperes",
-				"ps1": "psalms122",
-				"ps2": "psalms127",
-				"ps3": "ef1",
-				"ant1": "Esi sveicināta, žēlastības pilnā, Kungs ir ar Tevi.",
-				"ant2": "Lūk, es esmu Kunga kalpone, lai man notiek pēc Tava vārda.",
-				"ant3": "Esi svētīta starp sievietēm un svētīts ir Tavas miesas auglis.",
-				"lasijumstitle": "LASĪJUMS Gal 4, 4-5",
-				"lasijumstext": "Kad piepildījās laiks, Dievs sūtīja savu Dēlu, dzimušu no sievietes un pakļautu Likumam, lai izpirktu tos, kas bija zem Likuma varas, un mēs saņemtu tiesības kļūt par Viņa bērniem.",
-				"atbilde": "responsorijs",
-				"atb1": "Esi sveicināta, Marija, žēlastības pilnā,* Kungs ir ar Tevi.",
-				"atb2": "Tu esi svētīta starp sievietēm un svētīts ir Tavas miesas auglis.*",
-				"atb3": "Kungs ir ar Tevi.",
-				"magbenant": "Vissvētākā Jaunava, Baznīcas Māte, sargā mūsos sava Dēla Jēzus Kristus dāvanas.",
-				"lugumi": "Ar Jaunavas Marijas, Baznīcas Mātes aizbildnību, atdosim godu mūsu Pestītājam un lūgsimies:",
-				"resplugums": "- Lai Tava Māte aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Dievs, brīnumdarbu veicēj, Tu uzņēmi Bezvainīgo Jaunavu Mariju ar miesu un dvēseli Debesu godībā, iekvēlini savu bērnu sirdīs ilgas pēc Debesīm.",
-					"lugums2": "Tu mums devi Mariju par Māti, ar viņas aizbildnību dod veselību slimiem, iepriecinājumu skumstošiem un piedošanu grēciniekiem, bet visiem cilvēkiem dāvā mieru un pestīšanu.",
-					"lugums3": "Tu apveltīji Mariju ar savas žēlastības pilnību, dari, lai visi cilvēki varētu priecāties par Tavu dāvanu bagātībām.",
-					"lugums4": "Apvieno Baznīcu savā mīlestībā, lai ticīgie vienprātīgi paliek lūgšanā kopā ar Mariju, Jēzus Māti.",
-					"lugums5": "Tu kronēji Jaunavu Mariju par Debesu Karalieni, pieņem mirušos Tavā valstībā, lai kopā ar visiem svētajiem mūžīgi baudītu Tavu klātbūtni."
-				},
-				"lugsimies": "Visvarenais Dievs, visu mūsu Tēvs, mēs, Tavi bērni, šodien priecājamies, godinot Vissvētāko Jaunavu Mariju, Baznīcas Māti, un pazemībā saucam uz Tevi: vadi mūsu soļus miera un vienprātības ceļā, lai Tava Baznīca visā pasaulē, Svētā Gara vadīta un bezvainīgās Jaunavas sargāta, nonāktu mūžīgajā svētlaimē Tavā valstībā Debesīs! " + noslegums1
-			}
-		}, */
 		"MaterDei" : { // & Marijas kopīgie psalmi no dienas Kā MarijaiMem?
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -1228,7 +1130,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugums": {
 					"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
 					"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalītu Tavās ciešanās.",
+					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
 					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
 				},
 				"lugsimies": ""
@@ -1363,7 +1265,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums2": "Mūsu Atpestītāj, Tu Jaunavas Marijas miesas padarīji par visšķīstāko svētnīcu Tev un Svētajam Garam, dari mūs par pastāvīgu Tava Gara templi.",
 					"lugums3": "Mūžīgais Vārds, Tu savai Mātei mācīji izvēlēties labāko daļu, palīdzi mums viņu atdarināt, meklējot barību, kas sniedz mūžīgo dzīvi.",
 					"lugums4": "Ķēniņu Ķēniņ, Tu gribēji, lai Tava Māte tiktu uzņemta ar miesu un dvēseli Debesīs un būtu kopā ar Tevi, liec arī mūsu domām vienmēr tiekties augšup.",
-					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
+					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji Karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, kas bezvainīgo Jaunavu Mariju, Jēzus Kristus Māti, ar miesu un dvēseli esi uzņēmis Debesu godībā, dāvā mums žēlastību, lai mēs vienmēr ilgotos pēc Tevis un Debesīs varētu būt līdzdalīgi Tavā godībā. " + noslegums1
 			},
@@ -1452,9 +1354,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps1": "psalms113",
 				"ps2": "psalms147",
 				"ps3": "ef1",
-				"ant1": "Svētīga Tu esi, Jaunava Marija, Tu nesi pasaules Radītāju, alleluja.",
-				"ant2": "Viņu, kurš Tevi radīja, Tu dzemdēji un paliec Jaunava uz mūžiem, alleluja.",
-				"ant3": "Kunga, diženā Dieva, svētīta Tu esi, meita; dzīvības auglis mums tika dāvāts caur Tevi, alleluja.",
+				"ant1": "Svētīga Tu esi, Jaunava Marija, Tu iznēsāji pasaules Radītāju<span class='Lieldienas'>, alleluja</span>.",
+				"ant2": "Tu dzemdēji To, kurš Tevi radīja, un paliec Jaunava uz mūžiem<span class='Lieldienas'>, alleluja</span>.",
+				"ant3": "Kungs Tevi ir svētījis, meit, jo caur Tevi mēs esam saņēmuši dzīvības augli<span class='Lieldienas'>, alleluja</span>.",
 				"lasijumstitle": "LASĪJUMS Gal 4, 4-5",
 				"lasijumstext": "Kad piepildījās laiks, Dievs sūtīja savu Dēlu, dzimušu no sievietes un pakļautu Likumam, lai izpirktu tos, kas bija zem Likuma varas, un mēs saņemtu tiesības kļūt par Viņa bērniem.",
 				"atbilde": "responsorijs",
@@ -1497,7 +1399,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums2": "Mūsu Atpestītāj, Tu Jaunavas Marijas miesas padarīji par visšķīstāko svētnīcu Tev un Svētajam Garam, dari mūs par pastāvīgu Tava Gara templi.",
 					"lugums3": "Mūžīgais Vārds, Tu savai Mātei mācīji izvēlēties labāko daļu, palīdzi mums viņu atdarināt, meklējot barību, kas sniedz mūžīgo dzīvi.",
 					"lugums4": "Ķēniņu Ķēniņ, Tu gribēji, lai Tava Māte tiktu uzņemta ar miesu un dvēseli Debesīs un būtu kopā ar Tevi, liec arī mūsu domām vienmēr tiekties augšup.",
-					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
+					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji Karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, kas bezvainīgo Jaunavu Mariju, Jēzus Kristus Māti, ar miesu un dvēseli esi uzņēmis Debesu godībā, dāvā mums žēlastību, lai mēs vienmēr ilgotos pēc Tevis un Debesīs varētu būt līdzdalīgi Tavā godībā. " + noslegums1
 			},
@@ -1630,7 +1532,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums2": "Mūsu Atpestītāj, Tu Jaunavas Marijas miesas padarīji par visšķīstāko svētnīcu Tev un Svētajam Garam, dari mūs par pastāvīgu Tava Gara templi.",
 					"lugums3": "Mūžīgais Vārds, Tu savai Mātei mācīji izvēlēties labāko daļu, palīdzi mums viņu atdarināt, meklējot barību, kas sniedz mūžīgo dzīvi.",
 					"lugums4": "Ķēniņu Ķēniņ, Tu gribēji, lai Tava Māte tiktu uzņemta ar miesu un dvēseli Debesīs un būtu kopā ar Tevi, liec arī mūsu domām vienmēr tiekties augšup.",
-					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
+					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji Karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, kas bezvainīgo Jaunavu Mariju, Jēzus Kristus Māti, ar miesu un dvēseli esi uzņēmis Debesu godībā, dāvā mums žēlastību, lai mēs vienmēr ilgotos pēc Tevis un Debesīs varētu būt līdzdalīgi Tavā godībā. " + noslegums1
 			},
@@ -1968,7 +1870,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "<span class ='neLieldienas'>Un mana slava.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
 				"magbenant": "Kas ienīst savu dzīvību šajā pasaulē, tas to saglabās mūžīgajā dzīvē<span class='Lieldienas'>, alleluja</span>.",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -2073,7 +1975,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "<span class ='neLieldienas'>Un mana slava.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
 				"magbenant": "Kas ienīst savu dzīvību šajā pasaulē, tas to saglabās mūžīgajā dzīvē<span class='Lieldienas'>, alleluja</span>.",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -2178,7 +2080,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "<span class ='neLieldienas'>Viņi dzīvos mūžīgi.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
 				"magbenant": "Svētīgi tie, kas tiek vajāti taisnības dēļ, jo viņiem pieder Debesu valstība<span class='Lieldienas'>, alleluja</span>.",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -2273,7 +2175,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps2": "dan3c",
 				"ps3": "psalms149",
 				"ant1": "Jūs esat pasaules gaisma. Pilsētu, kas celta kalnā, nevar paslēpt.",
-				"ant2": "Tā jūsu gaisma lai spīd ļaužu priekšā, ka viņi redzētu jūsu labos darbus un slavētu jūsu Tēvu.",
+				"ant2": "Lai jūsu gaisma tā spīd ļaužu priekšā, ka viņi redzētu jūsu labos darbus un slavētu jūsu Tēvu.",
 				"ant3": "Dieva vārds ir dzīvs un iedarbīgs, un asāks par katru divasmeņu zobenu.",
 				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
 				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
@@ -2361,7 +2263,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Kungs, izglāb savu tautu!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
 					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
@@ -2466,8 +2368,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Kungs, izglāb savu tautu!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -2571,8 +2473,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Kungs, izglāb savu tautu!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
@@ -2609,7 +2511,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Tu vēlējies kalpot, nevis tikt apkalpots, Kungs Jēzu, dari, ka mēs pazemībā kalpotu Tev un brāļiem.",
 					"lugums5": "Tu esi Tēva godības spožums un Viņa būtības attēls, Kungs Jēzu, dari, lai mēs reiz godībā varētu skatīt Tavu vaigu."
 				},
-				"lugsimies": "Caur Jēzu Kristu"
+				"lugsimies": ""
 			},
 			"dienas" : {
 				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
@@ -2691,6 +2593,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Caur Jēzu Kristu"
 			}
 		},
+		"svetkiViriesiMuki" : svetkiViriesiMuki, 
 		"SvSievietes" : {
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -2705,9 +2608,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
 				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
 				"atbilde": "responsorijs",
-				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
-				"atb2": "Dievs ir tās vidū, tā satriekta netiks.*",
-				"atb3": "Dievs tai palīdzēs.",
+				"atb1": "Dievs viņai palīdzēs* ar sava vaiga gaismu.",
+				"atb2": "Dievs ir tās vidū, viņa netiks satriekta.*",
+				"atb3": "Dievs viņai palīdzēs.",
 				"magbenant": "Debesu valstība ir pielīdzināma tirgotājam, kas meklē labas pērles. Un atradis vienu ļoti vērtīgu pērli, viņš aizgāja un pārdeva visu, kas viņam bija, un nopirka to<span class='Lieldienas'>, alleluja</span>.",
 				"lugumi": "Brāļi, kopā ar visām svētajām sievietēm slavēsim mūsu Pestītāju un sauksim:",
 				"resplugums": "- Nāc, Kungs Jēzu!",
@@ -2810,9 +2713,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
 				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
 				"atbilde": "responsorijs",
-				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
-				"atb2": "Dievs ir tās vidū, tā satriekta netiks.*",
-				"atb3": "Dievs tai palīdzēs.",
+				"atb1": "Dievs viņai palīdzēs* ar sava vaiga gaismu.",
+				"atb2": "Dievs ir tās vidū, viņa netiks satriekta.*",
+				"atb3": "Dievs viņai palīdzēs.",
 				"magbenant": "Debesu valstība ir pielīdzināma tirgotājam, kas meklē labas pērles. Un atradis vienu ļoti vērtīgu pērli, viņš aizgāja un pārdeva visu, kas viņam bija, un nopirka to<span class='Lieldienas'>, alleluja</span>.",
 				"lugumi": "Brāļi, kopā ar visām svētajām sievietēm slavēsim mūsu Pestītāju un sauksim:",
 				"resplugums": "- Nāc, Kungs Jēzu!",
@@ -2915,9 +2818,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
 				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
 				"atbilde": "responsorijs",
-				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
-				"atb2": "Dievs ir tās vidū, tā satriekta netiks.*",
-				"atb3": "Dievs tai palīdzēs.",
+				"atb1": "Dievs viņai palīdzēs* ar sava vaiga gaismu.",
+				"atb2": "Dievs ir tās vidū, viņa netiks satriekta.*",
+				"atb3": "Dievs viņai palīdzēs.",
 				"magbenant": "No tā visi pazīs, ka jūs esat Mani mācekļi, ja jums būs mīlestība vienam pret otru.",
 				"lugumi": "Brāļi, kopā ar visām svētajām sievietēm slavēsim mūsu Pestītāju un sauksim:",
 				"resplugums": "- Nāc, Kungs Jēzu!",
@@ -3103,7 +3006,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugumi": "Svinīgi godināsim un pielūgsim Kristu, kas uzslavēja tos, kuri uzticīgi dzīvoja jaunavībā debesu valstības dēļ, saucot:",
 				"resplugums": "- Jēzu, jaunavu Ķēniņ, uzklausi mūs!",
 				"lugums": {
-					"lugums1": "Kristu, Tu sagatavoji Baznīcu par šķīstu jaunavu Tev kā vienīgajam Līgavainim, veido to bezvainīgu un svētu.",
+					"lugums1": "Kristu, Tu sagatavoji Baznīcu par šķīstu jaunavu sev kā vienīgajam Līgavainim, veido to bezvainīgu un svētu.",
 					"lugums2": "Kristu, Tev pretī ar lampām rokās izgāja svētās jaunavas, neļauj nekad izzust uzticības eļļai Tev veltīto kalpoņu lampās.",
 					"lugums3": "Kungs, Tev jaunava Baznīca arvien sargā pilnīgu un skaidru ticību, sniedz visiem kristiešiem ticības pilnību un skaidrību.",
 					"lugums4": "Tu ļauj priecāties savai tautai svētās jaunavas <span id='G'>N.</span> <span id='memorial'>piemiņas dienā</span><span id='festum'>svētkos</span>, dari, lai tā varētu vienmēr priecāties arī par viņas aizbildnību.",
@@ -3226,7 +3129,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ant2": "Priecīgi iesim uz Kunga namu!",
 				"ant3": "Slavējiet mūsu Dievu, jūs, visi Viņa svētie.",
 				"lasijumstitle": "LASĪJUMS Atkl 21, 2-3.22.27",
-				"lasijumstext": "Es redzēju svēto pilsētu – jauno Jeruzalemi, nokāpjam no debesīm, no Dieva, sagatavotu kā līgavu, kas izgreznojusies savam vīram. Un es dzirdēju skaļu balsi runājam no troņa: “Lūk, Dieva mājoklis pie cilvēkiem. Un Viņš dzīvos pie tiem, un tie būs Viņa tauta, un pats Dievs būs ar viņiem – viņu Dievs.” Un svētnīcu tajā es neredzēju, jo Kungs, visvarenais Dievs, un Jērs ir tās svētnīca. Un nekas aptraipīts tanī neieies: ne negantības darītājs, ne melis, bet tikai tie, kas ierakstīti Jēra dzīvības grāmatā.",
+				"lasijumstext": "Es redzēju svēto pilsētu – jauno Jeruzalemi, nokāpjam no debesīm, no Dieva, sagatavotu kā līgavu, kas izgreznojusies savam vīram. Un es dzirdēju skaļu balsi runājam no troņa: “Lūk, Dieva mājoklis pie cilvēkiem. Un Viņš dzīvos pie tiem, un tie būs Viņa tauta, un pats Dievs būs ar viņiem – viņu Dievs.” Un svētnīcu tajā es neredzēju, jo Kungs, visvarenais Dievs, un Jērs ir tās svētnīca. Un nekas aptraipīts tanjā neieies: ne negantības darītājs, ne melis, bet tikai tie, kas ierakstīti Jēra dzīvības grāmatā.",
 				"atbilde": "responsorijs",
 				"atb1": "Svētīgi ir tie,* kas dzīvo Tavā namā, Kungs.",
 				"atb2": "Viņi mūžam Tevi slavēs.*",
@@ -3349,8 +3252,10 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "" + noslegums1
 			}
 		},
-	},
-	1 : {
+	}
+}
+// festum turpinājums
+festum[1] ={
 		6: { // KUNGA EPIFĀNIJA
 			"vesperesI": {
 				"title": "KUNGA EPIFĀNIJA, I vesperes",
@@ -3431,8 +3336,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"himna": "hinmaDienas_6_2",
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Is 49, 6",
-						"lasijumstext": "Kungs man teica:  “Tas ir par maz, ka tu esi Mans kalps, lai atjaunotu Jēkaba ciltis un atvestu atpakaļ tos, kas atlikuši no Izraēļa. Es tevi iecelšu par gaismu pagānu tautām, lai mana pestīšana aizsniegtos līdz pat zemes robežām.”",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"lasijumstext": "Kungs man teica:  “Tas ir par maz, ka tu esi mans kalps, lai atjaunotu Jēkaba ciltis un atvestu atpakaļ tos, kas atlikuši no Izraēļa. Es tevi iecelšu par gaismu pagānu tautām, lai mana pestīšana aizsniegtos līdz pat zemes robežām.”",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -3493,7 +3398,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
 				"atb2": "Dievs ir tās sirdī, tā satriekta netiks.*",
 				"atb3": "Dievs tai palīdzēs.",
-				"magbenant": "Lūk, jau redzu To, pēc kura esmu ilgojusies; jau esmu ar To, uz kuru esmu cerējusi. Esmu vienota ar Viņu Debesīs, kuru uz zemes esmu mīlējusi no visas sirds.",
+				"magbenant": "",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
 				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm.",
 				"lugums": {
@@ -3568,7 +3473,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb1": "Dievs ir izvēlējies* un izredzējis viņu.",
 				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
 				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Svētā Agnese paceltām rokām lūdzās: “Es piesaucu Tevi, Svētais Tēvs; lūk, es nāku pie Tevis, ko esmu mīlējusi, ko esmu meklējusi, pēc kura vienmēr esmu ilgojusies.”",
+				"magbenant": "",
 				"lugumi": "Šai stundā, kad mocekļu Ķēniņš savu dzīvību upurēja vakariņās un atdeva uz krusta, pateiksimies Viņam, sakot:",
 				"resplugums": "- Tevi, Kungs, mēs slavējam!",
 				"lugums": {
@@ -3686,324 +3591,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": " " + noslegums1
 			}
 		}
-/* 		26 : { // Sv. Timotejs un Tits "Gani" "liturgija": "festum-0-Priesteri",
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Visaugsto Ganu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
-				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
-				"atbilde": "responsorijs",				
-				"atb1": "Pār tevi, Jeruzaleme,<span class ='neLieldienas'>*</span> Es iecēlu sargus<span class='Lieldienas'>.* Alleluja, alleluja</span>.",
-				"atb2": "Dienu un nakti viņi nemitēsies sludināt Kunga vārdu.*",
-				"atb3": "<span class ='neLieldienas'>Es iecēlu sargus.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Sludini vārdu, uzstājies laikā un nelaikā, pārliecini, norāj, paskubini visā pacietībā un visos mācības veidos.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorMultiVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 5, 1-4",
-				"lasijumstext": "Vecākos, kas ir jūsu vidū, es lūdzu, tāpat būdams vecākais un Kristus ciešanu liecinieks, kā arī tās godības līdzdalībnieks, kas nākotnē atklāsies: ganiet Dieva ganāmpulku, kas ir pie jums, rūpēdamies par to nevis piespiesti, bet brīvprātīgi, kā Dievs to grib; nevis negodīgas peļņas dēļ, bet gan ar pašatdevi; nevis kā kungi pār draudzēm, bet gan kļūdami par priekšzīmi ganāmpulkam. Un kad parādīsies Visaugstais Gans, jūs saņemsiet nevīstošo godības kroni.",
-				"atbilde": "responsorijs",
-				"atb1": "Lūk, gans, kas mīl brāļus<span class ='neLieldienas'>* un daudz lūdzas par tautu</span><span class='Lieldienas'>un daudz lūdzas par tautu.* Alleluja, alleluja.</span>.",
-				"atb2": "Savu dzīvību viņš ir atdevis par saviem brāļiem.*",
-				"atb3": "<span class ='neLieldienas'>Un daudz lūdzas par tautu.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Dzīvosim taisnīgi un dievbijīgi, gaidot svētīgo cerību un Kunga atnākšanu.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
-			}
-		}, */
-/* 		28 : { // Sv. Toms no Akvīnas "Doctors" // Mācītāji
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Slavēts lai ir Kungs, kura mīlestības dēļ svētais Toms ilgas stundas pavadīja lūgšanās, mācībās un rakstīšanā.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Dievs viņam deva ļoti lielu gudrību, kuru viņš nesavtīgi pētīja un ar kuru dāsni dalījās.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
-/* 		31 : {// Sv. Jānis Bosko mūku versija
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Dievu, kura gaisma atmirdz Viņa svētajos.",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
-				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
-				"atbilde": "responsorijs",
-				"atb1": "Dieva likums* ir viņa sirdī.",
-				"atb2": "Viņa soļi neļodzīsies.*",
-				"atb3": "Dieva likums ir viņa sirdī.",
-				"magbenant": "Kas ir žēlsirdīgs, tas kā gans māca un audzina savu ganāmpulku.",
-				"lugumi": "Brāļi, pagodināsim Kristu, kas ir svētais Dievs, lūdzot, lai mēs svētumā un taisnībā Viņam kalpotu visās sava mūža dienās, un sauksim:",
-				"resplugums": "- Kungs, vienīgi Tu esi svēts!",
-				"lugums": {
-					"lugums1": "Tu piedzīvoji visus tos pašus dzīves pārbaudījumus kā mēs, izņemot grēku, Kungs Jēzu, apžēlojies par mums.",
-					"lugums2": "Tu mūs visus aicināji uz mīlestības pilnību, Kungs Jēzu, svētdari mūs.",
-					"lugums3": "Tu mums pavēlēji būt par zemes sāli un pasaules gaismu, Kungs Jēzu, apgaismo mūs.",
-					"lugums4": "Tu vēlējies kalpot, nevis tikt apkalpots, Kungs Jēzu, dari, ka mēs pazemībā kalpotu Tev un brāļiem.",
-					"lugums5": "Tu esi Tēva godības spožums un Viņa būtības attēls, Kungs Jēzu, dari, lai mēs reiz godībā varētu skatīt Tavu vaigu."
-				},
-				"lugsimies": "Caur Jēzu Kristu"
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": "Caur Jēzu Kristu"
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 8, 28-30",
-				"lasijumstext": "Mēs zinām, ka tiem, kas mīl Dievu, viss nāk par labu, tiem, kas saskaņā ar Viņa lēmumu ir aicināti. Jo kurus Viņš iepriekš pazina, tos arī iepriekš nozīmēja kļūt līdzīgiem sava Dēla attēlam, lai Viņš būtu pirmdzimtais starp daudziem brāļiem. Bet kurus Viņš iepriekš nozīmēja, tos arī aicināja; un kurus aicināja, tos arī attaisnoja; bet kurus attaisnoja, tos arī pagodināja.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir taisnīgs,* Viņš mīl taisnību.",
-				"atb2": "Viņa vaigu skatīs taisnīgie.*",
-				"atb3": "Viņš mīl taisnību.",
-				"magbenant": "Laidiet bērnus nākt pie Manis, jo tādiem pieder Debesu valstība.",
-				"lugumi": "Neatlaidīgi lūgsim Tēvu, visa svētuma avotu, lai ar svēto paraugu un aizbildnību Viņš mūs aizvada līdz svētai dzīvei:",
-				"resplugums": "- Dari mūs svētus, jo Tu esi svēts!",
-				"lugums": {
-					"lugums1": "Svētais Tēvs, Tu vēlējies, lai mēs tiktu saukti par Taviem bērniem un tādi būtu arī patiesībā, dari, lai visā pasaulē Tevi godina svētā Baznīca.",
-					"lugums2": "Svētais Tēvs, Tu vēlējies, lai mēs cienīgi dzīvotu un būtu Tev visā patīkami, dari, lai mēs būtu auglīgi labos darbos.",
-					"lugums3": "Svētais Tēvs, caur Kristu Tu mums palīdzēji izlīgt ar Tevi, sargā mūs savā vārdā, lai mēs būtu vienoti.",
-					"lugums4": "Svētais Tēvs, Tu mūs esi aicinājis debesu mielastā, palīdzi mums sasniegt mīlestības pilnību, mielojot mūs ar maizi, kas nākusi no debesīm.",
-					"lugums5": "Svētais Tēvs, piedod grēciniekiem visus parādus, un ļauj mirušajiem skatīt Tava vaiga gaismu."
-				},
-				"lugsimies": "Caur Jēzu Kristu"
-			}
-		} */
-	},
-	2 :{
+	};
+festum[2] ={
 		2 : { // KUNGA PREZENTĀCIJA jeb sveču diena
 			"vesperesI": { // tikai svētdienā
 				"title": "KUNGA PREZENTĀCIJA, I Vesperes",
@@ -4136,111 +3725,6 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Visvarenais mūžīgais Dievs, mēs pazemībā noliecamies Tavas majestātes priekšā, lai, tāpat kā Tavs Viendzimušais Dēls tika stādīts Tavā priekšā Jeruzalemes svētnīcā, tā arī mēs varētu tīrām sirdīm nonākt pie Tevis debesīs. " + noslegums1
 			}
 		},
-/* 		14 : { // Sv. Kiris un Metodijs Gani
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Visaugsto Ganu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Jūs esat pasaules gaisma. Pilsētu, kas celta kalnā, nevar paslēpt.",
-				"ant2": "Tā jūsu gaisma lai spīd ļaužu priekšā, ka viņi redzētu jūsu labos darbus un slavētu jūsu Tēvu.",
-				"ant3": "Dieva vārds ir dzīvs un iedarbīgs, un asāks par katru divasmeņu zobenu.",
-				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
-				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
-				"atbilde": "responsorijs",				
-				"atb1": "Pār tevi, Jeruzaleme,<span class ='neLieldienas'>*</span> Es iecēlu sargus<span class='Lieldienas'>.* Alleluja, alleluja</span>.",
-				"atb2": "Dienu un nakti viņi nemitēsies sludināt Kunga vārdu.*",
-				"atb3": "<span class ='neLieldienas'>Es iecēlu sargus.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Viņi kalpoja Kungam svētumā un taisnībā visas savas dzīves dienas.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 1 Tim 4, 16",
-						"lasijumstext": "Esi nomodā par sevi un mācību; turies pie tās. Jo darīdams to, tu atpestīsi gan sevi, gan tos, kas tevi klausās.",
-						"atb1" : "Kungs ir izvēlējies savu kalpu.",
-						"atb2" : "Lai  viņš ganītu Jēkabu – Viņa mantojumu.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 1 Tim 1, 12",
-						"lasijumstext": "Es pateicos mūsu Kungam Jēzum Kristum, kas mani stiprināja, ka Viņš mani uzskatīja par uzticības cienīgu, izraudzīdams mani kalpošanai.",
-						"atb1" : "Es nekaunos no Evaņģēlija.",
-						"atb2" : "Jo tas ir Dieva spēks pestīšanai.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 1 Tim 3, 13",
-						"lasijumstext": "Tie, kas būs labi kalpojuši, iegūs sev goda vietu un lielu drošību ticībā, kas ir Kristū Jēzū.",
-						"atb1" : "Ja Kungs neuzcels namu.",
-						"atb2" : "Veltīgi pūlas tie, kas to būvē.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "psalms15",
-				"ps2": "psalms112",
-				"ps3": "atkl15",
-				"ant1": "Es esmu kļuvis par Evaņģēlija kalpu saskaņā ar Dieva žēlastības dāvanu.",
-				"ant2": "Uzticīgais un gudrais kalps, ko Kungs iecēla pār savu saimi.",
-				"ant3": "Manas avis klausa manu balsi, un būs viens ganāmpulks un viens gans.",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 5, 1-4",
-				"lasijumstext": "Vecākos, kas ir jūsu vidū, es lūdzu, tāpat būdams vecākais un Kristus ciešanu liecinieks, kā arī tās godības līdzdalībnieks, kas nākotnē atklāsies: ganiet Dieva ganāmpulku, kas ir pie jums, rūpēdamies par to nevis piespiesti, bet brīvprātīgi, kā Dievs to grib; nevis negodīgas peļņas dēļ, bet gan ar pašatdevi; nevis kā kungi pār draudzēm, bet gan kļūdami par priekšzīmi ganāmpulkam. Un kad parādīsies Visaugstais Gans, jūs saņemsiet nevīstošo godības kroni.",
-				"atbilde": "responsorijs",
-				"atb1": "Lūk, gans, kas mīl brāļus<span class ='neLieldienas'>* un daudz lūdzas par tautu</span><span class='Lieldienas'>un daudz lūdzas par tautu.* Alleluja, alleluja.</span>.",
-				"atb2": "Savu dzīvību viņš ir atdevis par saviem brāļiem.*",
-				"atb3": "<span class ='neLieldienas'>Un daudz lūdzas par tautu.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Tie ir svētie vīri, Dieva draugi, izcili dievišķās patiesības sludinātāji.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
-			}
-		}, */
 		22 : { // Sv. Pētera katedra
 			"laudes" : {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -4365,7 +3849,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "Un mana slava.",
 				"magbenant": "Es kalpoju Kristum astoņdesmit sešus gadus, un Viņš man nekad nav nodarījis pāri. Kā es varu nolādēt savu Karali, kurš mani izglāba?",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -4451,8 +3935,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": ""
 			}
 		}
-	},
-	3 : {
+	};
+festum[3]={
 		19 : { // SV. JĀZEPS, VISSV. JAUNAVAS MARIJAS LĪGAVAINIS
 			"vesperesI": {
 				"title": "Sv. Jāzeps, I Vesperes",
@@ -4664,7 +4148,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"ps2": "psalms124",
 						"ps3": "psalms125",
 						"lasijumstitle": "LASĪJUMS 1 Jņ 4, 10",
-						"lasijumstext": "Mīlestība pastāv tanī, ka nevis mēs iemīlējām Dievu, bet Viņš pats mūs mīlēja un sūtīja savu Dēlu kā gandarījuma upuri ar mūsu grēkiem.",
+						"lasijumstext": "Mīlestība pastāv tajā, ka nevis mēs iemīlējām Dievu, bet Viņš pats mūs mīlēja un sūtīja savu Dēlu kā gandarījuma upuri ar mūsu grēkiem.",
 						"atb1" : "Redzi, es esmu Kunga kalpone,",
 						"atb2" : "Lai man notiek pēc Tava vārda.",
 						"lugsimies": ""
@@ -4711,8 +4195,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "" + noslegums1
 			}
 		}
-	},
-	4 : {
+	};
+festum[4]={
 		25 : { // SV. EVAŅĢĒLISTS Marks
 			"laudes" : {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -4735,8 +4219,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Stiprini savu Baznīcu ticībā un mīlestībā!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -4915,7 +4399,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugumi": "Svinīgi godināsim un pielūgsim Kristu, kas uzslavēja tos, kuri uzticīgi dzīvoja jaunavībā debesu valstības dēļ, saucot:",
 				"resplugums": "- Jēzu, jaunavu Ķēniņ, uzklausi mūs!",
 				"lugums": {
-					"lugums1": "Kristu, Tu sagatavoji Baznīcu par šķīstu jaunavu Tev kā vienīgajam Līgavainim, veido to bezvainīgu un svētu.",
+					"lugums1": "Kristu, Tu sagatavoji Baznīcu par šķīstu jaunavu sev kā vienīgajam Līgavainim, veido to bezvainīgu un svētu.",
 					"lugums2": "Kristu, Tev pretī ar lampām rokās izgāja svētās jaunavas, neļauj nekad izzust uzticības eļļai Tev veltīto kalpoņu lampās.",
 					"lugums3": "Kungs, Tev jaunava Baznīca arvien sargā pilnīgu un skaidru ticību, sniedz visiem kristiešiem ticības pilnību un skaidrību.",
 					"lugums4": "Tu ļauj priecāties savai tautai svētās jaunavas <span id='G'>N.</span> <span id='memorial'>piemiņas dienā</span><span id='festum'>svētkos</span>, dari, lai tā varētu vienmēr priecāties arī par viņas aizbildnību.",
@@ -4924,8 +4408,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Kungs Dievs, kas svētajai Katrīnai ļāvi dziļā mīlestībā apdomāt mūsu Pestītāja ciešanas un kalpot Viņa Baznīcai, uzklausi mūs viņas aizbildnības dēļ, lai tauta, kas ir līdzdalīga Kristus upurī, varētu priecāties Viņa atnākšanas dienā. " + noslegums1
 			}
 		}	
-	},
-	5 : {
+	};
+festum[5]={
 		3 : { // ap. Filips&Jēkabs
 			"laudes": {
 				"title": "Sv. apustuļi Filips un Jēkabs, Laudes",
@@ -5241,113 +4725,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu Vissvētāko Jaunavu Mariju, kura savā miesā nesa Tavu Dēlu Jēzu Kristu, pamudināji apmeklēt svēto Elizabeti, māci mūs, lai, Svētā Gara iedvesmoti, mēs kopā ar Jēzus Māti Tevi no sirds slavētu. " + noslegums1
 			}
 		}
-	},
-	6 : {
-/* 		1 : { // Sv. Justīns MartyrsMem - Vienam moceklim Piemiņas dienas jeb parastie psalmi "liturgija": "festum-0-MartyrsMem",
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, mocekļu Karali<span class='Lieldienas'>, alleluja</span>.",
-				"himna": "himnaMartyrLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "<span class ='neLieldienas'>LASĪJUMS 2 Kor 1, 3-5</span><span class='Lieldienas'>LASĪJUMS 1 Jņ 5, 3-5</span>",
-				"lasijumstext": "<span class ='neLieldienas'>Lai slavēts ir Dievs un mūsu Kunga Jēzus Kristus Tēvs, žēlsirdības Tēvs un visa iepriecinājuma Dievs, kas mierina mūs visās mūsu bēdās, lai arī mēs paši varētu iepriecināt tos, kas cieš visādus spaidus, ar mierinājumu, ar ko mūs pašus mierina Dievs. Jo kā Kristus ciešanas pārpilnīgi mūs piemeklē, tāpat pārpilnībā nāk pār mums iepriecinājumi caur Kristu.</span><span class='Lieldienas'>Dieva mīlestība ir tā, ka mēs pildām Viņa baušļus. Un Viņa baušļi nav smagi. Jo ikviens, kas dzimis no Dieva, uzvar pasauli; un šī uzvara, kas pārspēja pasauli, ir mūsu ticība. Un kas tad uzvar pasauli, ja ne tas, kurš tic, ka Jēzus ir Dieva Dēls?</span>",
-				"atbilde": "responsorijs",				
-				"atb1": "<span class ='neLieldienas'>Kungs ir mans spēks* un mana slava.</span><span class='Lieldienas'>Pār viņu galvām būs mūžīgs prieks.* Alleluja, alleluja.</span>",
-				"atb2": "<span class ='neLieldienas'>Viņš ir mans glābējs.*</span><span class='Lieldienas'>Viņi saņems prieku un gaviles.*</span>",
-				"atb3": "<span class ='neLieldienas'>Un mana slava.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Katrā upurī mēs slavējam visu lietu Radītāju caur Viņa Dēlu Jēzu Kristu un caur Svēto Garu<span class='Lieldienas'>, alleluja</span>.",
-				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
-				"lugums": {
-					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
-					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
-					"lugums3": "Ar Tavu mocekļu starpniecību, kas, uzņemoties krustu, sekoja Tev, dod, Kungs, mums žēlastību, drosmīgi uzņemties ikdienas rūpes.",
-					"lugums4": "Ar Tavu mocekļu starpniecību, kas savas drānas mazgāja Jēra asinīs, dod, Kungs, mums žēlastību, uzveikt visas miesas un pasaules viltības."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": ""
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMartyrVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "<span class ='neLieldienas'>LASĪJUMS 1 Pēt 4, 13-14</span><span class='Lieldienas'>LASĪJUMS Atkl 7, 14b-17</span>",
-				"lasijumstext": "<span class ='neLieldienas'>Mīļie, priecājieties, piedaloties Kristus ciešanās, lai jūs varētu gavilēdami priecāties arī tad, kad atklāsies Viņa godība. Svētīgi jūs esat, ja jūs nonievā Kristus vārda dēļ, jo virs jums mīt godības un Dieva Gars.</span><span class='Lieldienas'>Šie ir tie, kas nākuši no lielām ciešanām un savas drēbes mazgājuši un tās balinājuši Jēra asinīs. Tādēļ viņi ir Dieva troņa priekšā un kalpo Viņam dienu un nakti Viņa svētnīcā. Un Tas, kurš sēž tronī, mājos pār viņiem. Viņiem vairs nebūs izsalkuma, nebūs vairs slāpju un viņus neskars saules tveice, nedz kāda cita svelme, jo viņus ganīs Jērs, kas ir troņa vidū, un aizvedīs viņus pie dzīvības ūdeņu avotiem. Un Dievs noslaucīs ikvienu asaru no viņu acīm.</span>",
-				"atbilde": "responsorijs",
-				"atb1": "<span class ='neLieldienas'>Dievs, Tu esi mūs pārbaudījis* un izvedis mūs brīvībā.</span><span class='Lieldienas'>Taisnīgie spīdēs kā saule Dieva priekšā.* Alleluja, alleluja.</span>",
-				"atb2": "<span class ='neLieldienas'>Tu esi mūs pārbaudījis ar uguni kā pārbauda sudrabu.*</span><span class='Lieldienas'>Un priecāsies visi sirdsšķīstie.*</span>",
-				"atb3": "<span class ='neLieldienas'>Un izvedis mūs brīvībā.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Tūlīt manā dvēselē iedegās uguns, un praviešu un to cilvēku mīlestība, kuri ir Kristus draugi, mani pārņēma<span class='Lieldienas'>, alleluja</span>.",
-				"lugumi": "Šai stundā, kad mocekļu Ķēniņš savu dzīvību upurēja vakariņās un atdeva uz krusta, pateiksimies Viņam, sakot:",
-				"resplugums": "- Tevi, Kungs, mēs slavējam!",
-				"lugums": {
-					"lugums1": "Tevi, Kungs, mēs slavējam, jo Tu, mūsu Pestītāj, ikviena mocekļa avots un paraugs, mūs mīlēji līdz galam.",
-					"lugums2": "Jo Tu visus grēciniekus, kas nožēlo savas vainas, aicināji uz dzīves izcilību.",
-					"lugums3": "Jo šodien mēs upurējam Jaunās un Mūžīgās Derības Asinis, kas izlietas grēku piedošanai.",
-					"lugums4": "Jo ar Tavas žēlastības palīdzību, mēs šai dienā turpinām pastāvēt ticībā.",
-					"lugums5": "Jo šodien Tu daudzus brāļus darīji par savas nāves sabiedrotajiem."
-				},
-				"lugsimies": ""
-			}
-		}, */
+	};
+festum[6]={
 		11 : { // Sv. Barnaba, apustulis, piemiņas diena
 			"laudes" : {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -5370,8 +4749,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Stiprini savu Baznīcu ticībā un mīlestībā!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu iesvaidīji savus svētos, lai tie kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu iesvaidīji savus svētos, lai tie kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -5479,7 +4858,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Tu vēlējies, lai taisnība tiktu aizstāvēta ar Jāņa Kristītāja moceklību, dari mūs par neatlaidīgiem Tavas patiesības apliecinātājiem.",
 					"lugums5": "Atceries visus, kas ir aizgājuši no šīs pasaules, uzņem viņus gaismas un miera valstībā."
 				},
-				"lugsimies": "Visvarenais Dievs, dari, ka Tava saime dotos pa pestīšanas ceļu un, sekojot svētā Jāņa, Kunga ceļa gatavotāja, pamudinājumam, droši sasniegtu To, kuru viņš sludināja – Mūsu Kungu Jēzu Kristu. " + noslegums2
+				"lugsimies": ""
 			},
 			"laudes": {
 				"title": "Sv. Jānis Kristītājs, Laudes",
@@ -5506,7 +4885,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums3": "Tu vēlējies, lai cilvēki sludinātu par Tevi, sūti visā pasaulē Evaņģēlija sludinātājus.",
 					"lugums4": "Tu vēlējies tikt Jāņa kristīts Jordānā, lai izpildītu visu, ko prasa taisnīgums, dari, lai mēs pūlētos izpildīt Tavas Valstības taisnīgumu."
 				},
-				"lugsimies": "Dievs, Tu aizdedzi svēto Jāni Kristītāju, lai sagatavotu tautu, kas ir nobriedusi Kunga Jēzus Kristus atnākšanai, dāvā saviem ļaudīm garīgā prieka žēlastību, un vadi visus ticīgos pa pestīšanas un miera ceļu. " + noslegums1
+				"lugsimies": ""
 			},
 			"dienas" : {
 				"title": "Sv. Jānis Kristītājs, Dienas vidus",
@@ -5555,7 +4934,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Dievs, Tu aizdedzi svēto Jāni Kristītāju, lai sagatavotu tautu, kas ir nobriedusi Kunga Jēzus Kristus atnākšanai, dāvā saviem ļaudīm garīgā prieka žēlastību, un vadi visus ticīgos pa pestīšanas un miera ceļu. " + noslegums1
+				"lugsimies": ""
 			},
 			"vesperes": {
 				"title": "Sv. Jānis Kristītājs, II Vesperes",
@@ -5582,114 +4961,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Tu vēlējies, lai taisnība tiktu aizstāvēta ar Jāņa Kristītāja moceklību, dari mūs par neatlaidīgiem Tavas patiesības apliecinātājiem.",
 					"lugums5": "Atceries visus, kas ir aizgājuši no šīs pasaules, uzņem viņus gaismas un miera valstībā."
 				},
-				"lugsimies": "Dievs, Tu aizdedzi svēto Jāni Kristītāju, lai sagatavotu tautu, kas ir nobriedusi Kunga Jēzus Kristus atnākšanai, dāvā saviem ļaudīm garīgā prieka žēlastību, un vadi visus ticīgos pa pestīšanas un miera ceļu. " + noslegums1
+				"lugsimies": ""
 			}
 		},
-/* 		28 : { // Sv.Irenejs "MartyrsMem" Vienam moceklim Piemiņas dienas jeb parastie psalmi
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, mocekļu Karali<span class='Lieldienas'>, alleluja</span>.",
-				"himna": "himnaMartyrLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "<span class ='neLieldienas'>LASĪJUMS 2 Kor 1, 3-5</span><span class='Lieldienas'>LASĪJUMS 1 Jņ 5, 3-5</span>",
-				"lasijumstext": "<span class ='neLieldienas'>Lai slavēts ir Dievs un mūsu Kunga Jēzus Kristus Tēvs, žēlsirdības Tēvs un visa iepriecinājuma Dievs, kas mierina mūs visās mūsu bēdās, lai arī mēs paši varētu iepriecināt tos, kas cieš visādus spaidus, ar mierinājumu, ar ko mūs pašus mierina Dievs. Jo kā Kristus ciešanas pārpilnīgi mūs piemeklē, tāpat pārpilnībā nāk pār mums iepriecinājumi caur Kristu.</span><span class='Lieldienas'>Dieva mīlestība ir tā, ka mēs pildām Viņa baušļus. Un Viņa baušļi nav smagi. Jo ikviens, kas dzimis no Dieva, uzvar pasauli; un šī uzvara, kas pārspēja pasauli, ir mūsu ticība. Un kas tad uzvar pasauli, ja ne tas, kurš tic, ka Jēzus ir Dieva Dēls?</span>",
-				"atbilde": "responsorijs",				
-				"atb1": "<span class ='neLieldienas'>Kungs ir mans spēks* un mana slava.</span><span class='Lieldienas'>Pār viņu galvām būs mūžīgs prieks.* Alleluja, alleluja.</span>",
-				"atb2": "<span class ='neLieldienas'>Viņš ir mans glābējs.*</span><span class='Lieldienas'>Viņi saņems prieku un gaviles.*</span>",
-				"atb3": "<span class ='neLieldienas'>Un mana slava.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Irenejs, atbilstoši savam vārdam, bija miera cilvēks; viņš neatlaidīgi cīnījās par Baznīcas vienotību.",
-				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
-				"lugums": {
-					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
-					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
-					"lugums3": "Ar Tavu mocekļu starpniecību, kas, uzņemoties krustu, sekoja Tev, dod, Kungs, mums žēlastību, drosmīgi uzņemties ikdienas rūpes.",
-					"lugums4": "Ar Tavu mocekļu starpniecību, kas savas drānas mazgāja Jēra asinīs, dod, Kungs, mums žēlastību, uzveikt visas miesas un pasaules viltības."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": ""
-			},
-			"vesperes": { // nav
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMartyrVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "<span class ='neLieldienas'>LASĪJUMS 1 Pēt 4, 13-14</span><span class='Lieldienas'>LASĪJUMS Atkl 7, 14b-17</span>",
-				"lasijumstext": "<span class ='neLieldienas'>Mīļie, priecājieties, piedaloties Kristus ciešanās, lai jūs varētu gavilēdami priecāties arī tad, kad atklāsies Viņa godība. Svētīgi jūs esat, ja jūs nonievā Kristus vārda dēļ, jo virs jums mīt godības un Dieva Gars.</span><span class='Lieldienas'>Šie ir tie, kas nākuši no lielām ciešanām un savas drēbes mazgājuši un tās balinājuši Jēra asinīs. Tādēļ viņi ir Dieva troņa priekšā un kalpo Viņam dienu un nakti Viņa svētnīcā. Un Tas, kurš sēž tronī, mājos pār viņiem. Viņiem vairs nebūs izsalkuma, nebūs vairs slāpju un viņus neskars saules tveice, nedz kāda cita svelme, jo viņus ganīs Jērs, kas ir troņa vidū, un aizvedīs viņus pie dzīvības ūdeņu avotiem. Un Dievs noslaucīs ikvienu asaru no viņu acīm.</span>",
-				"atbilde": "responsorijs",
-				"atb1": "<span class ='neLieldienas'>Dievs, Tu esi mūs pārbaudījis* un izvedis mūs brīvībā.</span><span class='Lieldienas'>Taisnīgie spīdēs kā saule Dieva priekšā.* Alleluja, alleluja.</span>",
-				"atb2": "<span class ='neLieldienas'>Tu esi mūs pārbaudījis ar uguni kā pārbauda sudrabu.*</span><span class='Lieldienas'>Un priecāsies visi sirdsšķīstie.*</span>",
-				"atb3": "<span class ='neLieldienas'>Un izvedis mūs brīvībā.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Svēto mājvieta ir Debesu valstībā un viņu atpūtas vieta – mūžībā<span class='Lieldienas'>, alleluja</span>.",
-				"lugumi": "Šai stundā, kad mocekļu Ķēniņš savu dzīvību upurēja vakariņās un atdeva uz krusta, pateiksimies Viņam, sakot:",
-				"resplugums": "- Tevi, Kungs, mēs slavējam!",
-				"lugums": {
-					"lugums1": "Tevi, Kungs, mēs slavējam, jo Tu, mūsu Pestītāj, ikviena mocekļa avots un paraugs, mūs mīlēji līdz galam.",
-					"lugums2": "Jo Tu visus grēciniekus, kas nožēlo savas vainas, aicināji uz dzīves izcilību.",
-					"lugums3": "Jo šodien mēs upurējam Jaunās un Mūžīgās Derības Asinis, kas izlietas grēku piedošanai.",
-					"lugums4": "Jo ar Tavas žēlastības palīdzību, mēs šai dienā turpinām pastāvēt ticībā.",
-					"lugums5": "Jo šodien Tu daudzus brāļus darīji par savas nāves sabiedrotajiem."
-				},
-				"lugsimies": ""
-			}
-		}, */
 		29 : { // Sv. APUSTUĻI PĒTERIS UN PĀVILS
 			"vesperesI": {
 				"title": "Sv. Pēteris un Pāvils, I Vesperes",
@@ -5716,7 +4990,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Tu sūtīji apustuli Pāvilu sludināt Evaņģēliju pagāniem, liec, lai pestīšanas vēsts tiktu pasludināta visai radībai.",
 					"lugums5": "Tu uzticēji savai Baznīcai debesu valstības atslēgas, atver debesu vārtus visiem, kas zemes dzīves laikā paļāvās uz Tavu žēlsirdību."
 				},
-				"lugsimies": "Kungs, mūsu Dievs, kas ar svēto Pēteri un Pāvilu savai Baznīcai esi ielicis pamatu, viņu aizbildnības dēļ dāvā mums žēlastību mūžīgās svētlaimes iegūšanai. " + noslegums1
+				"lugsimies": ""
 			},
 			"laudes": {
 				"title": "Sv. Pēteris un Pāvils, Laudes",
@@ -5743,7 +5017,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums3": "Tu izvēlējies apustuli Pāvilu, lai viņš pavēstītu par Tevi pagāniem, veido mūs par uzticīgiem Tava Evaņģēlija sludinātājiem.",
 					"lugums4": "Tu žēlsirdīgi piedevi Pēterim Tevis noliegšanu, piedod mums visus mūsu grēkus."
 				},
-				"lugsimies": "Kungs Dievs, kas iepriecini mūs svētā Pētera un Pāvila svētkos, liec, lai Tava Baznīca visās lietās sekotu viņu mācībai, no kuras tā saņēma ticību Jēzum Kristum. " + noslegums2
+				"lugsimies": ""
 			},
 			"dienas" : {
 				"title": "Sv. Pēteris un Pāvils, Dienas vidus",
@@ -5774,7 +5048,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"ps2": "psalms124",
 						"ps3": "psalms125",
 						"lasijumstitle": "LASĪJUMS Gal 1, 15-16a.17b-18a",
-						"lasijumstext": "Kad Dievam, kas mani izredzēja jau no manas mātes miesām un paaicināja ar savu žēlastību, labpatika atklāt savu Dēlu manī, lai es Viņu sludinātu pagānu vidū, tad es devos uz Arābiju un atkal atgriezos Damaskā. Tikai vēlāk, pēc trim gadiem es aizgāju uz Jeruzalemi, lai redzētu Kefu.",
+						"lasijumstext": "Kad Dievam, kas mani izredzēja jau no manas mātes miesām un paaicināja ar savu žēlastību, labpatika atklāt manī savu Dēlu, lai es Viņu sludinātu pagānu vidū, tad es devos uz Arābiju un atkal atgriezos Damaskā. Tikai vēlāk, pēc trim gadiem es aizgāju uz Jeruzalemi, lai redzētu Kefu.",
 						"atb1" : "Viņi sargāja Dieva Derības liecības.",
 						"atb2" : "Un Viņa baušļus.",
 						"lugsimies": ""
@@ -5792,7 +5066,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Kungs Dievs, kas iepriecini mūs svētā Pētera un Pāvila svētkos, liec, lai Tava Baznīca visās lietās sekotu viņu mācībai, no kuras tā saņēma ticību Jēzum Kristum. " + noslegums2
+				"lugsimies": ""
 			},
 			"vesperes": {
 				"title": "Sv. Pēteris un Pāvils, II Vesperes",
@@ -5819,11 +5093,11 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums4": "Tu sūtīji apustuli Pāvilu sludināt Evaņģēliju pagāniem, liec, lai pestīšanas vēsts tiktu pasludināta visai radībai.",
 					"lugums5": "Tu uzticēji savai Baznīcai debesu valstības atslēgas, atver debesu vārtus visiem, kas zemes dzīves laikā paļāvās uz Tavu žēlsirdību."
 				},
-				"lugsimies": "Kungs Dievs, kas iepriecini mūs svētā Pētera un Pāvila svētkos, liec, lai Tava Baznīca visās lietās sekotu viņu mācībai, no kuras tā saņēma ticību Jēzum Kristum. " + noslegums2
+				"lugsimies": ""
 			}
 		}
-	},
-	7 : {
+	};
+festum[7]={
 		3 :  { // Sv. APUSTULIS Toms
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -6154,9 +5428,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
 				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
 				"atbilde": "responsorijs",
-				"atb1": "Dievs ir viņas patvērums un spēks,* viņa netiks satricināta.",
-				"atb2": "Dievs viņā mājo.*",
-				"atb3": "Viņa netiks satricināta",
+				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
+				"atb2": "Dievs ir tās vidū, tā satriekta netiks.*",
+				"atb3": "Dievs tai palīdzēs.*",
 				"magbenant": "“Katrs, kas pilda mana Tēva gribu, ir mans brālis un māsa, un māte,” saka Kungs.",
 				"lugumi": "Brāļi, kopā ar visām svētajām sievietēm slavēsim mūsu Pestītāju un sauksim:",
 				"resplugums": "- Nāc, Kungs Jēzu!",
@@ -6456,219 +5730,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Caur Jēzu Kristu"
 			}
 		},
-/* 		29 : { // Sv. Marta, Marija un Lācars, svētki
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Dievu, kura slava atmirdz Viņa svētajos.",
-				"himna": "himnaBrigitaLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
-				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
-				"atbilde": "responsorijs",
-				"atb1": "Dieva likums* ir viņu sirdī.",
-				"atb2": "Viņu soļi neļodzīsies.*",
-				"atb3": "Dieva likums ir viņu sirdī.",
-				"magbenant": "Jēzus, pacēlis acis uz augšu, skaļā balsī sauca: “Lācar, nāc ārā!”",
-				"lugumi": "Brāļi, pagodināsim Kristu, kas ir svētais Dievs, lūdzot, lai mēs svētumā un taisnībā Viņam kalpotu visās sava mūža dienās, un sauksim:",
-				"resplugums": "- Kungs, vienīgi Tu esi svēts!",
-				"lugums": {
-					"lugums1": "Tu piedzīvoji visus tos pašus dzīves pārbaudījumus kā mēs, izņemot grēku, Kungs Jēzu, apžēlojies par mums.",
-					"lugums2": "Tu mūs visus aicināji uz mīlestības pilnību, Kungs Jēzu, svētdari mūs.",
-					"lugums3": "Tu mums pavēlēji būt par zemes sāli un pasaules gaismu, Kungs Jēzu, apgaismo mūs.",
-					"lugums4": "Tu vēlējies kalpot, nevis tikt apkalpots, Kungs Jēzu, dari, ka mēs pazemībā kalpotu Tev un brāļiem.",
-					"lugums5": "Tu esi Tēva godības spožums un Viņa būtības attēls, Kungs Jēzu, dari, lai mēs reiz godībā varētu skatīt Tavu vaigu."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>,<br>Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaBrigitaVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 8, 28-30",
-				"lasijumstext": "Mēs zinām, ka tiem, kas mīl Dievu, viss nāk par labu, tiem, kas saskaņā ar Viņa lēmumu ir aicināti. Jo kurus Viņš iepriekš pazina, tos arī iepriekš nozīmēja kļūt līdzīgiem sava Dēla attēlam, lai Viņš būtu pirmdzimtais starp daudziem brāļiem. Bet kurus Viņš iepriekš nozīmēja, tos arī aicināja; un kurus aicināja, tos arī attaisnoja; bet kurus attaisnoja, tos arī pagodināja.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir taisnīgs,* Viņš mīl taisnību.",
-				"atb2": "Viņa vaigu skatīs taisnīgie.*",
-				"atb3": "Viņš mīl taisnību.",
-				"magbenant": "Jēzus tā mīlēja Martu, viņas māsu Mariju un viņas brāli Lācaru.",
-				"lugumi": "Neatlaidīgi lūgsim Tēvu, visa svētuma avotu, lai ar svēto paraugu un aizbildnību Viņš mūs aizvada līdz svētai dzīvei:",
-				"resplugums": "- Dari mūs svētus, jo Tu esi svēts!",
-				"lugums": {
-					"lugums1": "Svētais Tēvs, Tu vēlējies, lai mēs tiktu saukti par Taviem bērniem un tādi būtu arī patiesībā, dari, lai visā pasaulē Tevi godina svētā Baznīca.",
-					"lugums2": "Svētais Tēvs, Tu vēlējies, lai mēs cienīgi dzīvotu un būtu Tev visā patīkami, dari, lai mēs būtu auglīgi labos darbos.",
-					"lugums3": "Svētais Tēvs, caur Kristu Tu mums palīdzēji izlīgt ar Tevi, sargā mūs savā vārdā, lai mēs būtu vienoti.",
-					"lugums4": "Svētais Tēvs, Tu mūs esi aicinājis debesu mielastā, palīdzi mums sasniegt mīlestības pilnību, mielojot mūs ar maizi, kas nākusi no debesīm.",
-					"lugums5": "Svētais Tēvs, piedod grēciniekiem visus parādus, un ļauj mirušajiem skatīt Tava vaiga gaismu."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
-/* 		30 : { // Sv.Ignācijs no Lojolas // Gani
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Visaugsto Ganu<span class='Lieldienas'>, alleluja</span>.",
-				"himna": "himnaIgnacijsNoLojolas",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
-				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
-				"atbilde": "responsorijs",				
-				"atb1": "Pār tevi, Jeruzaleme,<span class ='neLieldienas'>*</span> Es iecēlu sargus<span class='Lieldienas'>.* Alleluja, alleluja</span>.",
-				"atb2": "Dienu un nakti viņi nemitēsies sludināt Kunga vārdu.*",
-				"atb3": "<span class ='neLieldienas'>Es iecēlu sargus.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Kaut es varētu iepazīt Kristu, Viņa augšāmcelšanās spēku un līdzdalību Viņa ciešanās!",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaIgnacijsNoLojolas",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 5, 1-4",
-				"lasijumstext": "Vecākos, kas ir jūsu vidū, es lūdzu, tāpat būdams vecākais un Kristus ciešanu liecinieks, kā arī tās godības līdzdalībnieks, kas nākotnē atklāsies: ganiet Dieva ganāmpulku, kas ir pie jums, rūpēdamies par to nevis piespiesti, bet brīvprātīgi, kā Dievs to grib; nevis negodīgas peļņas dēļ, bet gan ar pašatdevi; nevis kā kungi pār draudzēm, bet gan kļūdami par priekšzīmi ganāmpulkam. Un kad parādīsies Visaugstais Gans, jūs saņemsiet nevīstošo godības kroni.",
-				"atbilde": "responsorijs",
-				"atb1": "Lūk, gans, kas mīl brāļus<span class ='neLieldienas'>* un daudz lūdzas par tautu</span><span class='Lieldienas'> un daudz lūdzas par tautu.* Alleluja, alleluja</span>.",
-				"atb2": "Savu dzīvību viņš ir atdevis par saviem brāļiem.*",
-				"atb3": "<span class ='neLieldienas'>Un daudz lūdzas par tautu.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Ko tas līdz cilvēkam, ja viņš iemantos visu pasauli, bet savā dvēselē cietīs zaudējumu?",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": ""
-			}
-		} */
-	},
-	8 : { 
+	};
+festum[8]={ 
 		6: { // Kunga pārveidošanās
 			"vesperesI": {
 				"title": "Kunga pārveidošanās,<br>I Vesperes",
@@ -6689,11 +5752,11 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugumi": "Ar paļāvību lūgsim mūsu Pestītāju, kas kalnā brīnišķā veidā tika pārveidots apustuļu priekšā:",
 				"resplugums": "- Mūsu Dievs, izgaismo mūsu tumsības!",
 				"lugums": {
-					"lugums1": "Kristu, kas pārveidojies pirms savām ciešanām pasludināji mācekļiem par gaidāmo augšāmcelšanos, mēs Tevi lūdzam par Tavu svēto Baznīcu, kas cieš pasaules grūtībās, lai spaidos tā vienmēr pārveidotos Tavas uzvaras priekā.",
-					"lugums2": "Kristu, kas paņēmi sev līdzi Pēteri, Jēkabu un Jāni un aizvedi viņus savrup augstā kalnā, mēs Tevi lūdzam par mūsu pāvestu N. un bīskapiem, lai viņi kalpotu Tavai tautai cerībā uz augšāmcelšanos.",
-					"lugums3": "Kristu, kas kalnā liki atmirdzēt savam vaigam pār Mozu un Eliju, mēs Tevi lūdzam par jūdiem, Tevis reiz izvēlēto tautu, lai viņi nonāktu līdz pestīšanas pilnībai.",
-					"lugums4": "Kristu, kas apgaismoji pasauli, ar Radītāja godību, kas uzausa pār Tevi, mēs Tevi lūdzam par labas gribas cilvēkiem, lai viņi staigātu Tavā gaismā.",
-					"lugums5": "Kristu, kas atjaunosi mūsu vājo miesu darot to līdzīgu savai apskaidrotajai miesai, mēs Tevi lūdzam par mūsu mirušajiem brāļiem, lai viņi ieiet Tavā godībā."
+					"lugums1": "Kristu, Tu pārveidojies pirms savām ciešanām pasludināji mācekļiem par gaidāmo augšāmcelšanos, mēs Tevi lūdzam par Tavu svēto Baznīcu, kas cieš pasaules grūtībās, lai spaidos tā vienmēr pārveidotos Tavas uzvaras priekā.",
+					"lugums2": "Kristu, Tu paņēmi sev līdzi Pēteri, Jēkabu un Jāni un aizvedi viņus savrup augstā kalnā, mēs Tevi lūdzam par mūsu pāvestu N. un bīskapiem, lai viņi kalpotu Tavai tautai cerībā uz augšāmcelšanos.",
+					"lugums3": "Kristu, Tu kalnā liki atmirdzēt savam vaigam pār Mozu un Eliju, mēs Tevi lūdzam par jūdiem, Tevis reiz izvēlēto tautu, lai viņi nonāktu līdz pestīšanas pilnībai.",
+					"lugums4": "Kristu, Tu apgaismoji pasauli, ar Radītāja godību, kas uzausa pār Tevi, mēs Tevi lūdzam par labas gribas cilvēkiem, lai viņi staigātu Tavā gaismā.",
+					"lugums5": "Kristu, Tu atjaunosi mūsu vājo miesu darot to līdzīgu savai apskaidrotajai miesai, mēs Tevi lūdzam par mūsu mirušajiem brāļiem, lai viņi ieiet Tavā godībā."
 				},
 				"lugsimies": "Kungs Dievs, Tu sava Viendzimušā Dēla, Jēzus Kristus, pārveidošanās dienā ar Vecās Derības tēvu liecību apstiprināji mūsu ticības noslēpumus un brīnišķīgā veidā parādīji arī mūsu nākamo godību, māci mūs vienmēr klausīt Jēzus Kristus balsij, lai mēs varētu būt par Viņa valstības mantiniekiem. " + noslegums1
 			},
@@ -6706,21 +5769,22 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps3": "psalms149",
 				"ant1": "Šodien uz kalna Kunga Jēzus Kristus vaigs iemirdzējās kā saule, un drēbes kļuva mirdzoši baltas it kā sniegs.",
 				"ant2": "Šodien, Kungam pārveidojoties un saņemot Tēva balss liecību, Mozus un Elijs mirdzoši parādījās un runāja par Viņa aiziešanu, kas Viņam būs jāpiepilda.",
-				"ant3": "Likums tika dots ar Mozus starpniecību un pravietojumi ar Elijas, kas godībā bija redzami sarunājoties ar Kungu kalnā.",
+				"ant3": "Likums tika dots ar Mozus starpniecību un pravietojumi ar Elija, kas godībā bija redzami sarunājoties ar Kungu kalnā.",
 				"lasijumstitle": "LASĪJUMS Atkl 21, 10.23",
 				"lasijumstext": "Eņģelis mani garā aiznesa uz lielu un augstu kalnu un parādīja man svēto pilsētu Jeruzalemi nokāpjam no debesīm no Dieva. Un pilsētai nav vajadzīga nedz saule, nedz mēness, lai dotu tai gaismu, jo to ir apgaismojis Dieva spožums, un tās spīdeklis ir Jērs.",
 				"atbilde": "responsorijs",
-				"atb1": "Ar godību un spožumu Tu esi Viņu vainagojis, Kungs.* Alleluja, alleluja.",
-				"atb2": "Pār saviem roku darbiem iecēlis.*",
+				"atb1": "Kungs, ar godu un slavu Tu esi Viņu greznojis.* Alleluja, alleluja.",
+				"atb2": "Un iecēlis Viņu par Tavas radības valdnieku.*",
 				"atb3": "Alleluja, alleluja.",
 				"magbenant": "No mākoņa, lūk, atskanēja balss: “Šis ir mans mīļais Dēls, kas man ļoti patīk; Viņu klausiet!” Alleluja.",
-				"lugumi": "Mūsu Kungs un Pestītājs Jēzus Kristus uz kalna brīnišķā veidā tika pārveidots mācekļu priekšā. Ar paļāvību lūgsim Dievu Tēvu:",
+				"lugumi": "Ar paļāvību lūgsim Dievu Tēvu, kura mīļotais Dēls – mūsu Kungs un Pestītājs Jēzus Kristus brīnišķā veidā uz kalna tika pārveidots mācekļu priekšā:",
 				"resplugums": "- Kaut mēs Tavā gaismā, Kungs, ieraudzītu gaismu!",
 				"lugums": {
-					"lugums1": "Visžēlīgais Tēvs, kas pārveidoji savu mīļoto Dēlu un mirdzošā mākonī parādījies pats, dari, lai mēs uzticīgi klausītos Kristus teikto.",
-					"lugums2": "Dievs, kas liki no tumsības atspīdēt gaismai un apgaismoji mūsu sirdis, lai mēs varētu lūkoties Tavā spožumā, raugoties uz Kristus vaigu, uzturi mūsos to garu, kas mudina mūs uzlūkot Tavu mīļoto Dēlu.",
-					"lugums3": "Dievs, Tu mūs sauci savā svētajā aicinājumā, saskaņā ar to žēlastību, kas tagad atklājusies ar mūsu Pestītāja Jēzus Kristus iemirdzēšanos, ar sava Evaņģēlija palīdzību palīdzi cilvēkiem ieraudzīt mūžīgo dzīvi.",
-					"lugums4": "Vismīļais Tēvs, kas mums devi tādu mīlestību, lai mēs tiktu saukti par Dieva bērniem un tādi patiešām arī būtu, dari, lai tad, kad parādīsies Kristus, mēs kļūtu Viņam līdzīgi."
+					"lugums1": "Visžēlīgais Tēvs, Tu pārveidoji savu mīļoto Dēlu un mirdzošā mākonī parādījies pats, dari, lai mēs uzticīgi klausītos Kristus teikto.",
+					"lugums2": "Dievs, Tu savus izvēlētos pildīji ar sava nama labumiem un atveldzēji no Tavas līksmības strauta, dari, lai mēs Kristus Miesā rodam dzīvības avotu.",
+					"lugums3": "Dievs, Tu liki no tumsības atspīdēt gaismai un apgaismoji mūsu sirdis, lai mēs varētu lūkoties Tavā spožumā, raugoties uz Kristus vaigu, uzturi mūsos to garu, kas mudina mūs uzlūkot Tavu mīļoto Dēlu.",
+					"lugums4": "Dievs, savā lielajā žēlastībā, ko šodien atklāj mūsu Pestītāja – Jēzus Kristus spožums, Tu mūs aicināji svētai dzīvei, ar sava Evaņģēlija gaismu palīdzi cilvēkiem ieraudzīt to dzīvi, kas glābj no iznīcības.",
+					"lugums5": "Vismīļais Tēvs, Tu mūs tik ļoti iemīlēji, ka mēs tiekam saukti par Dieva bērniem un tādi patiešām arī esam, dari, lai tad, kad parādīsies Kristus, mēs kļūtu Viņam līdzīgi."
 				},
 				"lugsimies": "Kungs Dievs, Tu sava Viendzimušā Dēla, Jēzus Kristus, pārveidošanās dienā ar Vecās Derības tēvu liecību apstiprināji mūsu ticības noslēpumus un brīnišķīgā veidā parādīji arī mūsu nākamo godību, māci mūs vienmēr klausīt Jēzus Kristus balsij, lai mēs varētu būt par Viņa valstības mantiniekiem. Mēs Tevi lūdzam mūsu Kunga, Jēzus Kristus, Tava Dēla vārdā."
 			},
@@ -6788,15 +5852,15 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb1": "Diženums un krāšņums – Viņa priekšā.* Alleluja, alleluja.",
 				"atb2": "Spēks un daiļums – Viņa svētnīcā.*",
 				"atb3": "Alleluja, alleluja.",
-				"magbenant": "To dzirdot, mācekļi nokrita uz sava vaiga un ļoti izbijās, bet Jēzus piegājis un viņus aizskāris, tiem sacīja: “Celieties un nebīstieties,” alleluja.",
+				"magbenant": "To dzirdot, mācekļi nokrita uz sava vaiga un ļoti izbijās, bet Jēzus piegāja un pieskārās viņiem, un sacīja tiem: “Celieties un nebīstieties!” Alleluja.",
 				"lugumi": "Ar paļāvību lūgsim mūsu Pestītāju, kas kalnā brīnišķā veidā tika pārveidots apustuļu priekšā:",
 				"resplugums": "- Mūsu Dievs, izgaismo mūsu tumsības!",
 				"lugums": {
-					"lugums1": "Kristu, kas pārveidojies pirms savām ciešanām pasludināji mācekļiem par gaidāmo augšāmcelšanos, mēs Tevi lūdzam par Tavu svēto Baznīcu, kas cieš pasaules grūtībās, lai spaidos tā vienmēr pārveidotos Tavas uzvaras priekā.",
-					"lugums2": "Kristu, kas paņēmi sev līdzi Pēteri, Jēkabu un Jāni un aizvedi viņus savrup augstā kalnā, mēs Tevi lūdzam par mūsu pāvestu N. un bīskapiem, lai viņi kalpotu Tavai tautai cerībā uz augšāmcelšanos.",
-					"lugums3": "Kristu, kas kalnā liki atmirdzēt savam vaigam pār Mozu un Eliju, mēs Tevi lūdzam par jūdiem, Tevis reiz izvēlēto tautu, lai viņi nonāktu līdz pestīšanas pilnībai.",
-					"lugums4": "Kristu, kas apgaismoji pasauli, ar Radītāja godību, kas uzausa pār Tevi, mēs Tevi lūdzam par labas gribas cilvēkiem, lai viņi staigātu Tavā gaismā.",
-					"lugums5": "Kristu, kas atjaunosi mūsu vājo miesu darot to līdzīgu savai apskaidrotajai miesai, mēs Tevi lūdzam par mūsu mirušajiem brāļiem, lai viņi ieiet Tavā godībā."
+					"lugums1": "Kristu, Tu, pārveidojoties pirms savām ciešanām, pasludināji mācekļiem par gaidāmo augšāmcelšanos, mēs Tevi lūdzam par Tavu svēto Baznīcu, kas cieš pasaules grūtībās, lai spaidos tā vienmēr pārveidotos Tavas uzvaras priekā.",
+					"lugums2": "Kristu, Tu paņēmi sev līdzi Pēteri, Jēkabu un Jāni un aizvedi viņus savrup augstā kalnā, mēs Tevi lūdzam par mūsu pāvestu N. un bīskapiem, lai viņi kalpotu Tavai tautai cerībā uz augšāmcelšanos.",
+					"lugums3": "Kristu, Tu kalnā liki atmirdzēt savam vaigam pār Mozu un Eliju, mēs Tevi lūdzam par jūdiem, Tevis reiz izvēlēto tautu, lai viņi nonāktu līdz pestīšanas pilnībai.",
+					"lugums4": "Kristu, kad pār Tevi uzausa Radītāja godība, Tu apgaismoji pasauli, mēs Tevi lūdzam par labas gribas cilvēkiem, lai viņi staigātu Tavā gaismā.",
+					"lugums5": "Kristu, Tu atjaunosi mūsu mirstīgo miesu, darot to līdzīgu savai apskaidrotajai miesai, mēs Tevi lūdzam par mūsu mirušajiem brāļiem, lai viņi ieiet Tavā godībā."
 				},
 				"lugsimies": "Kungs Dievs, Tu sava Viendzimušā Dēla, Jēzus Kristus, pārveidošanās dienā ar Vecās Derības tēvu liecību apstiprināji mūsu ticības noslēpumus un brīnišķīgā veidā parādīji arī mūsu nākamo godību, māci mūs vienmēr klausīt Jēzus Kristus balsij, lai mēs varētu būt par Viņa valstības mantiniekiem. Mēs Tevi lūdzam mūsu Kunga, Jēzus Kristus, Tava Dēla vārdā."
 			}
@@ -6820,7 +5884,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "Un mana slava.",
 				"magbenant": "Nebaidies, mans kalps, jo Es esmu ar tevi, ja tu iesi caur uguni, liesmas tev nekaitēs un pat deguma smakas nebūs pie tevis.",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -6927,12 +5991,12 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Kungs, izglāb savu tautu!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
-				"lugsimies": " " + noslegums1
+				"lugsimies": "Žēlsirdīgais Dievs, Tu savā gudrībā un mīlestībā iedvesmoji svēto Meinardu ar Evaņģēlija mācību apgaismot mūsu sentēvus un caur viņu šajā zemē nostiprināji savu Baznīcu, dari, lūdzam, lai mēs, kas ar prieku nesam kristiešu vārdu, savu ticību pastāvīgi apliecinātu arī darbos. " + noslegums1
 			},
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -6942,7 +6006,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps2": "dan3c",
 				"ps3": "psalms149",
 				"ant1": "Jūs esat pasaules gaisma. Pilsētu, kas celta kalnā, nevar paslēpt.",
-				"ant2": "Tā jūsu gaisma lai spīd ļaužu priekšā, ka viņi redzētu jūsu labos darbus un slavētu jūsu Tēvu.",
+				"ant2": "Lai jūsu gaisma tā spīd ļaužu priekšā, ka viņi redzētu jūsu labos darbus un slavētu jūsu Tēvu.",
 				"ant3": "Dieva vārds ir dzīvs un iedarbīgs, un asāks par katru divasmeņu zobenu.",
 				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
 				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
@@ -7170,427 +6234,6 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Visvarenais, mūžīgais Dievs, kas bezvainīgo Jaunavu Mariju, Jēzus Kristus Māti, ar miesu un dvēseli esi uzņēmis Debesu godībā, dāvā mums žēlastību, lai mēs vienmēr ilgotos pēc Tevis un Debesīs varētu būt līdzdalīgi Tavā godībā. " + noslegums1
 			}
 		},
-/* 		20 : { // Sv. Bernards Doktori
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "<span class ='neLieldienas'>Ticīgo sapulcē* Kungs lika viņam runāt.</span><span class='Lieldienas'>Ticīgo sapulcē Kungs lika viņam runāt.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Svētais Bernards, kura dvēseli brīnumaini apgaismoja mūžīgais Vārds, izplatīja ticības un mācības gaismu visā Baznīcā.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Bernards, saldās Kunga Mācības skolotājs, Līgavaiņa draugs, brīnīšķais Jaunavas Mātes sprediķotājs, Klervo abatījā sevi apliecināja kā izcilais gans.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
-/*		22 : { // & Marijas kopīgie psalmi no dienas MaterDei būtībā MarijaiFestum2
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu Karali, kurš kronēja savu Māti.",
-				"himna": "himnaMarijaLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS sal. Is 61, 10",
-				"lasijumstext": "Es priecādamies priecāšos Kungā, un mana dvēsele gavilēs manā Dievā, jo Viņš mani ir ieģērbis atpestīšanas drēbēs, ar taisnības svārkiem mani ir apsedzis, kā līgavu, kas greznota ar savām rotām.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir izvēlējies* un izredzējis viņu.",
-				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
-				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Viscienījamākā pasaules Karaliene, Marij, mūžam jaunava, Tu dzemdēji Kungu Kristu, mūsu Pestītāju.",
-				"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
-				"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>,<br>Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMarijaVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gal 4, 4-5",
-				"lasijumstext": "Kad piepildījās laiks, Dievs sūtīja savu Dēlu, dzimušu no sievietes un pakļautu Likumam, lai izpirktu tos, kas bija zem Likuma varas, un mēs saņemtu tiesības kļūt par Viņa bērniem.",
-				"atbilde": "responsorijs",
-				"atb1": "Esi sveicināta, Marija, žēlastības pilnā,* Kungs ir ar Tevi.",
-				"atb2": "Tu esi svētīta starp sievietēm un svētīts ir Tavas miesas auglis.*",
-				"atb3": "Kungs ir ar Tevi.",
-				"magbenant": "Svētīga Tu esi, Jaunava Marija, jo Tu ieticēji tam, ko Kungs tev ir sacījis: Tu valdi ar Kristu mūžīgi.",
-				"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
-				"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
-				"lugums": {
-					"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
-					"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
-					"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
-					"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
-					"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
-				},
-				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu Vissvētāko Jaunavu Mariju, kura savā miesā nesa Tavu Dēlu Jēzu Kristu, pamudināji apmeklēt svēto Elizabeti, māci mūs, lai, Svētā Gara iedvesmoti, mēs kopā ar Jēzus Māti Tevi no sirds slavētu. " + noslegums1
-			}
-		},
-*/
-/* 		27 : { // Sv. Monika -- SvSievietes
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Slavēsim mūsu Dievu svētās <span id='G'>N.</span> piemiņas dienā.",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 12, 1-2",
-				"lasijumstext": "Dieva žēlsirdības dēļ es jūs lūdzu, brāļi, lai jūs uzupurētu savu miesu kā dzīvu, svētu, Dievam patīkamu upuri un lai tā ir jūsu apzinātā kalpošana! Un nepielāgojieties šai pasaulei, bet pārveidojiet sevi, atjaunodamies garā, lai jūs varētu saprast, kāda ir Dieva griba: kas ir labs, kas Viņam patīkams un kas pilnīgs.",
-				"atbilde": "responsorijs",
-				"atb1": "Dievs tai palīdzēs* ar sava vaiga gaismu.",
-				"atb2": "Dievs ir tās vidū, tā satriekta netiks.*",
-				"atb3": "Dievs tai palīdzēs.",
-				"magbenant": " Kungs, Tu uzklausīji viņu un neatstāji bez ievērības viņas asaras, ar kurām viņa slacināja zemi ikvienā savas lūgšanas vietā.",
-				"lugumi": "Brāļi, kopā ar visām svētajām sievietēm slavēsim mūsu Pestītāju un sauksim:",
-				"resplugums": "- Nāc, Kungs Jēzu!",
-				"lugums": {
-					"lugums1": "Kungs Jēzu, Tu grēcīgajai sievietei daudz piedevi, jo viņa daudz bija mīlējusi, piedod mums visas mūsu vainas.",
-					"lugums2": "Kungs Jēzu, ceļā Tev sekoja un pakalpoja svētas sievietes, dari, lai mēs vienmēr sekotu Tev.",
-					"lugums3": "Kungs Jēzu, Mācītāj, Marija klausījās Tavos vārdos, kamēr Marta Tev viesmīlīgi kalpoja, dari, lai mēs kalpotu Tev ar ticību un mīlestību.",
-					"lugums4": "Kungs Jēzu, Tu nosauci par savu brāli, māsu un māti visus, kas pilda Tavu gribu, dari, lai mūsu vārdi un darbi vienmēr būtu Tev patīkami."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Gal 6, 7b-8",
-						"lasijumstext": "Ko cilvēks būs iesējis, to arī pļaus, – kas sēj savā miesā, tas no miesas pļaus iznīcību, bet kas sēj Garā, tas no Gara pļaus mūžīgo dzīvi.",
-						"atb1" : "Svētīgi tie, kas neaptraipīti ir savās gaitās.",
-						"atb2" : "Kas dzīvo pēc Kunga likuma.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 1 Kor 9, 26-27a",
-						"lasijumstext": "Es arī tāpat skrienu, taču ne bezmērķīgi, un tāpat cīkstos, taču ne jau kā gaisu kuldams, bet gan šaustu savu miesu un pakļauju to kalpībā.",
-						"atb1" : "Es sastapu to, kuru mana dvēsele mīl.",
-						"atb2" : "Es satvēru viņu un nelaidu vaļā.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Flp 4, 8.9b",
-						"lasijumstext": "Brāļi, visu, kas vien ir patiess, kas ir godājams, kas taisnīgs, kas šķīsts, kas patīkams, kam ir laba slava un kas vien ir tikumīgs un kas vien slavējams, to paturiet prātā, – un miera Dievs būs ar jums.",
-						"atb1" : "Tev, Kungs, es dziedāšu.",
-						"atb2" : "Es dziedāšu un apdomāšu skaidrības ceļu.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Rom 8, 28-30",
-				"lasijumstext": "Mēs zinām, ka tiem, kas mīl Dievu, viss nāk par labu, tiem, kas saskaņā ar Viņa lēmumu ir aicināti. Jo kurus Viņš iepriekš pazina, tos arī iepriekš nozīmēja kļūt līdzīgiem sava Dēla attēlam, lai Viņš būtu pirmdzimtais starp daudziem brāļiem. Bet kurus Viņš iepriekš nozīmēja, tos arī aicināja; un kurus aicināja, tos arī attaisnoja; bet kurus attaisnoja, tos arī pagodināja.",
-				"atbilde": "responsorijs",
-				"atb1": "Dievs ir izvēlējies* un izredzējis viņu.",
-				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
-				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Monika, Kristū saņēmusi jaunu dzīvību vēl pirms tika atbrīvota no miesas, dzīvoja tā, lai Dieva vārds tiktu slavēts ar viņas ticību un tikumiem.",
-				"lugumi": "Aizbilstot svētām sievietēm, lūgsim Kungu par Baznīcu un sauksim:",
-				"resplugums": "- Kungs, atceries savu Baznīcu!",
-				"lugums": {
-					"lugums1": "Aizbilstot moceklēm, kuras gara spēkā ir pārvarējušas miesīgo nāvi, dāvā savai Baznīcai drosmi pārbaudījumos.",
-					"lugums2": "Aizbilstot precētām sievietēm, kuras, dzīvojot svētā laulībā, pieauga žēlastībā, dāvā savai Baznīcai apustulisko auglību.",
-					"lugums3": "Aizbilstot atraitnēm, kuras lūgšanā un viesmīlībā izturēja un svētdarīja savu vientulību, palīdzi Baznīcai atklāt pasaulei Tavas mīlestības noslēpumu.",
-					"lugums4": "Aizbilstot mātēm, kuras dzemdēja bērnus Dieva valstībai un cilvēku kopībai, dari, lai Tava Baznīca dzemdinātu visus cilvēkus mūžīgajai dzīvei un pestīšanai.",
-					"lugums5": "Aizbilstot visām svētām sievietēm, kuras ir kļuvušas cienīgas uzlūkot Tava vaiga gaismu, ļauj arī savas Baznīcas mirušajiem mūžīgi priecāties par Tevis skatīšanu."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
-/* 		28 : { // Sv. Augustīns – doctors
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Kungs, Tu dari, ka Tevis slavēšana sagādā baudu, jo Tu mūs esi radījis sev, un nemierīga ir mūsu sirds, kamēr tā nav radusi atpūtu Tevī.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Vēlu es Tevi iemīlēju, tik mūžsenais un tik jaunais skaistums, vēlu es Tevi iemīlēju. Tu mani aicināji un sauci, un Tu salauzi manu kurlumu.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
 		29 : { // Sv. Jāņa Kristītāja mocekļa nāve -- Vienam moceklim Svētki
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -7601,9 +6244,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ps3": "psalms149",
 				"ant1": "Kungs izstiepa savu roku un pieskārās manai mutei, un padarīja mani par pravieti tautām.",
 				"ant2": "Herods bijās Jāņa, pazīdams viņu kā taisnīgu un svētu vīru, un viņu sargāja.",
-				"ant3": "Herods labprāt klausījās Jāni un, viņu uzklausījis, daudz ko darīja.",
+				"ant3": "Herods labprāt klausījās Jāni un daudz lietas darīja, ņemot vērā viņa teikto.",
 				"lasijumstitle": "LASĪJUMS  Is 49, 1b-2",
-				"lasijumstext": "Kungs maini ir paaicinājis jau no mātes klēpja, jau no manas mātes miesām Viņš zināja manu vārdu. Un manu muti Viņš izveidoja kā asu zobenu, savas rokas pavēnī mani paslēpa. Viņš padarīja mani līdzīgu asinātai bultai un mani noslēpa savu bultu makā.",
+				"lasijumstext": "Kungs mani ir paaicinājis jau no mātes klēpja, jau no manas mātes miesām Viņš zināja manu vārdu. Un manu muti Viņš izveidoja kā asu zobenu, savas rokas pavēnī mani paslēpa. Viņš padarīja mani līdzīgu asinātai bultai un mani noslēpa savā bultu makā.",
 				"atbilde": "responsorijs",
 				"atb1": "Jūs sūtījāt savus pārstāvjus pie Jāņa* un viņš deva liecību par patiesību.",
 				"atb2": "Viņš bija lāpa, kas deg un dod gaismu.*",
@@ -7696,879 +6339,562 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": ""
 			}
 		}
+	};
+festum[9]={
+	8 : { // Dievmātes dzimšanas diena
+		"laudes": {
+			"title": "<span id='N'>Sv. N.</span>, Laudes",
+			"ievdant": "Svinēdami Jaunavas Marijas dzimšanu, pielūgsim viņas Dēlu, Kungu Kristu.",
+			"himna": "himnaMarijaDzimsanaLaudes",
+			"ps1": "psalms63",
+			"ps2": "dan3c",
+			"ps3": "psalms149",
+			"ant1": "Godības pilnā Jaunava Marija ir cēlusies no Abrahama sēklas, no Jūdas cilts, no Dāvida dzimtas.",
+			"ant2": "Piedzimstot Vissvētākajai Jaunavai, pasauli piepildīja gaisma; ak, svētīgā dzimta, ak, svētais ciltskoks un tā svētītais auglis.",
+			"ant3": "Ar prieku svinēsim Svētās Marijas dzimšanu, lai viņa par mums aizbilst pie Kunga Jēzus Kristus.",
+			"lasijumstitle": "LASĪJUMS Is 11, 1-3a",
+			"lasijumstext": "Izaugs atvase no Jesses celma, un no viņa saknes uzplauks zieds. Un pār viņu dusēs Kunga Gars: gudrības un saprāta gars, padoma un stipruma gars, zināšanas un Kunga bijības gars. Un viņam patiks Kunga bijība.",
+			"atbilde": "responsorijs",
+			"atb1": "Dievs ir izvēlējies* un izredzējis viņu.",
+			"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
+			"atb3": "Un izredzējis viņu.",
+			"magbenant": "Tava piedzimšana, Jaunava – Dieva Dzemdētāja, visai pasaulei pasludināja prieku, – no Tevis uzausa taisnības Saule, Kristus, mūsu Dievs. Viņš, noņemdams lāstu, deva svētību un, sadragājot nāvi, dāvināja mums mūžīgo dzīvi.",
+			"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
+			"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
+			"lugums": {
+				"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
+				"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
+				"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
+				"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
+			},
+			"lugsimies": "Uzklausi mūs, Kungs Dievs, un atver mums savas žēlastības bagātības, un Taviem ļaudīm, kuriem Vissvētākās Jaunavas Marijas dzimšana vēstīja pestīšanas sākumu, lai šie svētki dāvā patiesu mieru. Caur Jēzu Kristu..."
+		},
+		"dienas" : {
+			"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
+			"himna" : "",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "", // trešā
+			"ant2": "", // sestā
+			"ant3": "", // devītā
+			"stunda" : {
+				3 : {
+					"himna" : "",
+					"ant":"Šodien ir dzimšanas diena svētajai Jaunavai Marijai, kuras nevainojamā dzīve apgaismo visu Baznīcu.",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Dz 6, 10",
+					"lasijumstext": "Kura ir tā, kas parādās kā uzlecošā rītausma, skaista kā mēnesnīca, spoža kā saule, bijību iedvesoša kā ierindā nostādīti karapulki?",
+					"atb1" : "Svētīgi ir tie, kas klausās Dieva Vārdu.",
+					"atb2" : "Un to izpilda.",
+					"lugsimies": ""
+				},
+				6 : {
+					"himna" : "",
+					"ant":"Marija, cēlusies no karaliskās dzimtas, atnākdama spoži mirdz; no visas sirds un dvēseles mēs dievbijīgi lūdzam, lai viņa aizbilst par mums.",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Judt 13, 18b-19",
+					"lasijumstext": "Slavēts lai ir Kungs, mūsu Dievs, kas ir radījis debesis un zemi, kas ir vadījis tevi satriekt mūsu ienaidnieku vadoņa galvu. Jo tava slava nezudīs no cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
+					"atb1" : "Svētīgas Jaunavas Marijas miesas.",
+					"atb2" : "Kas iznēsāja mūžīgā Tēva Dēlu.",
+					"lugsimies": ""
+				},
+				9 : {
+					"himna" : "",
+					"ant":"No visas sirds un dvēseles mēs dziedam Kristum par godu šajos svētajos izcilās Dieva Dzemdētājas – Marijas svētkos.",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Atkl 21, 3",
+					"lasijumstext": "Lūk, Dieva mājoklis pie cilvēkiem! Un Viņš dzīvos pie tiem, un tie būs Viņa tauta. Un pats Dievs būs ar viņiem – viņu Dievs.",
+					"atb1" : "Tu esi svētīta starp sievietēm.",
+					"atb2" : "Un svētīts ir Tavas miesas auglis.",
+					"lugsimies": ""
+				}
+			},
+			"lugsimies": " Caur Kristu, mūsu Kungu."
+		},
+		"vesperes": {
+			"title": "<span id='N'>Sv. N.</span>, Vesperes",
+			"himna": "himnaMarijaDzimsanaVesperes",
+			"ps1": "psalms122",
+			"ps2": "psalms127",
+			"ps3": "ef1",
+			"ant1": "No Jesses dzimtas ir cēlusies Marija, kuras klēpī ienāca Visaugstā Gars.",
+			"ant2": "Šodien mēs svinam dzimšanas dienu Vissvētākajai Jaunavai Marijai, kuras skaistumu Dievs uzlūkoja un apciemoja viņas pazemību.",
+			"ant3": "Svētīta un cienījama ir Marija, Jaunava – Dieva Dzemdētāja, kuras Dzimšanu mēs svinam, lai viņa aizbilstu par mums pie Kunga.",
+			"lasijumstitle": "LASĪJUMS Rom 9, 4-5",
+			"lasijumstext": "Viņi ir izraēlieši, kuriem pieder adoptēto dēlu tiesības un godība, un derība, un Likuma došana, un dievkalpojumi un apsolījumi. Un viņiem pieder sentēvi, no kuriem pēc miesas ir cēlies Kristus, kas ir pāri visam – mūžam slavēts Dievs. Āmen.",
+			"atbilde": "responsorijs",
+			"atb1": "Esi sveicināta, Marija, žēlastības pilnā,* Kungs ir ar Tevi.",
+			"atb2": "Tu esi svētīta starp sievietēm, un svētīts ir Tavas miesas auglis.*",
+			"atb3": "Kungs ir ar Tevi.",
+			"magbenant": "Mēs pieminam godājamās Jaunavas Marijas cēlo nākšanu pasaulē, – Dievs uzlūkoja viņas pazemību un viņa, eņģelim Gabriēlam pasludinot, ieņēma pasaules Atpestītāju.",
+			"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
+			"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
+			"lugums": {
+				"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
+				"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
+				"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
+				"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
+				"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
+			},
+			"lugsimies": "Uzklausi mūs, Kungs Dievs, un atver mums savas žēlastības bagātības, un Taviem ļaudīm, kuriem Vissvētākās Jaunavas Marijas dzimšana vēstīja pestīšanas sākumu, lai šie svētki dāvā patiesu mieru. Caur Jēzu Kristu..."
+		}
 	},
-	9 : {
-/* 		3 : { // Sv. Gregors lielais
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Gregors Lielais, izcilais gans, atstāja mantojumā pastorālās dzīves priekšzīmi un likumus.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": " " + noslegums1
+	13 : { // Sv. Jānis Hrizostoms, Doctors
+		"laudes": {
+			"title": "<span id='N'>Sv. N.</span>, Laudes",
+			"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
+			"himna": "himnaGaniLaudes",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "",
+			"ant2": "",
+			"ant3": "",
+			"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
+			"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
+			"atbilde": "responsorijs",
+			"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
+			"atb2": "Un viņu slavu teic Baznīca.*",
+			"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
+			"magbenant": "Tie, kas būs mācīti, mirdzēs kā debesu spožums, un tie, kas daudziem būs iemācījuši taisnību, būs kā zvaigznes uz mūžīgiem laikiem.",
+			"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
+			"resplugums": "- Kungs, gani savu tautu!",
+			"lugums": {
+				"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
+				"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
+				"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
+				"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
 			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Gregors, Baznīcas tēvs, ar darbiem īstenoja to, ko sludināja savā mācībā, lai runājot par īpašo tuvību ar Dievu, pats būtu dzīvs tās paraugs.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
-		8 : { // Dievmātes dzimšanas diena
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Svinēdami Jaunavas Marijas dzimšanu, pielūgsim viņas Dēlu, Kungu Kristu.",
-				"himna": "himnaMarijaDzimsanaLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Godības pilnā Jaunava Marija ir cēlusies no Abrahama sēklas, no Jūdas cilts, no Dāvida dzimtas.",
-				"ant2": "Piedzimstot Vissvētākajai Jaunavai, pasauli piepildīja gaisma; ak, svētīgā dzimta, ak, svētais ciltskoks un tā svētītais auglis.",
-				"ant3": "Ar prieku svinēsim Svētās Marijas dzimšanu, lai viņa par mums aizbilst pie Kunga Jēzus Kristus.",
-				"lasijumstitle": "LASĪJUMS Is 11, 1-3a",
-				"lasijumstext": "Izaugs atvase no Jesses celma, un no viņa saknes uzplauks zieds. Un pār viņu dusēs Kunga Gars: gudrības un saprāta gars, padoma un stipruma gars, zināšanas un Kunga bijības gars. Un viņam patiks Kunga bijība.",
-				"atbilde": "responsorijs",
-				"atb1": "Dievs ir izvēlējies* un izredzējis viņu.",
-				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
-				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Tava piedzimšana, Jaunava – Dieva Dzemdētāja, visai pasaulei pasludināja prieku, – no Tevis uzausa taisnības Saule, Kristus, mūsu Dievs. Viņš, noņemdams lāstu, deva svētību un, sadragājot nāvi, dāvināja mums mūžīgo dzīvi.",
-				"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
-				"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalītu Tavās ciešanās.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": "Uzklausi mūs, Kungs Dievs, un atver mums savas žēlastības bagātības, un Taviem ļaudīm, kuriem Vissvētākās Jaunavas Marijas dzimšana vēstīja pestīšanas sākumu, lai šie svētki dāvā patiesu mieru. Caur Jēzu Kristu..."
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant":"Šodien ir dzimšanas diena svētajai Jaunavai Marijai, kuras nevainojamā dzīve apgaismo visu Baznīcu.",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Dz 6, 10",
-						"lasijumstext": "Kura ir tā, kas parādās kā uzlecošā rītausma, skaista kā mēnesnīca, spoža kā saule, bijību iedvesoša kā ierindā nostādīti karapulki?",
-						"atb1" : "Svētīgi ir tie, kas klausās Dieva Vārdu.",
-						"atb2" : "Un to izpilda.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant":"Marija, cēlusies no karaliskās dzimtas, atnākdama spoži mirdz; no visas sirds un dvēseles mēs dievbijīgi lūdzam, lai viņa aizbilst par mums.",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Judt 13, 18b-19",
-						"lasijumstext": "Slavēts lai ir Kungs, mūsu Dievs, kas ir radījis debesis un zemi, kas ir vadījis tevi satriekt mūsu ienaidnieku vadoņa galvu. Jo tava slava nezudīs no cilvēku sirdīm, kas pieminēs Dieva spēku mūžam.",
-						"atb1" : "Svētīgas Jaunavas Marijas miesas.",
-						"atb2" : "Kas iznēsāja mūžīgā Tēva Dēlu.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant":"No visas sirds un dvēseles mēs dziedam Kristum par godu šajos svētajos izcilās Dieva Dzemdētājas – Marijas svētkos.",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Atkl 21, 3",
-						"lasijumstext": "Lūk, Dieva mājoklis pie cilvēkiem! Un Viņš dzīvos pie tiem, un tie būs Viņa tauta. Un pats Dievs būs ar viņiem – viņu Dievs.",
-						"atb1" : "Tu esi svētīta starp sievietēm.",
-						"atb2" : "Un svētīts ir Tavas miesas auglis.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMarijaDzimsanaVesperes",
-				"ps1": "psalms122",
-				"ps2": "psalms127",
-				"ps3": "ef1",
-				"ant1": "No Jesses dzimtas ir cēlusies Marija, kuras klēpī ienāca Visaugstā Gars.",
-				"ant2": "Šodien mēs svinam dzimšanas dienu Vissvētākajai Jaunavai Marijai, kuras skaistumu Dievs uzlūkoja un apciemoja viņas pazemību.",
-				"ant3": "Svētīta un cienījama ir Marija, Jaunava – Dieva Dzemdētāja, kuras Dzimšanu mēs svinam, lai viņa aizbilstu par mums pie Kunga.",
-				"lasijumstitle": "LASĪJUMS Rom 9, 4-5",
-				"lasijumstext": "Viņi ir izraēlieši, kuriem pieder adoptēto dēlu tiesības un godība, un derība, un Likuma došana, un dievkalpojumi un apsolījumi. Un viņiem pieder sentēvi, no kuriem pēc miesas ir cēlies Kristus, kas ir pāri visam – mūžam slavēts Dievs. Āmen.",
-				"atbilde": "responsorijs",
-				"atb1": "Esi sveicināta, Marija, žēlastības pilnā,* Kungs ir ar Tevi.",
-				"atb2": "Tu esi svētīta starp sievietēm, un svētīts ir Tavas miesas auglis.*",
-				"atb3": "Kungs ir ar Tevi.",
-				"magbenant": "Mēs pieminam godājamās Jaunavas Marijas cēlo nākšanu pasaulē, – Dievs uzlūkoja viņas pazemību un viņa, eņģelim Gabriēlam pasludinot, ieņēma pasaules Atpestītāju.",
-				"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
-				"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
-				"lugums": {
-					"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
-					"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
-					"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
-					"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
-					"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
-				},
-				"lugsimies": "Uzklausi mūs, Kungs Dievs, un atver mums savas žēlastības bagātības, un Taviem ļaudīm, kuriem Vissvētākās Jaunavas Marijas dzimšana vēstīja pestīšanas sākumu, lai šie svētki dāvā patiesu mieru. Caur Jēzu Kristu..."
-			}
+			"lugsimies": " " + noslegums1
 		},
-		13 : { // Sv. Jānis Hrizostoms, Doctors
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "himnaGaniLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Tie, kas būs mācīti, mirdzēs kā debesu spožums, un tie, kas daudziem būs iemācījuši taisnību, būs kā zvaigznes uz mūžīgiem laikiem.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
+		"dienas" : {
+			"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
+			"himna" : "",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "", // trešā
+			"ant2": "", // sestā
+			"ant3": "", // devītā
+			"stunda" : {
+				3 : {
+					"himna" : "",
+					"ant" : "",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",//"LASĪJUMS ",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
 				},
-				"lugsimies": " " + noslegums1
+				6 : {
+					"himna" : "",
+					"ant" : "",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",//"LASĪJUMS ",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
+				},
+				9 : {
+					"himna" : "",
+					"ant" : "",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",//"LASĪJUMS ",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
+				}
 			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Svētais Jāni Hrizostom, izcilais ticības mācītāj, svētās Baznīcas gaisma, Dieva likumu mīlētāj, lūdz par mums Dieva Dēlu.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
+			"lugsimies": " Caur Kristu, mūsu Kungu."
 		},
-		14 :{ // Svētā Krusta pagodināšana -> testēt 2025.gadu svētdienā
-			"vesperesI": {
-				"title": "Sv. Krusta pagodināšana,<br>I Vesperes",
-				"himna": "himnaKlusasVesperes",
-				"ps1": "psalms147a",
-				"ps2": "psalms147",
-				"ps3": "fil2",
-				"ant1": "Krustā sistais ir augšāmcēlies no mirušajiem un mūs izglābis, alleluja.",
-				"ant2": "Svētās pilsētas Jeruzalemes vidū ir dzīvības koks, tā lapas dod tautām dziedināšanu, alleluja.",
-				"ant3": "Mums ir jālepojas ar mūsu Kunga Jēzus Kristus krustu.",
-				"lasijumstitle": "LASĪJUMS 1 Kor 1, 23-24",
-				"lasijumstext": "Mēs sludinām krustā sisto Kristu, kas jūdiem ir ieļaunojums un pagāniem – mulķība, bet aicinātajiem, tiklab jūdiem, kā grieķiem, Kristus ir Dieva spēks un Dieva gudrība.",
-				"atbilde": "responsorijs",
-				"atb1": "Debesīs būs šī zīme,* kad Kungs atnāks otrreiz.",
-				"atb2": "Paceliet savas galvas, jo tuvojas jūsu atpestīšana.*",
-				"atb3": "Kad Kungs atnāks otrreiz.",
-				"magbenant": "Kristum nācās ciest un augšāmcelties no mirušajiem, un tādā veidā ieiet savā godībā.",
-				"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
-				"resplugums": "- Ar sava krusta palīdzību cel mūs pretī Tavai valstībai!",
-				"lugums": {
-					"lugums1": "Kristu, Tu pazemināji pats sevi, pieņemdams kalpa veidu un kļūdams līdzīgs cilvēkiem, dari, lai Baznīcas locekļi atdarinātu Tavu pazemību.",
-					"lugums2": "Kristu, Tu pazemināji pats sevi, kļūdams paklausīgs līdz nāvei, līdz pat nāvei pie krusta, dod saviem kalpiem paklausību un pacietību.",
-					"lugums3": "Kristu, Dievs Tēvs Tevi paaugstināja un deva Tev vārdu, kas ir pāri pār katru vārdu, dod saviem ticīgajiem neatlaidību izturēt labajā līdz galam.",
-					"lugums4": "Kristu, Tavā vārdā kritīs ceļos ikviena radība debesīs, uz zemes un pazemē, piepildi cilvēkus ar mīlestību, lai viņi pielūgtu Tevi mierā.",
-					"lugums5": "Kristu, ikviena mēle Tevi atzīs par Kungu Dieva Tēva godībā, pieņem mūsu mirušos brāļus mūžīgās svētlaimes priekā."
-				},
-				"lugsimies": " " + noslegums1
+		"vesperes": {
+			"title": "<span id='N'>Sv. N.</span>, Vesperes",
+			"himna": "himnaDoctorVesperes",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "",
+			"ant2": "",
+			"ant3": "",
+			"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
+			"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
+			"atbilde": "responsorijs",
+			"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
+			"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
+			"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
+			"magbenant": "Svētais Jāni Hrizostom, izcilais ticības mācītāj, svētās Baznīcas gaisma, Dieva likumu mīlētāj, lūdz par mums Dieva Dēlu.",
+			"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
+			"resplugums": "- Kungs, izglāb savu tautu!",
+			"lugums": {
+				"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
+				"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+				"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
+				"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
+				"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 			},
-			"laudes": {
-				"title": "Sv. Krusta pagodināšana, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Karali, kurš mūsu dēļ ir paaugstināts pie krusta!",
-				"himna": "himnaKrustsLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Tas, kurš salauza nāves varu, ņēma svēto krustu uz sevis; apjozts ar varenību, Viņš augšāmcēlās trešajā dienā.",
-				"ant2": "Mirdz svētītais krusts, pie kura miesā karājās Kungs un mūsu brūces mazgāja ar savām Asinīm.",
-				"ant3": "Brīnišķā spožumā staro gādīgais krusts, caur kuru pasaulei ir atgriezta pestīšana: krusts uzvar, krusts valda, krusts patriec visus grēkus. Alleluja.",
-				"lasijumstitle": "LASĪJUMS Ebr 2, 9b.10",
-				"lasijumstext": "Mēs redzam Jēzu, vainagotu ar slavu un godu nāves ciešanu dēļ, jo Dieva žēlastības dēļ Viņš par visiem izbaudīja nāvi. Jo pienācās, ka Tas, kura dēļ un caur kuru viss un kurš daudzus dēlus ieveda godā, viņu pestīšanas devēju padarītu pilnīgu caur ciešanām.",
-				"atbilde": "responsorijs",
-				"atb1": "Mēs pielūdzam Tevi, Kristu,* un slavējam Tevi.",
-				"atb2": "Jo ar savu krustu Tu atpirki pasauli.*",
-				"atb3": "Un slavējam Tevi.",
-				"magbenant": "Mēs pielūdzam, Kungs, Tavu krustu, un slavējam un godinām Tavu svēto augšāmcelšanos: jo, lūk, ar krusta koka palīdzību visā pasaulē ienāca prieks.",
-				"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
-				"resplugums": "- Glāb mūs ar sava krusta palīdzību!",
-				"lugums": {
-					"lugums1": "Dieva Dēls, kas ar vara čūskas zīmi dziedināji Izraēļa tautu, aizsargā mūs šodien pret grēka dzeloņiem.",
-					"lugums2": "Cilvēka Dēls, Tu tiki paaugstināts krusta kokā, līdzīgi kā Mozus paaugstināja čūsku tuksnesī, cel mūs pretī Tavas valstības priekam.",
-					"lugums3": "Tēva Viendzimušais Dēls, kas esi dots pasaulei, lai neviens, kas Tev tic, neietu pazušanā, dāvā mūžīgo dzīvi tiem, kas meklē Tavu vaigu.",
-					"lugums4": "Tēva mīļotais Dēls, kas neesi sūtīts pasaulē, lai to tiesātu, bet gan lai pasaule caur Tevi tiktu pestīta, dāvā ticību mūsu tuviniekiem, lai viņi neaizietu postā.",
-					"lugums5": "Mūžīgā Tēva Dēls, kas atnāci sūtīt uguni uz zemi un vēlējies, lai tā aizdegtos, dod, lai mēs darītu patiesības darbu un dotos pretī gaismai."
-				},
-				"lugsimies": " " + noslegums1
+			"lugsimies": " " + noslegums1
+		}
+	},
+	14 :{ // Svētā Krusta pagodināšana -> testēt 2025.gadu svētdienā
+		"vesperesI": {
+			"title": "Sv. Krusta pagodināšana,<br>I Vesperes",
+			"himna": "himnaKlusasVesperes",
+			"ps1": "psalms147a",
+			"ps2": "psalms147",
+			"ps3": "fil2",
+			"ant1": "Krustā sistais ir augšāmcēlies no mirušajiem un mūs izglābis, alleluja.",
+			"ant2": "Svētās pilsētas Jeruzalemes vidū ir dzīvības koks, tā lapas dod tautām dziedināšanu, alleluja.",
+			"ant3": "Mums ir jālepojas ar mūsu Kunga Jēzus Kristus krustu.",
+			"lasijumstitle": "LASĪJUMS 1 Kor 1, 23-24",
+			"lasijumstext": "Mēs sludinām krustā sisto Kristu, kas jūdiem ir ieļaunojums un pagāniem – mulķība, bet aicinātajiem, tiklab jūdiem, kā grieķiem, Kristus ir Dieva spēks un Dieva gudrība.",
+			"atbilde": "responsorijs",
+			"atb1": "Debesīs būs šī zīme,* kad Kungs atnāks otrreiz.",
+			"atb2": "Paceliet savas galvas, jo tuvojas jūsu atpestīšana.*",
+			"atb3": "Kad Kungs atnāks otrreiz.",
+			"magbenant": "Kristum nācās ciest un augšāmcelties no mirušajiem, un tādā veidā ieiet savā godībā.",
+			"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
+			"resplugums": "- Ar sava krusta palīdzību cel mūs pretī Tavai valstībai!",
+			"lugums": {
+				"lugums1": "Kristu, Tu pazemināji pats sevi, pieņemdams kalpa veidu un kļūdams līdzīgs cilvēkiem, dari, lai Baznīcas locekļi atdarinātu Tavu pazemību.",
+				"lugums2": "Kristu, Tu pazemināji pats sevi, kļūdams paklausīgs līdz nāvei, līdz pat nāvei pie krusta, dod saviem kalpiem paklausību un pacietību.",
+				"lugums3": "Kristu, Dievs Tēvs Tevi paaugstināja un deva Tev vārdu, kas ir pāri pār katru vārdu, dod saviem ticīgajiem neatlaidību izturēt labajā līdz galam.",
+				"lugums4": "Kristu, Tavā vārdā kritīs ceļos ikviena radība debesīs, uz zemes un pazemē, piepildi cilvēkus ar mīlestību, lai viņi pielūgtu Tevi mierā.",
+				"lugums5": "Kristu, ikviena mēle Tevi atzīs par Kungu Dieva Tēva godībā, pieņem mūsu mirušos brāļus mūžīgās svētlaimes priekā."
 			},
-			"dienas" : {
-				"title": "Sv. Krusta pagodināšana, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "Glāb mūs, Kristu, Pestītāj, ar krusta spēku; Tu, kas izglābi Pēteri uz jūras, apžēlojies par mums.",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Ebr 5, 7-9",
-						"lasijumstext": "Savas miesas dienās Kristus ar asarām, skaļi saukdams, raidīja karstas lūgšanas un lūgumus Tam, kurš spēja Viņu izglābt no nāves, un savas padevības dēļ Viņš tika uzklausīts. Un lai gan Viņš bija Dēls, Viņš tomēr iemācījās paklausību caur to, ko tika izcietis. Un kad visu bija izpildījis, Viņš kļuva visiem, kas Viņam paklausa, mūžīgās pestīšanas devējs.",
-						"atb1" : "Mēs pielūdzam Tevi, Kristu, un slavējam Tevi.",
-						"atb2" : "Jo ar savu krustu Tu atpirki pasauli.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "Glāb mūs, pasaules Pestītāj; Tu, kas mūs atpirki ar krustu un asinīm, palīdzi mums, mēs lūdzam Tevi, mūsu Dievs. ",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Ef 1, 7-8a",
-						"lasijumstext": "Kristū mēs saņēmām atpestīšanu caur Viņa asinīm un grēku piedošanu saskaņā ar Viņa žēlastības bagātību, ko Viņš mums pārpilnībā dāvāja.",
-						"atb1" : "Lai visa pasaule pielūdz Tevi un dziesmām slavina Tevi.",
-						"atb2" : "Lai tā dzied slavas dziesmu Tavam vārdam, Kungs.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "Ar savu krustu izglāb mūs, Kristu, mūsu Atpestītāj, kas nomirstot iznīcināji mūsu nāvi un augšāmceļoties atgriezi dzīvei tās sākotnējo vērtību.",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 1 Pēt 1, 18-19",
-						"lasijumstext": "No jūsu aplamā dzīves veida, ko mantojāt no tēviem, jūs esat atpirkti nevis ar iznīcīgo sudrabu vai zeltu, bet gan ar dārgajām asinīm, ko izlēja Kristus kā bezvainīgs un neaptraipīts Jērs.",
-						"atb1" : "Šī krusta zīme būs debesīs.",
-						"atb2" : "Kad Kungs nāks, lai tiesātu.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "Sv. Krusta pagodināšana,<br>II Vesperes",
-				"himna": "himnaKrustsVesperes",
-				"ps1": "psalms110",
-				"ps2": "psalms116b",
-				"ps3": "atkl4",
-				"ant1": "Ak, neaptveramais līdzjūtības darbs! Nāve nomira tad, kad pie šī krusta koka nomira dzīvība.",
-				"ant2": "Mēs pielūdzam, Kungs, Tavu krustu un pieminam Tavas godības pilnās ciešanas; apžēlojies par mums Tu, kas esi cietis par mums!",
-				"ant3": "Mēs pielūdzam Tevi, Kristu, un slavējam Tevi, jo ar savu krustu Tu atpirki pasauli.",
-				"lasijumstitle": "LASĪJUMS 1 Kor 1, 23-24",
-				"lasijumstext": "Mēs sludinām krustā sisto Kristu, kas jūdiem ir ieļaunojums un pagāniem – mulķība, bet aicinātajiem, tiklab jūdiem, kā grieķiem, Kristus ir Dieva spēks un Dieva gudrība.",
-				"atbilde": "responsorijs",
-				"atb1": "Tu, brīnišķais krusts,* tevī triumfēja eņģeļu Karalis.",
-				"atb2": "Caur tevi nāca prieks visā pasaulē.*",
-				"atb3": "Tevī triumfēja eņģeļu Karalis.",
-				"magbenant": "Ak, krusta uzvara un apbrīnojamā zīme, ļauj mums Debesu godībā būt līdzdalīgiem tavā triumfā.",
-				"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
-				"resplugums": "- Ar sava krusta palīdzību cel mūs pretī Tavai valstībai!",
-				"lugums": {
-					"lugums1": "Kristu, Tu pazemināji pats sevi, pieņemdams kalpa veidu un kļūdams līdzīgs cilvēkiem, dari, lai Baznīcas locekļi atdarinātu Tavu pazemību.",
-					"lugums2": "Kristu, Tu pazemināji pats sevi, kļūdams paklausīgs līdz nāvei, līdz pat nāvei pie krusta, dod saviem kalpiem paklausību un pacietību.",
-					"lugums3": "Kristu, Dievs Tēvs Tevi paaugstināja un deva Tev vārdu, kas ir pāri pār katru vārdu, dod saviem ticīgajiem neatlaidību izturēt labajā līdz galam.",
-					"lugums4": "Kristu, Tavā vārdā kritīs ceļos ikviena radība debesīs, uz zemes un pazemē, piepildi cilvēkus ar mīlestību, lai viņi pielūgtu Tevi mierā.",
-					"lugums5": "Kristu, ikviena mēle Tevi atzīs par Kungu Dieva Tēva godībā, pieņem mūsu mirušos brāļus mūžīgās svētlaimes priekā."
-				},
-				"lugsimies": " " + noslegums1
-			}
+			"lugsimies": " " + noslegums1
 		},
-		15 : { // Marija Sāpju Dievmāte
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim pasaules Glābēju, ar kuru līdzcieta Viņa Māte!",
-				"himna": "himnaMarijasSapesLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Mana dvēsele Tev piekļaujas, Kungs Jēzu.",
-				"ant2": "Priecājieties, piedaloties Kristus ciešanās.",
-				"ant3": "Dievam ir labpaticis caur Kristus asinīm visu samierināt ar sevi.",
-				"lasijumstitle": "LASĪJUMS Kol 1,24-25",
-				"lasijumstext": "Tagad es priecājos ciešanās par jums un savā miesā papildinu to, kas pietrūkst no Kristus ciešanām, par labu Viņa Miesai, kas ir Baznīca. Es esmu kļuvis tās kalps pēc Dieva rīkojuma, kas man ir dots attiecībā uz jums, lai es pilnībā sludinātu Dieva vārdu.",
-				"atbilde": "responsorijs",
-				"atb1": "Pateicoties Tev, Jaunava Marija,*  mēs saņemam pestīšanu.",
-				"atb2": "No Kristus brūcēm.*",
-				"atb3": "Mēs saņemam pestīšanu.",
-				"magbenant": "Priecājies, Sāpju Māte, pēc lielām ciešanām Tu kopā ar savu Dēlu valdi Debesu godībā, vispasaules Karaliene.",
-				"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
-				"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalītu Tavās ciešanās.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": ""
+		"laudes": {
+			"title": "Sv. Krusta pagodināšana, Laudes",
+			"ievdant": "Nāciet, pielūgsim Kristu, Karali, kurš mūsu dēļ ir paaugstināts pie krusta!",
+			"himna": "himnaKrustsLaudes",
+			"ps1": "psalms63",
+			"ps2": "dan3c",
+			"ps3": "psalms149",
+			"ant1": "Tas, kurš salauza nāves varu, ņēma svēto krustu uz sevis; apjozts ar varenību, Viņš augšāmcēlās trešajā dienā.",
+			"ant2": "Mirdz svētītais krusts, pie kura miesā karājās Kungs un mūsu brūces mazgāja ar savām Asinīm.",
+			"ant3": "Brīnišķā spožumā staro gādīgais krusts, caur kuru pasaulei ir atgriezta pestīšana: krusts uzvar, krusts valda, krusts patriec visus grēkus. Alleluja.",
+			"lasijumstitle": "LASĪJUMS Ebr 2, 9b.10",
+			"lasijumstext": "Mēs redzam Jēzu, vainagotu ar slavu un godu nāves ciešanu dēļ, jo Dieva žēlastības dēļ Viņš par visiem izbaudīja nāvi. Jo pienācās, ka Tas, kura dēļ un caur kuru viss un kurš daudzus dēlus ieveda godā, viņu pestīšanas devēju padarītu pilnīgu caur ciešanām.",
+			"atbilde": "responsorijs",
+			"atb1": "Mēs pielūdzam Tevi, Kristu,* un slavējam Tevi.",
+			"atb2": "Jo ar savu krustu Tu atpirki pasauli.*",
+			"atb3": "Un slavējam Tevi.",
+			"magbenant": "Mēs godinām, Kungs, Tavu krustu, un slavējam un pielūdzam Tavu svēto augšāmcelšanos: jo, lūk, ar krusta koka palīdzību visā pasaulē ienāca prieks.",
+			"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
+			"resplugums": "- Glāb mūs ar sava krusta palīdzību!",
+			"lugums": {
+				"lugums1": "Dieva Dēls, Tu ar vara čūskas zīmi dziedināji Izraēļa tautu, aizsargā mūs šodien pret grēka dzeloņiem.",
+				"lugums2": "Cilvēka Dēls, Tu tiki paaugstināts krusta kokā, līdzīgi kā Mozus paaugstināja čūsku tuksnesī, cel mūs pretī Tavas valstības priekam.",
+				"lugums3": "Tēva Viendzimušais Dēls, Tu esi dots pasaulei, lai neviens, kas Tev tic, neietu pazušanā, dāvā mūžīgo dzīvi tiem, kas meklē Tavu vaigu.",
+				"lugums4": "Tēva mīļotais Dēls, Tu neesi sūtīts pasaulē, lai to tiesātu, bet gan lai pasaule caur Tevi tiktu pestīta, dāvā ticību mūsu tuviniekiem, lai viņi neaizietu postā.",
+				"lugums5": "Mūžīgā Tēva Dēls, Tu atnāci sūtīt uguni uz zemi un vēlējies, lai tā aizdegtos, dod, lai mēs darītu patiesības darbu un dotos pretī gaismai."
 			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMarijasSapesVesperes",
-				"ps1": "psalms122",
-				"ps2": "psalms127",
-				"ps3": "ef1",
-				"ant1": "Kristus ir mūsu miers: ar savu krustu Viņš samierināja mūs ar Dievu.",
-				"ant2": "Tuvosimies pie dzīvā Dieva pilsētas un pie Jēzus – Jaunās Derības Vidutāja.",
-				"ant3": "Kristū mums ir pestīšana Viņa asinīs.",
-				"lasijumstitle": "LASĪJUMS 2 Tim 2,10-12a",
-				"lasijumstext": "Es visu paciešu izredzēto dēļ, lai arī viņi sasniegtu pestīšanu, kas ir Kristū Jēzū, un mūžīgo godību. Tie ir patiesi vārdi: ja mēs līdz ar Viņu esam miruši, mēs līdz ar Viņu arī dzīvosim; ja mēs izturam, mēs līdz ar Viņu valdīsim.",
-				"atbilde": "responsorijs",
-				"atb1": "Svētā Marija, Debesu Karaliene un pasaules Valdniece, stāvēja* pie Kunga krusta.",
-				"atb2": "Laimīga ir Tā, kura bez nāves ieguva mocekles palmu.*",
-				"atb3": "Pie Kunga krusta.",
-				"magbenant": "Jēzus, ieraudzījis Māti un līdzās stāvošo mācekli, kuru Viņš mīlēja, sacīja Mātei: “Sieviet, lūk, Tavs dēls!” Pēc tam Viņš sacīja māceklim: “Lūk, tava Māte!”",
-				"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
-				"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
-				"lugums": {
-					"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
-					"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
-					"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
-					"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
-					"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
-				},
-				"lugsimies": ""
-			}
+			"lugsimies": " " + noslegums1
 		},
-/* 		16 : { // Sv. Kornēlijs un Cipriāns
-			"B" : "Benedictus ant. Cik dārga ir mocekļu nāve, kuri, par savu asins izliešanu, ieguva nemirstību.",
-			"M" : "Magnificat ant. Ak, mūsu Svētā Baznīca, kurā mirdz godības pilno Kristus mocekļu asinis.",
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, mocekļu Karali.",
-				"himna": "himnaMartyrLaudes",
-				"ps1": "", //"psalms63",
-				"ps2": "", //"dan3c",
-				"ps3": "", //"psalms149",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 2 Kor 1, 3-5",
-				"lasijumstext": "Lai slavēts ir Dievs un mūsu Kunga Jēzus Kristus Tēvs, žēlsirdības Tēvs un visa iepriecinājuma Dievs, kas mierina mūs visās mūsu bēdās, lai arī mēs paši varētu iepriecināt tos, kas cieš visādus spaidus, ar mierinājumu, ar ko mūs pašus mierina Dievs. Jo kā Kristus ciešanas pārpilnīgi mūs piemeklē, tāpat pārpilnībā nāk pār mums iepriecinājumi caur Kristu.",
-				"atbilde": "responsorijs",
-				"atb1": "Taisnīgie turpretim* dzīvos mūžīgi.",
-				"atb2": "Un viņu atalgojums ir pie Kunga.*",
-				"atb3": "Viņi dzīvos mūžīgi.",
-				"magbenant": "Cik dārga ir mocekļu nāve, kuri, par savu asins izliešanu, ieguva nemirstību.",
-				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
-				"lugums": {
-					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
-					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
-					"lugums3": "Ar Tavu mocekļu starpniecību, kas, uzņemoties krustu, sekoja Tev, dod, Kungs, mums žēlastību, drosmīgi uzņemties ikdienas rūpes.",
-					"lugums4": "Ar Tavu mocekļu starpniecību, kas savas drānas mazgāja Jēra asinīs, dod, Kungs, mums žēlastību, uzveikt visas miesas un pasaules viltības."
+		"dienas" : {
+			"title": "Sv. Krusta pagodināšana, Dienas vidus",
+			"himna" : "",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "", // trešā
+			"ant2": "", // sestā
+			"ant3": "", // devītā
+			"stunda" : {
+				3 : {
+					"himna" : "",
+					"ant" : "Glāb mūs, Kristu, Pestītāj, ar krusta spēku; Tu, kas izglābi Pēteri uz jūras, apžēlojies par mums.",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Ebr 5, 7-9",
+					"lasijumstext": "Savas miesas dienās Kristus ar asarām, skaļi saukdams, raidīja karstas lūgšanas un lūgumus Tam, kurš spēja Viņu izglābt no nāves, un savas padevības dēļ Viņš tika uzklausīts. Un lai gan Viņš bija Dēls, Viņš tomēr iemācījās paklausību caur to, ko tika izcietis. Un kad visu bija izpildījis, Viņš kļuva visiem, kas Viņam paklausa, mūžīgās pestīšanas devējs.",
+					"atb1" : "Mēs pielūdzam Tevi, Kristu, un slavējam Tevi.",
+					"atb2" : "Jo ar savu krustu Tu atpirki pasauli.",
+					"lugsimies": ""
 				},
-				"lugsimies": ""
+				6 : {
+					"himna" : "",
+					"ant" : "Glāb mūs, pasaules Pestītāj; Tu, kas mūs atpirki ar krustu un asinīm, palīdzi mums, mēs lūdzam Tevi, mūsu Dievs. ",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Ef 1, 7-8a",
+					"lasijumstext": "Kristū mēs saņēmām atpestīšanu caur Viņa asinīm un grēku piedošanu saskaņā ar Viņa žēlastības bagātību, ko Viņš mums pārpilnībā dāvāja.",
+					"atb1" : "Lai visa pasaule pielūdz Tevi un dziesmām slavina Tevi.",
+					"atb2" : "Lai tā dzied slavas dziesmu Tavam vārdam, Kungs.",
+					"lugsimies": ""
+				},
+				9 : {
+					"himna" : "",
+					"ant" : "Ar savu krustu izglāb mūs, Kristu, mūsu Atpestītāj, kas nomirstot iznīcināji mūsu nāvi un augšāmceļoties atgriezi dzīvei tās sākotnējo vērtību.",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS 1 Pēt 1, 18-19",
+					"lasijumstext": "No jūsu aplamā dzīves veida, ko mantojāt no tēviem, jūs esat atpirkti nevis ar iznīcīgo sudrabu vai zeltu, bet gan ar dārgajām asinīm, ko izlēja Kristus kā bezvainīgs un neaptraipīts Jērs.",
+					"atb1" : "Šī krusta zīme būs debesīs.",
+					"atb2" : "Kad Kungs nāks, lai tiesātu.",
+					"lugsimies": ""
+				}
 			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": ""
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMartyrVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 4, 13-14",
-				"lasijumstext": "Mīļie, priecājieties, piedaloties Kristus ciešanās, lai jūs varētu gavilēdami priecāties arī tad, kad atklāsies Viņa godība. Svētīgi jūs esat, ja jūs nonievā Kristus vārda dēļ, jo virs jums mīt godības un Dieva Gars.",
-				"atbilde": "responsorijs",
-				"atb1": "Priecājieties, taisnīgie, Kungā* un līksmojiet.",
-				"atb2": "Un gavilējiet visi, kam skaidra sirds.*",
-				"atb3": "Un līksmojiet, taisnīgie.",
-				"magbenant": "Ak, mūsu Svētā Baznīca, kurā mirdz godības pilno Kristus mocekļu asinis.",
-				"lugumi": "Šai stundā, kad mocekļu Ķēniņš savu dzīvību upurēja vakariņās un atdeva uz krusta, pateiksimies Viņam, sakot:",
-				"resplugums": "- Tevi, Kungs, mēs slavējam!",
-				"lugums": {
-					"lugums1": "Tevi, Kungs, mēs slavējam, jo Tu, mūsu Pestītāj, ikviena mocekļa avots un paraugs, mūs mīlēji līdz galam.",
-					"lugums2": "Jo Tu visus grēciniekus, kas nožēlo savas vainas, aicināji uz dzīves izcilību.",
-					"lugums3": "Jo šodien mēs upurējam Jaunās un Mūžīgās Derības Asinis, kas izlietas grēku piedošanai.",
-					"lugums4": "Jo ar Tavas žēlastības palīdzību, mēs šai dienā turpinām pastāvēt ticībā.",
-					"lugums5": "Jo šodien Tu daudzus brāļus darīji par savas nāves sabiedrotajiem."
-				},
-				"lugsimies": ""
-			}
-		}, */
-		21 : { // Sv. apustulis un evaņģēlists MATEJS
-			"laudes" : {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "<span class='Lieldienas'>Alleluja. </span>Nāciet, pielūgsim Kungu, apustuļu Karali<span class='Lieldienas'>, alleluja</span>!",
-				"himna": "himnaMatejsLaudes",
-				"ps1": "psalms63",
-				"ps2": "dan3c",
-				"ps3": "psalms149",
-				"ant1": "Tas ir mans bauslis, lai jūs cits citu mīlētu, kā Es jūs esmu iemīlējis<span class='Lieldienas'>, alleluja</span>.",
-				"ant2": "Nevienam nav lielākas mīlestības kā tam, kas atdod savu dzīvību par saviem draugiem<span class='Lieldienas'>, alleluja</span>.",
-				"ant3": "“Jūs esat mani draugi, ja darāt to, ko es jums pavēlu,” saka Kungs<span class='Lieldienas'>, alleluja</span>.",
-				"lasijumstitle": "LASĪJUMS Ef 2, 19-22",
-				"lasijumstext": "Jūs vairs neesat svešinieki un atnācēji, bet gan esat svēto līdzpilsoņi un Dieva saimes locekļi, kas būvēti uz apustuļu un praviešu pamata, kur galvenais stūrakmens ir pats Jēzus Kristus. Viņā visa celtne ir nostiprināta un aug par svētu svētnīcu Kungā. Viņā arī jūs tiekat reizē būvēti par Dieva mājokli Garā.",
-				"atbilde": "responsorijs",
-				"atb1": "Tu iecelsi viņus par valdniekiem<span class ='neLieldienas'>* visās zemes malās</span><span class='Lieldienas'>* Alleluja, alleluja.</span>.",
-				"atb2": "Kungs, viņi uzturēs ļaužu piemiņā Tavu vārdu.*",
-				"atb3": "<span class ='neLieldienas'>Visās zemes malās.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Jēzus ieraudzīja pie muitnīcas sēžam cilvēku, vārdā Matejs, un sacīja viņam: “Seko man.” Un tas piecēlies Viņam sekoja.",
-				"lugumi": "Dārgie brāļi, no apustuļiem saņēmuši debesu mantojumu, pateiksimies mūsu Tēvam par visām dāvanām, saucot:",
-				"resplugums": "- Kungs, Tevi slavē apustuļu koris!",
-				"lugums": {
-					"lugums1": "Slava Tev, Kungs, par Miesas un Asins maltīti, kuru mums kā mantojumu ir atstājuši apustuļi, jo no tās mēs smeļamies spēku un dzīvību.",
-					"lugums2": "Par Tava Vārda maltīti, kuru mums pagatavoja apustuļi, kas mums dod gaismu un prieku.",
-					"lugums3": "Par Tavu svēto Baznīcu, kas celta uz apustuļu pamatiem, kurā mēs kļūstam par vienas Miesas locekļiem.",
-					"lugums4": "Par Kristības un Gandarīšanas sakramentiem, kurus Tu uzticēji apustuļiem, jo ar tiem Tu mūs atbrīvo no visiem grēkiem."
-				},
-				"lugsimies": ". " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS 2 Kor 5, 19b-20",
-						"lasijumstext": "Dievs mums ir uzticējis izlīguma vārdus. Tātad mēs izpildām sūtību Kristus vietā, it kā Dievs runātu caur mums. Mēs lūdzam Kristus vietā: „Izlīgstiet ar Dievu!”",
-						"atb1" : "Pa visu zemi ir izgājusi to vēsts<span class='Lieldienas'>, alleluja</span>.",
-						"atb2" : "Un to vārdi – līdz pasaules robežām<span class='Lieldienas'>, alleluja</span>.",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Apd 5, 12a.14",
-						"lasijumstext": "Caur apustuļu rokām notika tautā daudz zīmju un brīnumu. Arvien vairāk pieauga vīriešu un sieviešu skaits, kas pieņēma ticību Kungam.",
-						"atb1" : "Viņi sargāja Dieva Derības liecības<span class='Lieldienas'>, alleluja</span>.",
-						"atb2" : "Un Viņa baušļus<span class='Lieldienas'>, alleluja</span>.",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant":"",
-						"ps1": "", // aizstāj 126
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "LASĪJUMS Apd 5, 41-42",
-						"lasijumstext": "Apustuļi no Augstās Padomes aizgāja priecādamies, jo bija atzīti par cienīgiem Jēzus vārda dēļ ciest negodu. Un viņi nemitējās mācīt ik dienas svētnīcā un mājās un sludināt Evaņģēliju par Kristu – Jēzu.",
-						"atb1" : "Tā saka Kungs: līksmojiet un priecājieties<span class='Lieldienas'>, alleluja</span>.",
-						"atb2" : "Jo jūsu vārdi ir ierakstīti Debesīs<span class='Lieldienas'>, alleluja</span>.",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes" : {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMatejsVesperes",
-				"ps1": "psalms116b",
-				"ps2": "psalms126",
-				"ps3": "ef1",
-				"ant1": "Jūs esat tie, kas izturējāt ar mani manos pārbaudījumos<span class='Lieldienas'>, alleluja</span>.",
-				"ant2": "Es jūsu vidū esmu kā tāds, kas kalpo<span class='Lieldienas'>, alleluja</span>.",
-				"ant3": "Es vairs nesaucu jūs par kalpiem, bet par draugiem, jo visu, ko dzirdēju no sava Tēva, Es jums darīju zināmu<span class='Lieldienas'>, alleluja</span>.",
-				"lasijumstitle": "LASĪJUMS Ef 4, 11-13",
-				"lasijumstext": "Kristus iecēla citus par apustuļiem, bet citus par praviešiem, citus par evaņģēlistiem, bet citus par ganiem un mācītājiem, lai svētos sagatavotu kalpošanas darbam, Kristus Miesas būvēšanai, līdz mēs visi nonāksim pie vienības ticībā un Dieva Dēla pazīšanā, līdz pilnīgam cilvēkam, līdz lieluma mēram, saskaņā ar Kristus pilnību.",
-				"atbilde": "responsorijs",
-				"atb1": "Sludiniet pagānu tautām<span class ='neLieldienas'>* Kunga godību</span><span class='Lieldienas'> Kunga godību.* Alleluja, alleluja</span>.",
-				"atb2": "Visām tautām – Viņa brīnišķos darbus.*",
-				"atb3": "<span class ='neLieldienas'>Kunga godību.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "“Es vēlos žēlsirdību, nevis upuri,” saka Kungs; “Es neesmu nācis aicināt taisnīgos, bet grēciniekus.”",
-				"lugumi": "Brāļi, mēs piederam Baznīcai, kas ir celta uz apustuļu pamata. Lūgsim Visvareno Tēvu par Viņa svēto tautu, sacīdami:",
-				"resplugums": "- Kungs, atceries savu Baznīcu!",
-				"lugums": {
-					"lugums1": "Tēvs, Tu gribēji, lai Tavs Dēls pēc augšāmcelšanās no mirušajiem vispirms parādītos apustuļiem, ļauj arī mums būt Viņa augšāmcelšanās lieciniekiem visā pasaulē.",
-					"lugums2": "Tu sūtīji savu Dēlu pasaulē iepriecināt nabagos, dari, lai Evaņģēlijs tiktu sludināts visai radībai.",
-					"lugums3": "Tu sūtīji savu Dēlu sēt Vārda sēklu, dari, lai mēs, sējot Vārdu ar grūtībām, pļautu ražu ar gavilēm.",
-					"lugums4": "Tu savu Dēlu esi sūtījis, lai ar Viņa asinīm samierinātu pasauli ar sevi, liec, lai mēs visi līdzdarbotos šajā samierināšanās darbā.",
-					"lugums5": "Tu nosēdināji savu Dēlu Debesīs pie savas labās rokas, uzņem mirušos svētlaimības valstībā."
-				},
-				"lugsimies": " " + noslegums1
-			}
+			"lugsimies": " Caur Kristu, mūsu Kungu."
 		},
-/* 		27 : { // Sv. Vincents no Paulas, Priesteri
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Visaugsto Ganu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Ebr 13, 7-9a",
-				"lasijumstext": "Pieminiet savus priekšniekus, kas jums ir sludinājuši Dieva vārdu, un, izvērtējot viņu dzīves noslēgumu, sekojiet viņu ticībai. Jēzus Kristus vakar un šodien, un tas pats arī uz mūžiem. Neļaujiet sevi maldināt dažādām svešām mācībām.",
-				"atbilde": "responsorijs",				
-				"atb1": "Pār tevi, Jeruzaleme,<span class ='neLieldienas'>*</span> Es iecēlu sargus<span class='Lieldienas'>.* Alleluja, alleluja</span>.",
-				"atb2": "Dienu un nakti viņi nemitēsies sludināt Kunga vārdu.*",
-				"atb3": "<span class ='neLieldienas'>Es iecēlu sargus.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Vincents bija bēdīgo mierinātājs, liels bāreņu aizstāvis un atraitņu atbalstītājs.",
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
+		"vesperes": {
+			"title": "Sv. Krusta pagodināšana,<br>II Vesperes",
+			"himna": "himnaKlusasVesperes",
+			"ps1": "psalms110",
+			"ps2": "psalms116b",
+			"ps3": "atkl4",
+			"ant1": "Ak, neaptveramais līdzjūtības darbs! Nāve nomira tad, kad pie šī krusta koka nomira dzīvība.",
+			"ant2": "Mēs pielūdzam, Kungs, Tavu krustu un pieminam Tavas godības pilnās ciešanas; apžēlojies par mums Tu, kas esi cietis par mums!",
+			"ant3": "Mēs pielūdzam Tevi, Kristu, un slavējam Tevi, jo ar savu krustu Tu atpirki pasauli.",
+			"lasijumstitle": "LASĪJUMS 1 Kor 1, 23-24",
+			"lasijumstext": "Mēs sludinām krustā sisto Kristu, kas jūdiem ir ieļaunojums un pagāniem – mulķība, bet aicinātajiem, tiklab jūdiem, kā grieķiem, Kristus ir Dieva spēks un Dieva gudrība.",
+			"atbilde": "responsorijs",
+			"atb1": "Tu, brīnišķais krusts,* tevī triumfēja eņģeļu Karalis.",
+			"atb2": "Caur tevi nāca prieks visā pasaulē.*",
+			"atb3": "Tevī triumfēja eņģeļu Karalis.",
+			"magbenant": "Ak, krusta uzvara un apbrīnojamā zīme, ļauj mums Debesu godībā būt līdzdalīgiem tavā triumfā.",
+			"lugumi": "Ar paļāvību lūgsim mūsu Atpestītāju, kas mūs atpirka ar savu krustu:",
+			"resplugums": "- Ar sava krusta palīdzību cel mūs pretī Tavai valstībai!",
+			"lugums": {
+				"lugums1": "Kristu, Tu pazemināji pats sevi, pieņemdams kalpa veidu un kļūdams līdzīgs cilvēkiem, dari, lai Baznīcas locekļi atdarinātu Tavu pazemību.",
+				"lugums2": "Kristu, Tu pazemināji pats sevi, kļūdams paklausīgs līdz nāvei, līdz pat nāvei pie krusta, dod saviem kalpiem paklausību un pacietību.",
+				"lugums3": "Kristu, Dievs Tēvs Tevi paaugstināja un deva Tev vārdu, kas ir pāri pār katru vārdu, dod saviem ticīgajiem neatlaidību izturēt labajā līdz galam.",
+				"lugums4": "Kristu, Tavā vārdā kritīs ceļos ikviena radība debesīs, uz zemes un pazemē, piepildi cilvēkus ar mīlestību, lai viņi pielūgtu Tevi mierā.",
+				"lugums5": "Kristu, ikviena mēle Tevi atzīs par Kungu Dieva Tēva godībā, pieņem mūsu mirušos brāļus mūžīgās svētlaimes priekā."
 			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
+			"lugsimies": " " + noslegums1
+		}
+	},
+	15 : { // Marija Sāpju Dievmāte
+		"laudes": {
+			"title": "<span id='N'>Sv. N.</span>, Laudes",
+			"ievdant": "Nāciet, pielūgsim pasaules Glābēju, ar kuru līdzcieta Viņa Māte!",
+			"himna": "himnaMarijasSapesLaudes",
+			"ps1": "psalms63",
+			"ps2": "dan3c",
+			"ps3": "psalms149",
+			"ant1": "Mana dvēsele Tev piekļaujas, Kungs Jēzu.",
+			"ant2": "Priecājieties, piedaloties Kristus ciešanās.",
+			"ant3": "Dievam ir labpaticis caur Kristus asinīm visu samierināt ar sevi.",
+			"lasijumstitle": "LASĪJUMS Kol 1,24-25",
+			"lasijumstext": "Tagad es priecājos ciešanās par jums un savā miesā papildinu to, kas pietrūkst no Kristus ciešanām, par labu Viņa Miesai, kas ir Baznīca. Es esmu kļuvis tās kalps pēc Dieva rīkojuma, kas man ir dots attiecībā uz jums, lai es pilnībā sludinātu Dieva vārdu.",
+			"atbilde": "responsorijs",
+			"atb1": "Pateicoties Tev, Jaunava Marija,*  mēs saņemam pestīšanu.",
+			"atb2": "No Kristus brūcēm.*",
+			"atb3": "Mēs saņemam pestīšanu.",
+			"magbenant": "Priecājies, Sāpju Māte, pēc lielām ciešanām Tu kopā ar savu Dēlu valdi Debesu godībā, vispasaules Karaliene.",
+			"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
+			"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
+			"lugums": {
+				"lugums1": "Taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
+				"lugums2": "Mūžīgais Vārds, Tu izvēlējies mājot Marijas nevainīgajā klēpī, atbrīvo mūs no grēka samaitātības.",
+				"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
+				"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot viņas bērnu cienīgu dzīvi."
 			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 5, 1-4",
-				"lasijumstext": "Vecākos, kas ir jūsu vidū, es lūdzu, tāpat būdams vecākais un Kristus ciešanu liecinieks, kā arī tās godības līdzdalībnieks, kas nākotnē atklāsies: ganiet Dieva ganāmpulku, kas ir pie jums, rūpēdamies par to nevis piespiesti, bet brīvprātīgi, kā Dievs to grib; nevis negodīgas peļņas dēļ, bet gan ar pašatdevi; nevis kā kungi pār draudzēm, bet gan kļūdami par priekšzīmi ganāmpulkam. Un kad parādīsies Visaugstais Gans, jūs saņemsiet nevīstošo godības kroni.",
-				"atbilde": "responsorijs",
-				"atb1": "Lūk, gans, kas mīl brāļus<span class ='neLieldienas'>* un daudz lūdzas par tautu</span><span class='Lieldienas'>un daudz lūdzas par tautu.* Alleluja, alleluja.</span>.",
-				"atb2": "Savu dzīvību viņš ir atdevis par saviem brāļiem.*",
-				"atb3": "<span class ='neLieldienas'>Un daudz lūdzas par tautu.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "“Ko jūs esat darījuši vienam no maniem vismazākajiem brāļiem, to jūs esat man darījuši,” saka Kungs.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
+			"lugsimies": ""
+		},
+		"dienas" : {
+			"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
+			"himna" : "",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "", // trešā
+			"ant2": "", // sestā
+			"ant3": "", // devītā
+			"stunda" : {
+				3 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
 				},
-				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
-			}
-		}, */
-		29 : { // Erceņģeļi Miķelis, Gabriēls, Rafaēls
+				6 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
+				},
+				9 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "",
+					"lasijumstext": "",
+					"atb1" : "",
+					"atb2" : "",
+					"lugsimies": ""
+				}
+			},
+			"lugsimies": " Caur Kristu, mūsu Kungu."
+		},
+		"vesperes": {
+			"title": "<span id='N'>Sv. N.</span>, Vesperes",
+			"himna": "himnaMarijasSapesVesperes",
+			"ps1": "psalms122",
+			"ps2": "psalms127",
+			"ps3": "ef1",
+			"ant1": "Kristus ir mūsu miers: ar savu krustu Viņš samierināja mūs ar Dievu.",
+			"ant2": "Tuvosimies pie dzīvā Dieva pilsētas un pie Jēzus – Jaunās Derības Vidutāja.",
+			"ant3": "Kristū mums ir pestīšana Viņa asinīs.",
+			"lasijumstitle": "LASĪJUMS 2 Tim 2,10-12a",
+			"lasijumstext": "Es visu paciešu izredzēto dēļ, lai arī viņi sasniegtu pestīšanu, kas ir Kristū Jēzū, un mūžīgo godību. Tie ir patiesi vārdi: ja mēs līdz ar Viņu esam miruši, mēs līdz ar Viņu arī dzīvosim; ja mēs izturam, mēs līdz ar Viņu valdīsim.",
+			"atbilde": "responsorijs",
+			"atb1": "Svētā Marija, Debesu Karaliene un pasaules Valdniece, stāvēja* pie Kunga krusta.",
+			"atb2": "Laimīga ir Tā, kura bez nāves ieguva mocekles palmu.*",
+			"atb3": "Pie Kunga krusta.",
+			"magbenant": "Jēzus, ieraudzījis Māti un līdzās stāvošo mācekli, kuru Viņš mīlēja, sacīja Mātei: “Sieviet, lūk, Tavs dēls!” Pēc tam Viņš sacīja māceklim: “Lūk, tava Māte!”",
+			"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
+			"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
+			"lugums": {
+				"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
+				"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
+				"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
+				"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
+				"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
+			},
+			"lugsimies": ""
+		}
+	},
+	21 : { // Sv. apustulis un evaņģēlists MATEJS
+		"laudes" : {
+			"title": "<span id='N'>Sv. N.</span>, Laudes",
+			"ievdant": "<span class='Lieldienas'>Alleluja. </span>Nāciet, pielūgsim Kungu, apustuļu Karali<span class='Lieldienas'>, alleluja</span>!",
+			"himna": "himnaMatejsLaudes",
+			"ps1": "psalms63",
+			"ps2": "dan3c",
+			"ps3": "psalms149",
+			"ant1": "Tas ir mans bauslis, lai jūs cits citu mīlētu, kā Es jūs esmu iemīlējis<span class='Lieldienas'>, alleluja</span>.",
+			"ant2": "Nevienam nav lielākas mīlestības kā tam, kas atdod savu dzīvību par saviem draugiem<span class='Lieldienas'>, alleluja</span>.",
+			"ant3": "“Jūs esat mani draugi, ja darāt to, ko es jums pavēlu,” saka Kungs<span class='Lieldienas'>, alleluja</span>.",
+			"lasijumstitle": "LASĪJUMS Ef 2, 19-22",
+			"lasijumstext": "Jūs vairs neesat svešinieki un atnācēji, bet gan esat svēto līdzpilsoņi un Dieva saimes locekļi, kas būvēti uz apustuļu un praviešu pamata, kur galvenais stūrakmens ir pats Jēzus Kristus. Viņā visa celtne ir nostiprināta un aug par svētu svētnīcu Kungā. Viņā arī jūs tiekat reizē būvēti par Dieva mājokli Garā.",
+			"atbilde": "responsorijs",
+			"atb1": "Tu iecelsi viņus par valdniekiem<span class ='neLieldienas'>* visās zemes malās</span><span class='Lieldienas'>* Alleluja, alleluja.</span>.",
+			"atb2": "Kungs, viņi uzturēs ļaužu piemiņā Tavu vārdu.*",
+			"atb3": "<span class ='neLieldienas'>Visās zemes malās.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
+			"magbenant": "Jēzus ieraudzīja pie muitnīcas sēžam cilvēku, vārdā Matejs, un sacīja viņam: “Seko man.” Un tas piecēlies Viņam sekoja.",
+			"lugumi": "Dārgie brāļi, no apustuļiem saņēmuši debesu mantojumu, pateiksimies mūsu Tēvam par visām dāvanām, saucot:",
+			"resplugums": "- Kungs, Tevi slavē apustuļu koris!",
+			"lugums": {
+				"lugums1": "Slava Tev, Kungs, par Miesas un Asins maltīti, kuru mums kā mantojumu ir atstājuši apustuļi, jo no tās mēs smeļamies spēku un dzīvību.",
+				"lugums2": "Par Tava Vārda maltīti, kuru mums pagatavoja apustuļi, kas mums dod gaismu un prieku.",
+				"lugums3": "Par Tavu svēto Baznīcu, kas celta uz apustuļu pamatiem, kurā mēs kļūstam par vienas Miesas locekļiem.",
+				"lugums4": "Par Kristības un Gandarīšanas sakramentiem, kurus Tu uzticēji apustuļiem, jo ar tiem Tu mūs atbrīvo no visiem grēkiem."
+			},
+			"lugsimies": ". " + noslegums1
+		},
+		"dienas" : {
+			"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
+			"himna" : "",
+			"ps1": "",
+			"ps2": "",
+			"ps3": "",
+			"ant1": "", // trešā
+			"ant2": "", // sestā
+			"ant3": "", // devītā
+			"stunda" : {
+				3 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS 2 Kor 5, 19b-20",
+					"lasijumstext": "Dievs mums ir uzticējis izlīguma vārdus. Tātad mēs izpildām sūtību Kristus vietā, it kā Dievs runātu caur mums. Mēs lūdzam Kristus vietā: „Izlīgstiet ar Dievu!”",
+					"atb1" : "Pa visu zemi ir izgājusi to vēsts<span class='Lieldienas'>, alleluja</span>.",
+					"atb2" : "Un to vārdi – līdz pasaules robežām<span class='Lieldienas'>, alleluja</span>.",
+					"lugsimies": ""
+				},
+				6 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "",
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Apd 5, 12a.14",
+					"lasijumstext": "Caur apustuļu rokām notika tautā daudz zīmju un brīnumu. Arvien vairāk pieauga vīriešu un sieviešu skaits, kas pieņēma ticību Kungam.",
+					"atb1" : "Viņi sargāja Dieva Derības liecības<span class='Lieldienas'>, alleluja</span>.",
+					"atb2" : "Un Viņa baušļus<span class='Lieldienas'>, alleluja</span>.",
+					"lugsimies": ""
+				},
+				9 : {
+					"himna" : "",
+					"ant":"",
+					"ps1": "", // aizstāj 126
+					"ps2": "",
+					"ps3": "",
+					"lasijumstitle": "LASĪJUMS Apd 5, 41-42",
+					"lasijumstext": "Apustuļi no Augstās Padomes aizgāja priecādamies, jo bija atzīti par cienīgiem Jēzus vārda dēļ ciest negodu. Un viņi nemitējās mācīt ik dienas svētnīcā un mājās un sludināt Evaņģēliju par Kristu – Jēzu.",
+					"atb1" : "Tā saka Kungs: līksmojiet un priecājieties<span class='Lieldienas'>, alleluja</span>.",
+					"atb2" : "Jo jūsu vārdi ir ierakstīti Debesīs<span class='Lieldienas'>, alleluja</span>.",
+					"lugsimies": ""
+				}
+			},
+			"lugsimies": " Caur Kristu, mūsu Kungu."
+		},
+		"vesperes" : {
+			"title": "<span id='N'>Sv. N.</span>, Vesperes",
+			"himna": "himnaMatejsVesperes",
+			"ps1": "psalms116b",
+			"ps2": "psalms126",
+			"ps3": "ef1",
+			"ant1": "Jūs esat tie, kas izturējāt ar mani manos pārbaudījumos<span class='Lieldienas'>, alleluja</span>.",
+			"ant2": "Es jūsu vidū esmu kā tāds, kas kalpo<span class='Lieldienas'>, alleluja</span>.",
+			"ant3": "Es vairs nesaucu jūs par kalpiem, bet par draugiem, jo visu, ko dzirdēju no sava Tēva, Es jums darīju zināmu<span class='Lieldienas'>, alleluja</span>.",
+			"lasijumstitle": "LASĪJUMS Ef 4, 11-13",
+			"lasijumstext": "Kristus iecēla citus par apustuļiem, bet citus par praviešiem, citus par evaņģēlistiem, bet citus par ganiem un mācītājiem, lai svētos sagatavotu kalpošanas darbam, Kristus Miesas būvēšanai, līdz mēs visi nonāksim pie vienības ticībā un Dieva Dēla pazīšanā, līdz pilnīgam cilvēkam, līdz lieluma mēram, saskaņā ar Kristus pilnību.",
+			"atbilde": "responsorijs",
+			"atb1": "Sludiniet pagānu tautām<span class ='neLieldienas'>* Kunga godību</span><span class='Lieldienas'> Kunga godību.* Alleluja, alleluja</span>.",
+			"atb2": "Visām tautām – Viņa brīnišķos darbus.*",
+			"atb3": "<span class ='neLieldienas'>Kunga godību.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
+			"magbenant": "“Es vēlos žēlsirdību, nevis upuri,” saka Kungs; “Es neesmu nācis aicināt taisnīgos, bet grēciniekus.”",
+			"lugumi": "Brāļi, mēs piederam Baznīcai, kas ir celta uz apustuļu pamata. Lūgsim Visvareno Tēvu par Viņa svēto tautu, sacīdami:",
+			"resplugums": "- Kungs, atceries savu Baznīcu!",
+			"lugums": {
+				"lugums1": "Tēvs, Tu gribēji, lai Tavs Dēls pēc augšāmcelšanās no mirušajiem vispirms parādītos apustuļiem, ļauj arī mums būt Viņa augšāmcelšanās lieciniekiem visā pasaulē.",
+				"lugums2": "Tu sūtīji savu Dēlu pasaulē iepriecināt nabagos, dari, lai Evaņģēlijs tiktu sludināts visai radībai.",
+				"lugums3": "Tu sūtīji savu Dēlu sēt Vārda sēklu, dari, lai mēs, sējot Vārdu ar grūtībām, pļautu ražu ar gavilēm.",
+				"lugums4": "Tu savu Dēlu esi sūtījis, lai ar Viņa asinīm samierinātu pasauli ar sevi, liec, lai mēs visi līdzdarbotos šajā samierināšanās darbā.",
+				"lugums5": "Tu nosēdināji savu Dēlu Debesīs pie savas labās rokas, uzņem mirušos svētlaimības valstībā."
+			},
+			"lugsimies": " " + noslegums1
+		}
+	},
+	29 : { // Erceņģeļi Miķelis, Gabriēls, Rafaēls
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
 				"ievdant": "Nāciet, pielūgsim Kungu, eņģeļu priekšā!",
@@ -8673,8 +6999,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": " " + noslegums1
 			}
 		}
-	},
-	10 : {
+	};
+festum[10]={
 		2 : { // Sv. Sargeņģeļi
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -8911,7 +7237,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 					"lugums2": "Mūsu Atpestītāj, Tu Jaunavas Marijas miesas padarīji par visšķīstāko svētnīcu Tev un Svētajam Garam, dari mūs par pastāvīgu Tava Gara templi.",
 					"lugums3": "Mūžīgais Vārds, Tu savai Mātei mācīji izvēlēties labāko daļu, palīdzi mums viņu atdarināt, meklējot barību, kas sniedz mūžīgo dzīvi.",
 					"lugums4": "Ķēniņu Ķēniņ, Tu gribēji, lai Tava Māte tiktu uzņemta ar miesu un dvēseli Debesīs un būtu kopā ar Tevi, liec arī mūsu domām vienmēr tiekties augšup.",
-					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
+					"lugums5": "Debesu un zemes Valdniek, Tu nostādīji Karalieni Mariju pie Tavas labās rokas, palīdzi mums kļūt par viņas godības līdzdalībniekiem."
 				},
 				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu Vissvētāko Jaunavu Mariju, kura savā miesā nesa Tavu Dēlu Jēzu Kristu, pamudināji apmeklēt svēto Elizabeti, māci mūs, lai, Svētā Gara iedvesmoti, mēs kopā ar Jēzus Māti Tevi no sirds slavētu. Mēs tevi lūdzam mūsu Kunga Jēzus Kristus, tava Dēla, vārdā."
 			},
@@ -9011,7 +7337,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"atb3": "<span class ='neLieldienas'>Un mana slava.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
 				"magbenant": "Es meklēju To, kas ir nomiris par mums; es ilgojos pēc Tā, kas ir augšāmcēlies mūsu dēļ.",
 				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
+				"resplugums": "- Tu mūs izpirki Dievam ar savām asinīm!",
 				"lugums": {
 					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
 					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
@@ -9119,8 +7445,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Stiprini savu Baznīcu ticībā un mīlestībā!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu caur svētiem un izvēlētiem mācītajiem, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis."
 				},
 				"lugsimies": ". " + noslegums1
@@ -9307,8 +7633,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": " " + noslegums1
 			}
 		},
-	},
-	11 : {
+	};
+festum[11]={
 		1 : { // Visi svētie
 			"vesperesI": {
 				"title": "<span id='N'>Sv. N.</span>, I Vesperes",
@@ -9662,7 +7988,7 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"ant2": "Priecīgi iesim uz Kunga namu!",
 				"ant3": "Slavējiet mūsu Dievu, jūs, visi Viņa svētie.",
 				"lasijumstitle": "LASĪJUMS Atkl 21, 2-3.22.27",
-				"lasijumstext": "Es redzēju svēto pilsētu – jauno Jeruzalemi, nokāpjam no debesīm, no Dieva, sagatavotu kā līgavu, kas izgreznojusies savam vīram. Un es dzirdēju skaļu balsi runājam no troņa: “Lūk, Dieva mājoklis pie cilvēkiem. Un Viņš dzīvos pie tiem, un tie būs Viņa tauta, un pats Dievs būs ar viņiem – viņu Dievs.” Un svētnīcu tajā es neredzēju, jo Kungs, visvarenais Dievs, un Jērs ir tās svētnīca. Un nekas aptraipīts tanī neieies: ne negantības darītājs, ne melis, bet tikai tie, kas ierakstīti Jēra dzīvības grāmatā.",
+				"lasijumstext": "Es redzēju svēto pilsētu – jauno Jeruzalemi, nokāpjam no debesīm, no Dieva, sagatavotu kā līgavu, kas izgreznojusies savam vīram. Un es dzirdēju skaļu balsi runājam no troņa: “Lūk, Dieva mājoklis pie cilvēkiem. Un Viņš dzīvos pie tiem, un tie būs Viņa tauta, un pats Dievs būs ar viņiem – viņu Dievs.” Un svētnīcu tajā es neredzēju, jo Kungs, visvarenais Dievs, un Jērs ir tās svētnīca. Un nekas aptraipīts tajā neieies: ne negantības darītājs, ne melis, bet tikai tie, kas ierakstīti Jēra dzīvības grāmatā.",
 				"atbilde": "responsorijs",
 				"atb1": "Svētīgi ir tie,* kas dzīvo Tavā namā, Kungs.",
 				"atb2": "Viņi mūžam Tevi slavēs.*",
@@ -9680,111 +8006,6 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": "Kungs Dievs, kas no dzīvajiem akmeņiem sev gatavo mūžīgo mājokli, vairo mūsu Baznīcā savi žēlastīvas garu, lai mēs visi kļūtu par Tavu jauno Svētnīcu debesīs. " + noslegums1
 			}
 		},
-/* 		10 : { // Sv. Leons Lielais, pāvests // no Doktori
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, gudrības Avotu.",
-				"himna": "himnaDoctorLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gudr 7, 13-14",
-				"lasijumstext": "Gudrību bez aprēķina mācījos, bez skaudības dalos, neslēpju no citiem tās bagātību, neizsīkstošu dārgumu krātuvi cilvēkiem. Kas, ar audzināšanā gūtajām dāvanām apveltīts, tajā smeļas, draudzību noslēdz ar Dievu.",
-				"atbilde": "responsorijs",
-				"atb1": "Par svēto gudrību<span class ='neLieldienas'>* stāsta tautas</span><span class='Lieldienas'>stāsta tautas.* Alleluja, alleluja.</span>.",
-				"atb2": "Un viņu slavu teic Baznīca.*",
-				"atb3": "<span class ='neLieldienas'>Stāsta tautas.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Svētais Pēteris, arvien paliekot spēcīgs kā klints, neatstās novārtā Baznīcās vadību, ko ir uzņēmies.", // sava
-				"lugumi": "Ar pateicību slavēsim Kristu, Labo Ganu, kurš ir atdevis dzīvību par savām avīm, un pazemīgi lūgsim, sakot:",
-				"resplugums": "- Kungs, gani savu tautu!",
-				"lugums": {
-					"lugums1": "Kristu, Tu gribēji atklāt savu žēlsirdīgo mīlestību ar savu svēto ganu starpniecību, nekad nepārstāj ar viņu starpniecību mums dāvāt savu žēlsirdību.",
-					"lugums2": "Ar savu garīdznieku starpniecību Tu turpini kalpot kā dvēseļu gans, vadi mūs vienmēr ar mūsu ganu palīdzību.",
-					"lugums3": "Ar savu svēto, kas ganīja Tavu tautu, starpniecību Tu kalpo kā mūsu miesas un dvēseles ārsts, nekad nepārtrauc mums dāvāt savu dzīvi un svētdarīt mūs.",
-					"lugums4": "Ar svēto ganu gudrību un mīlestību Tu audzināji savu ganāmpulku, palīdzi mums mūsu ganu vadībā pastāvīgi pieaugt svētumā."
-				},
-				"lugsimies": " " + noslegums1
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaDoctorVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Jk 3, 17-18",
-				"lasijumstext": "No augšienes nākusi gudrība, pirmām kārtām, ir tīra, tad miermīlīga, pieklājīga, paklausīga, pilna žēlsirdības un labu augļu, brīva no aizspriedumiem un bez liekulības. Bet taisnības augli sēj mierā tie, kas mieru veicina.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs atvēra viņa lūpas<span class ='neLieldienas'>* Baznīcas vidū.</span><span class='Lieldienas'> Baznīcas vidū.* Alleluja, alleluja.</span>",
-				"atb2": "Un viņu piepildīja ar gudrības un saprāta garu.*",
-				"atb3": "<span class ='neLieldienas'>Baznīcas vidū.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Visā Baznīcā Pēteris katru dienu apliecina: Tu esi Kristus, dzīvā Dieva Dēls.",
-				"lugumi": "Slavēsim Kristu, kurš tika iecelts par Augsto Priesteri cilvēku labā tajās lietās, kas attiecas uz Dievu, un pazemīgi lūgsim:",
-				"resplugums": "- Kungs, izglāb savu tautu!",
-				"lugums": {
-					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
-					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
-					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
-				},
-				"lugsimies": " " + noslegums1
-			}
-		}, */
 		11 : { //  Sv. Mārtiņš no Tūras // Gani
 			"laudes": {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -9882,224 +8103,14 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"resplugums": "- Kungs, izglāb savu tautu!",
 				"lugums": {
 					"lugums1": "Tu brīnumainā veidā esi apgaismojis savu Baznīcu ar svētu un izvēlētu vadītāju starpniecību, dari, lai kristieši vienmēr priecājas par šo Baznīcas spožumu.",
-					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani, līdzīgi kā Mozus, Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
-					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus Tavas tautas vadītājus.",
+					"lugums2": "Tu piedevi tautas grēkus, kad tās svētie gani līdzīgi kā Mozus Tevi lūdza, viņiem aizbilstot, turpini šķīstīt un svētdarīt savu Baznīcu.",
+					"lugums3": "Tu izvēlējies no ticīgo vidus svētos, lai viņi kalpotu brāļiem, un devi viņiem savu Garu, piepildi ar Svēto Garu visus savas tautas vadītājus.",
 					"lugums4": "Tu pats biji svēto ganu mūžīgais mantojums, neļauj nevienam no tiem, ko Tu esi ieguvis ar savām Asinīm, atkrist no Tevis.",
 					"lugums5": "Tu caur Baznīcas ganiem dāvā savām avīm mūžīgo dzīvi, neļauj, lai kāds tās izrautu no Tavas rokas, glāb mirušos, par kuriem esi atdevis savu dzīvību."
 				},
 				"lugsimies": "Visvarenais Dievs, kas esi mūs stiprinājis ar Vissvētāko Sakramentu, liec, lai mēs, sekojot <span id='G'>N.</span> piemēram, vienmēr godinātu Tevi un ar mīlestību kalpotu visiem cilvēkiem. " + noslegums1
 			}
 		},
-/* 		21 : { // Vissv. Jaunavas Marijas prezentācija templī
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kristu, Marijas Dēlu.",
-				"himna": "himnaMarijaLaudesA",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS sal. Is 61, 10",
-				"lasijumstext": "Es priecādamies priecāšos Kungā, un mana dvēsele gavilēs manā Dievā, jo Viņš mani ir ieģērbis atpestīšanas drēbēs, ar taisnības svārkiem mani ir apsedzis, kā līgavu, kas greznota ar savām rotām.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir izvēlējies* un izredzējis viņu.",
-				"atb2": "Viņai ir sagatavojis mājokli savā svētnīcā.*",
-				"atb3": "Un izredzējis viņu.",
-				"magbenant": "Svētīga tu esi, Marija, jo ieticēji, ka piepildīsies vārdi, ko Kungs tev bija sacījis, alleluja!",
-				"lugumi": "Godinot mūsu Pestītāju, kurš ir dzimis no Jaunavas Marijas, lūdzoties teiksim:",
-				"resplugums": "- Kungs, Tava Māte lai aizlūdz par mums!",
-				"lugums": {
-					"lugums1": "Jēzu, taisnības Saule, pirms Tavas atnākšanas bezvainīgā Jaunava Marija atmirdzēja kā spoža rītausma, palīdzi mums vienmēr dzīvot Tavas gaismas klātbūtnē.",
-					"lugums2": "Jēzu, mūžīgais Vārds, Tu esi izvēlējies Bezvainīgo Mariju par savu mājokli, pasargā mūs no grēka.",
-					"lugums3": "Mūsu Pestītāj, Tava Māte stāvēja pie krusta, ļauj mums, Viņai aizbilstot, priecīgi ņemt dalību Tavās ciešanās.",
-					"lugums4": "Vismīļais Jēzu, Tu pie krusta devi Mariju par Māti Jānim, palīdzi mums dzīvot Viņas bērnu cienīgu dzīvi."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>,<br>Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": " Caur Kristu, mūsu Kungu."
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMarijaVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS Gal 4, 4-5",
-				"lasijumstext": "Kad piepildījās laiks, Dievs sūtīja savu Dēlu, dzimušu no sievietes un pakļautu Likumam, lai izpirktu tos, kas bija zem Likuma varas, un mēs saņemtu tiesības kļūt par Viņa bērniem.",
-				"atbilde": "responsorijs",
-				"atb1": "Esi sveicināta, Marija, žēlastības pilnā,* Kungs ir ar Tevi.",
-				"atb2": "Tu esi svētīta starp sievietēm un svētīts ir Tavas miesas auglis.*",
-				"atb3": "Kungs ir ar Tevi.",
-				"magbenant": "Svētā Dieva dzemdētāja, Marija, mūžam jaunava, Kunga templis, Svētā Gara mājoklis, tu esi vienīgā no sievietēm, kura visvairāk patiki mūsu Kungam Jēzum Kristum.",
-				"lugumi": "Slavināsim visvareno Dievu Tēvu, kurš vēlējās, lai Marija, Viņa Dēla Māte, tiktu godināta visās paaudzēs, un pazemīgi lūgsim Viņu:",
-				"resplugums": "- Žēlastības pilnajai aizbilstot, uzklausi mūs!",
-				"lugums": {
-					"lugums1": "Dievs, brīnumu darītāj, Tu bezvainīgo Jaunavu Mariju ar miesu un dvēseli esi padarījis par Kristus Debesu godības līdzdalībnieci, iededz ilgas pēc šīs godības arī savu bērnu sirdīs.",
-					"lugums2": "Tu dāvāji Mariju mums par Māti – ar viņas aizbildnību dāvā dziedināšanu slimajiem, mierinājumu sērojošajiem, atgriešanās žēlastību grēciniekiem, kā arī labklājību un mieru visiem.",
-					"lugums3": "Tu Mariju darīji par žēlastības pilno, savā labvēlībā dāvā visiem Tavas žēlastības pārpilnību.",
-					"lugums4": "Lai Tava Baznīca ir vienota mīlestībā kā viena sirds un viena dvēsele, un Tavi ticīgie ir lūgšanā vienoti ar Mariju, Jēzus Māti.",
-					"lugums5": "Tu kronēji Mariju par Debesu Karalieni; dari, lai mirušie mūžīgi priecātos kopā ar svēto pulkiem Tavā valstībā."
-				},
-				"lugsimies": "Visvarenais, mūžīgais Dievs, Tu Vissvētāko Jaunavu Mariju, kura savā miesā nesa Tavu Dēlu Jēzu Kristu, pamudināji apmeklēt svēto Elizabeti, māci mūs, lai, Svētā Gara iedvesmoti, mēs kopā ar Jēzus Māti Tevi no sirds slavētu. " + noslegums1
-			}
-		}, */
-/*			22 : { // sv. Cecīlija , Vienam moceklim Piemiņas dienas jeb parastie psalmi
-			"laudes": {
-				"title": "<span id='N'>Sv. N.</span>, Laudes",
-				"ievdant": "Nāciet, pielūgsim Kungu, mocekļu Karali.",
-				"himna": "himnaMartyrLaudes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 2 Kor 1, 3-5",
-				"lasijumstext": "Lai slavēts ir Dievs un mūsu Kunga Jēzus Kristus Tēvs, žēlsirdības Tēvs un visa iepriecinājuma Dievs, kas mierina mūs visās mūsu bēdās, lai arī mēs paši varētu iepriecināt tos, kas cieš visādus spaidus, ar mierinājumu, ar ko mūs pašus mierina Dievs. Jo kā Kristus ciešanas pārpilnīgi mūs piemeklē, tāpat pārpilnībā nāk pār mums iepriecinājumi caur Kristu.",
-				"atbilde": "responsorijs",
-				"atb1": "Kungs ir mans spēks* un mana slava.",
-				"atb2": "Viņš ir mans glābējs.*",
-				"atb3": "Un mana slava.",
-				"magbenant": "Dienai austot, Cecīlija iesaucās: “Uz priekšu, Kristus kareivji, atmetiet tumsas darbus un ietērpieties gaismas bruņās.”",
-				"lugumi": "Brāļi, vienojoties ar mocekļiem, kas nogalināti Dieva vārda dēļ, slavināsim mūsu Pestītāju, uzticīgo liecinieku, saucot:",
-				"resplugums": "- Tu mūs atpirki Dievam ar savām asinīm!",
-				"lugums": {
-					"lugums1": "Ar Tavu mocekļu starpniecību, kas brīvprātīgi pieņēma nāvi, lai liecinātu par ticību, dod, Kungs, mums patiesu gara brīvību.",
-					"lugums2": "Ar Tavu mocekļu starpniecību, kas apliecināja ticību līdz pat asinsizliešanai, dod, Kungs, mums tīru un nelokāmu ticību.",
-					"lugums3": "Ar Tavu mocekļu starpniecību, kas, uzņemoties krustu, sekoja Tev, dod, Kungs, mums žēlastību, drosmīgi uzņemties ikdienas rūpes.",
-					"lugums4": "Ar Tavu mocekļu starpniecību, kas savas drānas mazgāja Jēra asinīs, dod, Kungs, mums žēlastību, uzveikt visas miesas un pasaules viltības."
-				},
-				"lugsimies": ""
-			},
-			"dienas" : {
-				"title": "<span id='N'>Sv. N.</span>, Dienas vidus",
-				"himna" : "",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "", // trešā
-				"ant2": "", // sestā
-				"ant3": "", // devītā
-				"stunda" : {
-					3 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					6 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					},
-					9 : {
-						"himna" : "",
-						"ant" : "",
-						"ps1": "",
-						"ps2": "",
-						"ps3": "",
-						"lasijumstitle": "",//"LASĪJUMS ",
-						"lasijumstext": "",
-						"atb1" : "",
-						"atb2" : "",
-						"lugsimies": ""
-					}
-				},
-				"lugsimies": ""
-			},
-			"vesperes": {
-				"title": "<span id='N'>Sv. N.</span>, Vesperes",
-				"himna": "himnaMartyrVesperes",
-				"ps1": "",
-				"ps2": "",
-				"ps3": "",
-				"ant1": "",
-				"ant2": "",
-				"ant3": "",
-				"lasijumstitle": "LASĪJUMS 1 Pēt 4, 13-14",
-				"lasijumstext": "Mīļie, priecājieties, piedaloties Kristus ciešanās, lai jūs varētu gavilēdami priecāties arī tad, kad atklāsies Viņa godība. Svētīgi jūs esat, ja jūs nonievā Kristus vārda dēļ, jo virs jums mīt godības un Dieva Gars.",
-				"atbilde": "responsorijs",
-				"atb1": "Dievs, Tu esi mūs pārbaudījis<span class ='neLieldienas'>* un izvedis mūs brīvībā.</span><span class='Lieldienas'> un izvedis mūs brīvībā.* Alleluja, alleluja.</span>",
-				"atb2": "Tu esi mūs pārbaudījis ar uguni kā pārbauda sudrabu.*",
-				"atb3": "<span class ='neLieldienas'>Un izvedis mūs brīvībā.</span><span class='Lieldienas'> Alleluja, alleluja.</span>",
-				"magbenant": "Jaunava Cecīlija vienmēr nesa Kristus Evaņģēliju savā sirdī; ne dienās, ne naktīs viņa nepārstāja lūgties un sarunāties ar Dievu.",
-				"lugumi": "Šai stundā, kad mocekļu Ķēniņš savu dzīvību upurēja vakariņās un atdeva uz krusta, pateiksimies Viņam, sakot:",
-				"resplugums": "- Tevi, Kungs, mēs slavējam!",
-				"lugums": {
-					"lugums1": "Tevi, Kungs, mēs slavējam, jo Tu, mūsu Pestītāj, ikviena mocekļa avots un paraugs, mūs mīlēji līdz galam.",
-					"lugums2": "Jo Tu visus grēciniekus, kas nožēlo savas vainas, aicināji uz dzīves izcilību.",
-					"lugums3": "Jo šodien mēs upurējam Jaunās un Mūžīgās Derības Asinis, kas izlietas grēku piedošanai.",
-					"lugums4": "Jo ar Tavas žēlastības palīdzību, mēs šai dienā turpinām pastāvēt ticībā.",
-					"lugums5": "Jo šodien Tu daudzus brāļus darīji par savas nāves sabiedrotajiem."
-				},
-				"lugsimies": ""
-			}
-		},*/
 		30 : { // SV. APUSTULIS ANDREJS 
 			"laudes" : {
 				"title": "<span id='N'>Sv. N.</span>, Laudes",
@@ -10205,8 +8216,8 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 				"lugsimies": " " + noslegums1
 			}
 		}	
-	},
-	12 : {
+	};
+festum[12]={
 		8 : { // V.J.Marijas ieņemšana & Marijas kopīgie MaterDei
 			"vesperesI": {
 				"title": "<span id='N'>Sv. N.</span>, I Vesperes",
@@ -10347,9 +8358,9 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 		},
 		28 : { // 28.dec. SV. NEVAINĪGIE BĒRNIŅI
 		}
-	},
-	
-	"Paraugs A" : {
+	}
+
+/* "Paraugs A" : {
 		"B" : {
 			"vesperesI": {
 				"title": "<span id='N'>Sv. N.</span>, I Vesperes",
@@ -10483,4 +8494,4 @@ var festum = { // fiksētu datumu – piemiņas dienas M-mēnesis : D-diena liel
 			}
 		}
 	} 
-}
+	 */

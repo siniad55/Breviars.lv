@@ -239,6 +239,11 @@ body {
 	font-size: calc(var(--font-unit) * 0.7);
 	text-transform: none;
 }
+span.note {
+    display: inline-block;
+    line-height: 1.1;
+}
+
 
 .reload {
 	font-size: calc(var(--font-unit) * 0.7);
@@ -252,7 +257,7 @@ body {
 }
 
 .psalms2 {
-  padding-left: calc(var(--font-unit) * 0.4);
+  padding-left: calc(var(--font-unit) * 0.6);
 }
 
 .super {

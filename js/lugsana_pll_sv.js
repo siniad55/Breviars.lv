@@ -10,17 +10,17 @@ var lugsana_pll_sv = {//  Parastā liturģiskā laika noslēguma lūgšana
 	"6" : "Dievs, Tu apsolīji palikt labās un krietnās dvēselēs, palīdzi ar savu žēlastību mums kļūt tādiem, ka Tev patiktu mūsos dzīvot." + lugsanasNoslegums,
 	"7" : "Visvarenais Dievs, māci mūs būt gudriem pēc Tava prāta un to, kas Tev patīkams, vienmēr izpildīt gan vārdos, gan darbos." + lugsanasNoslegums,
 	"8" : "Visvarenais Dievs, liec, lai pasaules likteņi Tavā vadībā mierīgi kārtotos un Tava Baznīca varētu Tev netraucēti un priecīgi kalpot." + lugsanasNoslegums,
-	"9" : "Dievs, kura apredzība nekad nav ļāvusi vilties tiem, kas paļaujas uz Tevi, mēs nākam pie Tevis savās vajadzībās, lai Tu, attālinot no mums ikkatru ļaunumu, vadītu mūsu soļus pa labiem ceļiem." + lugsanasNoslegums,
-	"10" : "Dievs, no kura nāk viss labais, dāvā mums savu Garu, lai mēs saprastu to, kas ir pareizs, un ar Tavu palīdzību to darītu." + lugsanasNoslegums,
+	"9" : "Dievs, Tava apredzība nekad nav ļāvusi vilties tiem, kas paļaujas uz Tevi, mēs nākam pie Tevis savās vajadzībās, lai Tu, attālinot no mums ikkatru ļaunumu, vadītu mūsu soļus pa labiem ceļiem." + lugsanasNoslegums,
+	"10" : "Dievs, no Tevis nāk viss labais, dāvā mums savu Garu, lai mēs saprastu to, kas ir pareizs, un ar Tavu palīdzību to darītu." + lugsanasNoslegums,
 	"11" : "Dievs, ticīgo stiprums un cerība, uzklausi žēlīgi mūsu lūgšanas un, tā kā bez Tevis neko nespējam, palīdzi mums ar savu žēlastību, lai mēs, pildot Tavus baušļus, būtu Tev patīkami savās domās un darbos." + lugsanasNoslegums,
 	"12" : "Kungs, māci mūs Tavu svēto Vārdu arvien bīties un to mīlēt, jo Tu nekad neatrauj savu gādību tiem, kurus esi nostiprinājis savā mīlestībā." + lugsanasNoslegums,
 	"13" : "Dievs, Tu kristībā mūs esi padarījis par gaismas bērniem, attālini no mums maldu tumsības un māci mūs vienmēr staigāt Tavas patiesības gaismā." + lugsanasNoslegums,
 	"14" : "Vislabais Dievs, caur Tava Dēla pazemošanos Tu esi pacēlis kritušo cilvēci, piepildi savus ticīgos ar svētu prieku un ļauj tiem, kas atbrīvoti no grēka verdzības, sasniegt mūžīgo svētlaimi." + lugsanasNoslegums,
 	"15" : "Dievs, Tu dāvā savu patiesības gaismu tiem, kas nomaldījušies, lai viņi spētu atgriezties uz pareizā ceļa; dod spēku kristiešiem atmest visu, kas neatbilst viņu vārdam, un tiekties pēc tā, kas dara tam godu." + lugsanasNoslegums,
-	"16" : "Kungs Dievs, esi žēlīgs saviem kalpiem un pavairo viņiem Tavas žēlastības dāvanas, lai būdami dedzīgi ticībā, cerībā un mīlestībā, viņi vienmēr pildītu Tavus baušļus." + lugsanasNoslegums,
-	"17" : "Kungs Dievs, Tu sargi savus uzticīgos ļaudis un bez kura nekas nav ne stiprs, ne svēts, palīdzi mums savā lielajā žēlsirdībā, lai, Tevis vadīti un mācīti, mēs tā izlietotu šīs pasaules pārejošos labumus, ka nepazaudētu mūžīgos." + lugsanasNoslegums,
+	"16" : "Kungs Dievs, esi žēlīgs saviem kalpiem un pavairo viņiem Tavas žēlastības dāvanas, lai, būdami dedzīgi ticībā, cerībā un mīlestībā, viņi vienmēr pildītu Tavus baušļus." + lugsanasNoslegums,
+	"17" : "Kungs Dievs, Tu sargā savus uzticīgos ļaudis un bez Tevis nekas nav ne stiprs, ne svēts, palīdzi mums savā lielajā žēlsirdībā, lai, Tevis vadīti un mācīti, mēs tā izlietotu šīs pasaules pārejošos labumus, ka nepazaudētu mūžīgos." + lugsanasNoslegums,
 	"18" : "Esi klāt, Kungs, saviem kalpiem, laipni uzklausot visus, kas Tevi lūdz, un mums, kas lepojamies ar Tevi, visa Radītāju un Valdnieku, dāvā savu žēlastību uz mūžiem." + lugsanasNoslegums,
-	"19" : "Visvarenais, mūžīgais Dievs, Tu esi mums ļāvis Tevi saukt par Tēvu, pieņemdams mūs par saviem bērniem, iedves mūsu sirdīs savu Garu, lai mēs būtu Tevis apsolītā mantojuma cienīgi." + lugsanasNoslegums,
+	"19" : "Visvarenais, mūžīgais Dievs, Tu ļāvi mums Tevi saukt par Tēvu, pieņemdams mūs par saviem bērniem, iedves mūsu sirdīs savu Garu, lai mēs būtu Tevis apsolītā mantojuma cienīgi." + lugsanasNoslegums,
 	"20" : "Vislabais Dievs, to, ko neviena acs nav redzējusi un auss nav dzirdējusi, Tu esi sagatavojis tiem, kas Tevi mīl, iededz mūsu sirdīs Tavas mīlestības liesmu, lai, Tevi mīlot visā un pāri visam, mūsos piepildītos Tavi apsolījumi, kas pārsniedz visas mūsu cerības." + lugsanasNoslegums,
 	"21" : "Dievs, Tu ticīgo sirdis dari vienprātīgas, māci savus ļaudis mīlēt to, ko pavēli, un ilgoties pēc tā, ko apsoli, lai šīs pasaules pārmaiņu vidū mūsu sirdis atrastu mieru Tevī, kas esi mūsu patiesā laime." + lugsanasNoslegums,
 	"22" : "Visvarenais Dievs, ikviena labuma avots, iededz mūsu sirdīs mīlestību uz Tavu vārdu un vairo mūsu ticību, lai mūsos viss labais tiktu uzturēts un ar Tavu gādību nosargāts." + lugsanasNoslegums,
@@ -136,14 +136,14 @@ var antifona_pll_sv = {
 			vesperes	: "Kas mani atzīs cilvēku priekšā, to Es atzīšu sava Tēva priekšā, kas ir Debesīs."
 		},
 		13 : {
-			vesperesI	: "“Kas neņem savu krustu un neseko Man, tas nav Manis cienīgs,” saka Kungs.",
-			laudes	: "Kas jūs uzņem, tas uzņem Mani; un kas uzņem Mani, tas uzņem To, kas Mani sūtījis.",
+			vesperesI	: "“Kas neņem savu krustu un neseko man, tas nav manis cienīgs,” saka Kungs.",
+			laudes	: "Kas jūs uzņem, tas uzņem mani; un kas uzņem mani, tas uzņem To, kas mani sūtījis.",
 			vesperes	: "Kas pasniegs kausu auksta ūdens padzerties vienam no šiem mazajiem, tādēļ ka viņš ir māceklis, patiesi es jums saku: viņš savu algu nezaudēs."
 		},
 		14 : {
-			vesperesI	: "Tēvs, debesu un zemes Kungs, Es tevi slavēju, ka Tu esi to apslēpis gudrajiem un prātīgajiem, bet atklājis to mazajiem.",
+			vesperesI	: "Tēvs, debesu un zemes Kungs, Es Tevi slavēju, ka Tu esi to apslēpis gudrajiem un prātīgajiem, bet atklājis to mazajiem.",
 			laudes	: "Ņemiet Manu jūgu uz sevis un mācieties no Manis, jo Es esmu lēnprātīgs un pazemīgu sirdi, un jūs atradīsiet mieru savām dvēselēm.",
-			vesperes	: "“Mans jūgs ir maigs un Mana nasta ir viegla,” saka Kungs."
+			vesperes	: "“Mans jūgs ir maigs un mana nasta ir viegla,” saka Kungs."
 		},
 		15 : {
 			vesperesI	: "Jēzus runāja ļaudīm līdzībās, sacīdams: “Lūk, sējējs izgāja sēt savu sēklu.”",
@@ -161,7 +161,7 @@ var antifona_pll_sv = {
 			vesperes	: "Ikviens Rakstu zinātājs, kas mācīts Debesu valstībai, pielīdzināms namatēvam, kas no saviem krājumiem izņem jauno un veco."
 		},
 		18 : {
-			vesperesI	: "Kad liels ļaužu pulks bija kopā ar Jēzu un tiem nebija ko ēst, Viņš, saaicinājis mācekļus, sacīja viņiem: Man žēl šo ļaužu.",
+			vesperesI	: "Kad liels ļaužu pulks bija kopā ar Jēzu un tiem nebija ko ēst, Viņš, saaicinājis mācekļus, sacīja viņiem: “Man žēl šo ļaužu.”",
 			laudes	: "Ar piecām maizēm un divām zivīm Kungs pabaroja piecus tūkstošus vīriešu.",
 			vesperes	: "Visi ēda un paēda un pielasīja ar atlikušajām drupatām divpadsmit pilnus grozus."
 		},
@@ -202,8 +202,8 @@ var antifona_pll_sv = {
 		},
 		26 : {
 			vesperesI	: "“Ja bezdievīgais novērsīsies no savas bezdievības un rīkosies pēc tiesas un taisnības, tad viņš saglabās savu dvēseli dzīvu,” saka Kungs.",
-			laudes	: "Patiesi es jums saku: Muitnieki un netikles pirms jums ieiet Dieva valstībā, jo viņi ieticēja.",
-			vesperes	: "Ne katrs, kas Man saka: “Kungs, Kungs,” ieies debesu valstībā, bet gan tas, kas pilda mana Tēva gribu, kurš ir debesīs, tas patiesi ieies debesu valstībā."
+			laudes	: "Patiesi Es jums saku: muitnieki un netikles pirms jums ieiet Dieva valstībā, jo viņi ieticēja.",
+			vesperes	: "Ne katrs, kas man saka: “Kungs, Kungs,” ieies debesu valstībā, bet gan tas, kas pilda mana Tēva gribu, kurš ir debesīs, tas patiesi ieies debesu valstībā."
 		},
 		27 : {
 			vesperesI	: "Kad tuvojās ražas laiks, vīnadārza saimnieks sūtīja pie vīnkopjiem savus kalpus, lai saņemtu tā augļus.",
@@ -212,11 +212,11 @@ var antifona_pll_sv = {
 		},
 		28 : {
 			vesperesI	: "Debesu valstība pielīdzināma cilvēkam, ķēniņam, kas savam dēlam sarīkoja kāzas, un viņš izsūtīja savus kalpus aicināt ielūgtos kāzās.",
-			laudes	: "Sakiet ielūgtajiem: Lūk, es esmu sagatavojis savu mielastu; nāciet kāzās!",
+			laudes	: "Sakiet ielūgtajiem: “Lūk, es esmu sagatavojis savu mielastu; nāciet kāzās!”",
 			vesperes	: "Kāzas gan ir sarīkotas, bet aicinātie nebija cienīgi; tāpēc ejiet uz ceļu krustojumiem un aiciniet kāzās visus, ko sastapsiet."
 		},
 		29 : {
-			vesperesI	: "Mācītāj, mēs zinām, ka tu esi patiess un Dieva ceļu māci patiesībā.",
+			vesperesI	: "Mācītāj, mēs zinām, ka Tu esi patiess un Dieva ceļu māci patiesībā.",
 			laudes	: "Lai no saules lēkta līdz tās rietam būtu zināms, ka bez manis nav neviena. Es esmu Kungs, un cita nav.",
 			vesperes	: "Atdodiet ķeizaram to, kas ir ķeizara, un Dievam to, kas ir Dieva."
 		},

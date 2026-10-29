@@ -465,7 +465,7 @@ var gavenis = {// “”   ,” – saka Kungs, “  antifona_gav_sv = { // 1., 
 					3: {
 						"himna": "himnaGavenisDienas3",
 						"lasijumstitle": "LASĪJUMS 1 Tes 4, 1.7",
-						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tanī, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tanī jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
+						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tajā, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tajā jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
 						"atb1": "Dievs, radi manī skaidru sirdi!",
 						"atb2": "Un atjauno manī stingru garu!",
 						"lugsimies": ""
@@ -1118,7 +1118,7 @@ var gavenis = {// “”   ,” – saka Kungs, “  antifona_gav_sv = { // 1., 
 					3: {
 						"himna": "himnaGavenisDienas3",
 						"lasijumstitle": "LASĪJUMS 1 Tes 4, 1.7",
-						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tanī, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tanī jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
+						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tajā, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tajā jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
 						"atb1": "Dievs, radi manī skaidru sirdi!",
 						"atb2": "Un atjauno manī stingru garu!",
 					},
@@ -1768,7 +1768,7 @@ var gavenis = {// “”   ,” – saka Kungs, “  antifona_gav_sv = { // 1., 
 					3: {
 						"himna": "himnaGavenisDienas3",
 						"lasijumstitle": "LASĪJUMS 1 Tes 4, 1.7",
-						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tanī, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tanī jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
+						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tajā, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tajā jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
 						"atb1": "Dievs, radi manī skaidru sirdi!",
 						"atb2": "Un atjauno manī stingru garu!",
 						"lugsimies": ""
@@ -2423,7 +2423,7 @@ var gavenis = {// “”   ,” – saka Kungs, “  antifona_gav_sv = { // 1., 
 					3: {
 						"himna": "himnaGavenisDienas3",
 						"lasijumstitle": "LASĪJUMS 1 Tes 4, 1.7",
-						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tanī, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tanī jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
+						"lasijumstext": "Mēs jūs lūdzam, brāļi, un zvērinām Kungā Jēzū, lai tajā, ko esat no mums dzirdējuši, kādā veidā jums pienākas dzīvot un būt patīkamiem Dievam, un kā jūs jau dzīvojat – lai tajā jūs kļūtu arvien pilnīgāki. Jo Dievs mūs aicināja nevis nešķīstībai, bet gan svēttapšanai.",
 						"atb1": "Dievs, radi manī skaidru sirdi!",
 						"atb2": "Un atjauno manī stingru garu!",
 						"lugsimies": ""

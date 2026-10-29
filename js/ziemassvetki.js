@@ -652,7 +652,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 				"ant2": "Žēlsirdība ir pie Kunga, pie Viņa ir pestīšanas pārpilnība.",
 				"ant3": "Iesākumā un pirms visiem mūžiem Dievs bija Vārds; šodien Viņš ir dzimis, pasaules Pestītājs.",
 				"lasijumstitle": "LASĪJUMS sal. 2 Pēt 1, 3-4",
-				"lasijumstext": "Kristus mums savā dievišķajā varenībā ir dāvājis visu vajadzīgo dzīvei un dievbijībai caur tā pazīšanu, kas mūs aicināja ar savu godu un spēku, ar kuriem mums tika doti dārgi un ļoti lieli apsolījumi, lai jūs, pateicoties tiem, kļūtu dievišķās dabas līdzdalībnieki, izbēgot no kārību dēļ pasaulē esošās samaitātības.",
+				"lasijumstext": "Kristus mums savā dievišķajā varenībā ir dāvājis visu vajadzīgo dzīvei un dievbijībai caur Viņa pazīšanu, Viņa, kas mūs aicināja ar savu godību un spēku, ar kuriem mums tika doti dārgi un ļoti lieli apsolījumi, lai jūs, ar to palīdzību, kļūtu dievišķās dabas līdzdalībnieki, izbēgot no kārību dēļ pasaulē esošās samaitātības.",
 				"atbilde": "responsorijs",
 				"atb1": "Vārds ir tapis miesa,* alleluja, alleluja.",
 				"atb2": "Un dzīvojis starp mums.*",
@@ -691,7 +691,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 				"lugumi": "Ar pazemīgu paļāvību lūgsim Kungu Kristu, kura žēlastība ir atklājusies visiem cilvēkiem:",
 				"resplugums": "- Kungs, apžēlojies par mums!",
 				"lugums": {
-					"lugums1": "Kristu, no Tēva dzemdināts pirms visiem laikiem, Viņa godības spožums, Viņa būtības attēls, kas ar savu vārdu uzturi visumu, mēs Tevi lūdzam, dzīvini šo dienu ar savu Evaņģēliju.",
+					"lugums1": "Kristu, pirms visiem mūžiem no Tēva dzemdināts, Viņa godības spožums, Viņa būtības attēls, kas ar savu vārdu uzturi visumu, mēs Tevi lūdzam, dzīvini šo dienu ar savu Evaņģēliju.",
 					"lugums2": "Kristu, piepildoties laikam, Tu piedzimi šai pasaulē, lai atpestītu cilvēku dzimumu un atbrīvotu visu radību, mēs Tevi lūdzam, dāvā visiem brīvību.",
 					"lugums3": "Kristu, Dēls, kas vienbūtīgs ar Tēvu, dzemdināts pirms rīta zvaigznes, Tu piedzimi Betlēmē, lai piepildītos Raksti, mēs Tevi lūdzam, lai atmirdz nabadzība Tavā Baznīcā.",
 					"lugums4": "Kristu, Dievs un cilvēks, piepildot pravietojumus, Tu esi Dāvida Kungs un viņa dēls, mēs Tevi lūdzam, lai Izraēlis atpazīst Tevī Mesiju."
@@ -927,8 +927,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums3": "Kristu, Tev piedzimstot, eņģeļi dziedāja par godu augstumos un mieru virs zemes, mēs Tevi lūdzam, lai Tavs miers izplatītos visā pasaulē.",
 					"lugums4": "Kristu, jaunais Ādam, Tu atjaunoji cilvēka sākotnējo stāvokli un sagatavoji mums vietu savā valstībā, mēs Tevi lūdzam, lai ļaunuma nomāktos stiprinātu Tava cerība."
 				},
-				"lugsimies": "Dievs, mūsu Tēvs, kas esi pagodinājis savu Baznīcu ar svētā Bazīlija un Gregora dzīves piemēru un mācību, māci mums pazemībā pieņemt Tavu patiesības vārdu un uzticīgi tam sekot savos darbos. " + noslegums1,
-				"lugsimies1": "Kungs, mēs lūdzam, dāvā saviem ļaudīm stipru ticību, lai, apliecinot Tavu Viendzimušo Dēlu, kas patiesi ir dzimis mūsu miesā no Jaunavas Mātes, palikdams ar Tevi kopā Tavā mūžīgajā godībā, mēs tiktu pasargāti no šīs zemes nelaimēm, bet mūžībā varētu baudīt svētlaimi. " + noslegums1,
+				"lugsimies": pd.dienas[1].lugsana
 			},
 			"dienas": {
 				"title": "Sv. Bazīlijs un Gregors, Dienas vidus",
@@ -968,8 +967,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"lugsimies": ""
 					}
 				},
-				//"lugsimies1": "Dievs, mūsu Tēvs, kas esi pagodinājis savu Baznīcu ar svētā Bazīlija un Gregora dzīves piemēru un mācību, māci mums pazemībā pieņemt Tavu patiesības vārdu un uzticīgi tam sekot savos darbos. " + noslegums1,
-				"lugsimies": "Kungs, mēs lūdzam, dāvā saviem ļaudīm stipru ticību, lai, apliecinot Tavu Viendzimušo Dēlu, kas patiesi ir dzimis mūsu miesā no Jaunavas Mātes, palikdams ar Tevi kopā Tavā mūžīgajā godībā, mēs tiktu pasargāti no šīs zemes nelaimēm, bet mūžībā varētu baudīt svētlaimi. " + noslegums1
+				"lugsimies": pd.dienas[1].lugsana
 			},
 			"vesperes": {
 				"title": "Sv. Bazīlijs un Gregors, Vesperes", //Sv. Bazīlijs Lielais un sv. Gregors no Naziansas, bīskapi un Baznīcas doktori, piemiņas diena
@@ -997,8 +995,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums4": "Par kristiešiem, kas cieš vajāšanas, lai viņi pacietīgi panestu netaisnības Pestītāja vārda dēļ.",
 					"lugums5": "Par mūsu brāļiem, kas cilvēku vainas dēļ ir nomiruši, lai ar Tavas žēlsirdības palīdzību viņi iegūst mūžīgo dzīvi."
 				},
-				"lugsimies": "Dievs, mūsu Tēvs, kas esi pagodinājis savu Baznīcu ar svētā Bazīlija un Gregora dzīves piemēru un mācību, māci mums pazemībā pieņemt Tavu patiesības vārdu un uzticīgi tam sekot savos darbos. " + noslegums1,
-				//"lugsimies1": "Dāvā, Kungs, saviem ļaudīm stipru ticību, pasargā viņus no nelaimēm un ļauj mūžam priecāties Tevī visiem, kas godina Tavu Viendzimušo Dēlu – mūžīgu debesu godībā un patiesi miesā dzimušu no Jaunavas Marijas. " + noslegums1
+				"lugsimies": pd.dienas[1].lugsana
 			}
 		},
 		3: {
@@ -1109,7 +1106,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 				"ant2": "",
 				"ant3": "",
 				"lasijumstitle": "LASĪJUMS Is 45, 22-23",
-				"lasijumstext": "Atgriezieties pie manis, un jūs būsiet glābti, jūs visas zemes malas, jo es esmu Dievs un cita nav. Pats pie sevis es zvērēju, no manas mutes izgāja taisnība, vārds, kas atpakaļ vairs netiks ņemts: ka manā priekšā locīsies visi ceļi un zvērēs ikviena mēle.",
+				"lasijumstext": "Atgriezieties pie manis, un jūs būsiet glābti, jūs visas zemes malas, jo es esmu Dievs un cita nav. Pats pie sevis es zvērēju, mana mute ir runājusi taisnību, un teiktais piepildīsies: jo manā priekšā ikviens metīsies uz ceļiem un man zvērēs ikviena mēle.",
 				"atbilde": "responsorijs",
 				"atb1": "Kungs ir darījis zināmu,* alleluja, alleluja.",
 				"atb2": "Savu pestīšanu,*",
@@ -1538,7 +1535,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Is 12, 5-6",
 						"lasijumstext": "Dziediet Kungam slavas dziesmas, jo Viņš ir darījis varenus darbus, lai tas top zināms pa visām zemēm! Gavilējiet un līksmojiet, jūs, Sionas iedzīvotāji, jo liels ir jūsu vidū Izraēļa Svētais!",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -1564,7 +1561,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 				"ant2": "",
 				"ant3": "",
 				"lasijumstitle": "LASĪJUMS sal. 2 Pēt 1, 3-4",
-				"lasijumstext": "Kristus mums savā dievišķajā varenībā ir dāvājis visu vajadzīgo dzīvei un dievbijībai caur Viņa pazīšanu, kas mūs aicināja ar savu godu un spēku, ar kuriem mums tika doti dārgi un ļoti lieli apsolījumi, lai jūs, pateicoties tiem, kļūtu dievišķās dabas līdzdalībnieki, izbēgot no kārību dēļ pasaulē esošās samaitātības.",
+				"lasijumstext": "Kristus mums savā dievišķajā varenībā ir dāvājis visu vajadzīgo dzīvei un dievbijībai caur Viņa pazīšanu, Viņa, kas mūs aicināja ar savu godību un spēku, ar kuriem mums tika doti dārgi un ļoti lieli apsolījumi, lai jūs, ar to palīdzību, kļūtu dievišķās dabas līdzdalībnieki, izbēgot no kārību dēļ pasaulē esošās samaitātības.",
 				"atbilde": "responsorijs",
 				"atb1": "Viņā tiks svētītas* visas zemes ciltis.",
 				"atb2": "Viņu slavinās visas tautas.*",
@@ -1634,7 +1631,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Is 48, 20b",
 						"lasijumstext": "Ar priecīgu balsi pasludiniet to un dariet zināmu! Lai šī vēsts aiziet līdz zemes galiem! Sludiniet: “Kungs ir izglābis savu kalpu Jēkabu!”",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -1730,7 +1727,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Atkl 21, 23-24",
 						"lasijumstext": "Pilsētai nav vajadzīga nedz saule, nedz mēness, lai dotu tai gaismu, jo to ir apgaismojis Dieva spožums, un tās spīdeklis ir Jērs. Un tautas staigās tās gaismā, un zemes ķēniņi nesīs tajā savu godību.",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -1801,7 +1798,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums4": "Kopā ar visiem svētajiem Kristus mocekļiem, mēs atdodam Tev mūsu miesas kā svētu upuri.",
 					"lugums5": "Kopā ar visiem svētajiem Baznīcas lieciniekiem, mēs dievbijīgi veltām Tev mūsu dzīvi."
 				},
-				"lugsimies": "Dievs, Tu caur savu Viendzimušo Dēlu dāvā visām tautām savu mūžīgo gaismu, ļauj saviem ticīgajiem pilnā mērā iemantot Viņa žēlastības, ka viņi spētu nonākt mūžīgās gaismas valstībā. " + noslegums1
+				"lugsimies": "Dievs, Tu caur savu Dēlu visām tautām esi iededzis savas mūžības gaismu, dari, ka Tavi ticīgie visā pilnībā iepazītu sava Atpestītāja patiesības spožumu, lai caur Viņa paaugstināšanu nonāktu mūžīgajā godībā. Caur mūsu Kungu Jēzu Kristu, Tavu Dēlu, kas ar Tevi dzīvo un valda Světā Gara vienībā, Dievs visos mūžu mūžos. " + noslegums1
 			},
 			"dienas": {
 				"title": "10. janvāris, Dienas vidus",
@@ -1827,7 +1824,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Is 9, 1",
 						"lasijumstext": "Tauta, kas staigāja tumsībās, ieraudzīja lielu gaismu; tiem, kas mīt nāves ēnas valstībā, uzausa gaisma.",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -1841,7 +1838,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Dievs, Tu caur savu Viendzimušo Dēlu dāvā visām tautām savu mūžīgo gaismu, ļauj saviem ticīgajiem pilnā mērā iemantot Viņa žēlastības, ka viņi spētu nonākt mūžīgās gaismas valstībā. " + noslegums1
+				"lugsimies": "Dievs, Tu caur savu Dēlu visām tautām esi iededzis savas mūžības gaismu, dari, ka Tavi ticīgie visā pilnībā iepazītu sava Atpestītāja patiesības spožumu, lai caur Viņa paaugstināšanu nonāktu mūžīgajā godībā. " + noslegums1
 			},
 			"vesperes": {
 				"title": "10. janvāris, vesperes",
@@ -1868,7 +1865,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums4": "Šķīstī vienmēr ticīgo sirdis, lai viņi arvien skaidrāk spētu saskatīt Tevi.",
 					"lugums5": "Atklāj savu žēlsirdību mirušajiem, ietērp viņus Tavu izvēlēto godībā."
 				},
-				"lugsimies": "Dievs, Tu caur savu Viendzimušo Dēlu dāvā visām tautām savu mūžīgo gaismu, ļauj saviem ticīgajiem pilnā mērā iemantot Viņa žēlastības, ka viņi spētu nonākt mūžīgās gaismas valstībā. " + noslegums1
+				"lugsimies": "Dievs, Tu caur savu Dēlu visām tautām esi iededzis savas mūžības gaismu, dari, ka Tavi ticīgie visā pilnībā iepazītu sava Atpestītāja patiesības spožumu, lai caur Viņa paaugstināšanu nonāktu mūžīgajā godībā. " + noslegums1
 			}
 		},
 		5: { // 11. vai Piektdiena pēc 6.jan
@@ -1883,7 +1880,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 				"ant2": "",
 				"ant3": "",
 				"lasijumstitle": "LASĪJUMS Is 45, 22-23",
-				"lasijumstext": "Atgriezieties pie manis, un jūs būsiet glābti, jūs visas zemes malas, jo es esmu Dievs un cita nav. Pats pie sevis es zvērēju, no manas mutes izgāja taisnība, vārds, kas atpakaļ vairs netiks ņemts: ka manā priekšā locīsies visi ceļi un zvērēs ikviena mēle.",
+				"lasijumstext": "Atgriezieties pie manis, un jūs būsiet glābti, jūs visas zemes malas, jo es esmu Dievs un cita nav. Pats pie sevis es zvērēju, mana mute ir runājusi taisnību, un teiktais piepildīsies: jo manā priekšā ikviens metīsies uz ceļiem un man zvērēs ikviena mēle.",
 				"atbilde": "responsorijs",
 				"atb1": "Viņu pielūgs* visi zemes ķēniņi.",
 				"atb2": "Viņam kalpos visas tautas.*",
@@ -1897,7 +1894,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums3": "Mūsu Atpestītāj, kas nonāci uz zemi kā lietus pār vilnu, slacini mūsu dvēseles ar dzīvo ūdeni, kas mutuļo mūžīgajai dzīvei.",
 					"lugums4": "Sniedz mums, kas svinam Tavas zemes dzīves iesākumu, žēlastību tiekties pēc pilnības, kas atbilst Tava laiku piepildījuma mēram."
 				},
-				"lugsimies": "Visvarenais Dievs, lai mēs arvien vairāk pazītu un iemīlētu pasaules Pestītāju, kura dzimšanu austrumu Gudrajiem atklāja brīnišķā zvaigzne. " + noslegums1
+				"lugsimies": "Visvarenais Dievs, Tevi lūdzam, lai zvaigznes vēstītais pasaules Pestītāja piedzimšanas noslēpums aizvien atklājas mūsu dvēselēs un tās piepilda. " + noslegums1
 			},
 			"dienas": {
 				"title": "11. janvāris, Dienas vidus",
@@ -1923,7 +1920,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Jer 31, 11-12a",
 						"lasijumstext": "Kungs ir izpircis Jēkabu un viņu atbrīvojis no tā rokas, kas bija stiprāks par viņu. Un viņi nāks un gavilēs Sionas kalnā un steigsies pie Kunga dāvanām.",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -1937,7 +1934,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Visvarenais Dievs, lai mēs arvien vairāk pazītu un iemīlētu pasaules Pestītāju, kura dzimšanu austrumu Gudrajiem atklāja brīnišķā zvaigzne. " + noslegums1
+				"lugsimies": "Visvarenais Dievs, Tevi lūdzam, lai zvaigznes vēstītais pasaules Pestītāja piedzimšanas noslēpums aizvien atklājas mūsu dvēselēs un tās piepilda. " + noslegums1
 			},
 			"vesperes": {
 				"title": "11. janvāris, vesperes",
@@ -1964,7 +1961,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums4": "Sūti strādniekus savā pļaujas laukā, lai nabagiem tiktu sniegta prieka vēsts un tiktu pasludināts žēlastības laiks.",
 					"lugums5": "Sniedz pilnīgu atpestīšanu mirušajiem, lai viņi priecātos par uzvaru, ko Tu sagatavoji caur savu Dēlu Kristu."
 				},
-				"lugsimies": "Visvarenais Dievs, lai mēs arvien vairāk pazītu un iemīlētu pasaules Pestītāju, kura dzimšanu austrumu Gudrajiem atklāja brīnišķā zvaigzne. " + noslegums1
+				"lugsimies": "Visvarenais Dievs, Tevi lūdzam, lai zvaigznes vēstītais pasaules Pestītāja piedzimšanas noslēpums aizvien atklājas mūsu dvēselēs un tās piepilda. " + noslegums1
 			}
 		},
 		6: { // 12. vai Sestdiena pēc 6.jan
@@ -1993,7 +1990,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 					"lugums3": "Dāvā mums žēlastību, lai mēs nomiruši sev, liecinātu citiem ar Tavu dzīvi mūsos.",
 					"lugums4": "Apskaidro mūsu sirdis, ar Dieva skaidrības pazīšanas spožumu."
 				},
-				"lugsimies": "Visvarenais mūžīgais Dievs, Tu caur sava Viendzimušo Dēlu esi mūs darījis par jaunu radību, ļauj mums ar Tavu žēlastību kļūt arvien līdzīgākiem Tavam Dēlam, kurā cilvēciskais ir apvienots ar dievišķo. " + noslegums2
+				"lugsimies": "Visvarenais, mūžīgais Dievs, caur savu viendzimušo Dēlu Tu esi mūs sev izveidojis par jaunu radību, dari, lai ar Tavu žēlastību kļūstam līdzdalīgi Tā dievišķībā, kurā mūsu cilvēciskā daba ir vienota ar Tevi. " + noslegums1
 			},
 			"dienas": {
 				"title": "12. janvāris, Dienas vidus",
@@ -2019,7 +2016,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"ant" : "Kad Kristus atnāca, Viņš sludināja mieru jums, kas bijāt tālu, un mieru tiem, kas bija tuvu.",
 						"lasijumstitle": "LASĪJUMS Ez 34, 11-12",
 						"lasijumstext": "Redzi, es pats uzmeklēšu savas avis un tās apraudzīšu. Tāpat kā gans aplūko savu ganāmpulku dienā, kad viņš atrodas savu izklīdināto avju vidū, tā es apraudzīšu savas avis un atbrīvošu tās no visām vietām, kur tās bija izklīdinātas tumšā un miglainā laikā.",
-						"atb1": "Tautas redzēs tavu taisnību.",
+						"atb1": "Tautas redzēs Tavu taisnību",
 						"atb2": "Un visi valdnieki – Tavu godību.",
 						"lugsimies": ""
 					},
@@ -2033,7 +2030,7 @@ var ziemassvetki = { // dienas vidus psalmi no PLL, ja nav speciāli norādīti
 						"lugsimies": ""
 					}
 				},
-				"lugsimies": "Visvarenais mūžīgais Dievs, Tu caur sava Viendzimušo Dēlu esi mūs darījis par jaunu radību, ļauj mums ar Tavu žēlastību kļūt arvien līdzīgākiem Tavam Dēlam, kurā cilvēciskais ir apvienots ar dievišķo. " + noslegums2
+				"lugsimies": "Visvarenais, mūžīgais Dievs, caur savu viendzimušo Dēlu Tu esi mūs sev izveidojis par jaunu radību, dari, lai ar Tavu žēlastību kļūstam līdzdalīgi Tā dievišķībā, kurā mūsu cilvēciskā daba ir vienota ar Tevi. " + noslegums1
 			},
 			"vesperes" : { // Vesperes I
 				"title": "Svētdienas I Vesperes (2.nedēļa)",

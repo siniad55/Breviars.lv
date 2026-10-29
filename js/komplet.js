@@ -94,7 +94,7 @@ var komplet = {
 		"atb2": "Kungs, uzticīgais Dievs, Tu esi mūs atpircis.*",
 		"atb3": "Es atvēlu savu garu.",
 		"magbenant": "Kungs, kad mēs esam nomodā, esi mūsu glābējs un mūsu sargs, kad mēs guļam, lai mēs esam nomodā līdz ar Kristu un atdusamies Viņa mierā.",
-		"lugsimies": "Kungs, Jēzu Kristu, jūgs, ko Tu, lēnprātīgs un pazemīgs, piedāvā tiem, kas Tev seko, ir maigs, un Tava nasta ir viegla. Pieņem savā žēlastībā visu, ko mēs šodien gribējām izdarīt un ko esam paveikuši, un dāvā mums miegu, kas mūs darītu dedzīgākus kalpošanā Tev. Tu, kas dzīvo un valdi mūžu mūžos.",
+		"lugsimies": "Kungs, Jēzu Kristu, jūgs, ko Tu, lēnprātīgs un pazemīgs, piedāvā tiem, kas Tev seko, ir maigs, un Tava nasta ir viegla. Pieņem savā žēlastībā visu, ko mēs šodien gribējām izdarīt un ko esam paveikuši, un dāvā mums miegu, kas mūs darītu dedzīgākus kalpošanā Tev, kas dzīvo un valdi mūžu mūžos.",
 		"lugsimies2": "",
 	},
 	4:{
